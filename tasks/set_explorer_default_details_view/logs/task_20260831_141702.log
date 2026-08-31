@@ -1,0 +1,20 @@
+[2026-08-31 14:17:02] [INFO] [Step 1/4] Reading configuration and backing up existing Shell Bags...
+[2026-08-31 14:17:03] [INFO] Created registry backup: F:\windows\tasks\set_explorer_default_details_view\backups\ShellBags_backup_20260831_141702.reg
+[2026-08-31 14:17:03] [INFO] [Step 2/4] Purging cached per-folder views and resetting Bags...
+[2026-08-31 14:17:04] [INFO] Purged stale BagMRU and Bags cache.
+[2026-08-31 14:17:04] [INFO] [Step 3/4] Injecting Details View defaults into Shell Bags for all FolderTypes...
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Generic / General Items ({5c4f28b5-f869-4e84-8e60-f11db97c5cc7})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Documents ({7d49d726-3c21-4f05-99aa-fdc2c9474656})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Pictures ({b3690e58-e961-423b-b687-386ebfd70014})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Music ({94d6f427-4614-4318-97c1-4e4b4835e39d})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Videos ({5fa29243-3220-4e42-9680-f23601e2b93d})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Downloads ({08877463-32FF-405B-B4A1-1E5032170770})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Generic Searches ({da274c00-7411-4541-949e-a616223297a7})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Document Searches ({36011877-2a70-4070-9037-337ee2196166})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Picture Searches ({4d3437c4-4ac3-4321-a6b3-2475024479e0})
+[2026-08-31 14:17:04] [INFO] Configured Details View for FolderType: Music Searches ({7160702c-fc0c-47c3-bb5a-195932599763})
+[2026-08-31 14:17:05] [INFO] Configured Details View for FolderType: Video Searches ({ea25fbd7-3bf7-409e-b97f-3352240903f4})
+[2026-08-31 14:17:05] [INFO] Configured Details View for FolderType: Users Folder ({24ccb8a6-c45a-477d-9370-33868c4dc7f0})
+[2026-08-31 14:17:05] [INFO] [Step 4/4] Restarting Windows Explorer process to apply global view...
+[2026-08-31 14:17:06] [INFO] Restarted explorer.exe cleanly.
+[2026-08-31 14:17:06] [INFO] Explorer view configuration complete. Report generated at: F:\windows\tasks\set_explorer_default_details_view\reports\report_20260831_141702.md

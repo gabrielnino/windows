@@ -1,0 +1,10 @@
+{
+  "task_name": "set_explorer_default_details_view",
+  "version": "1.0.0",
+  "view_mode": "Details",
+  "logical_view_mode": 1,
+  "mode": 4,
+  "apply_all_folder_types": true,
+  "clear_cached_bagmru": true,
+  "restart_explorer": true
+}

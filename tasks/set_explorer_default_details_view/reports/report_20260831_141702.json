@@ -1,0 +1,14 @@
+﻿{
+    "CachePurged":  true,
+    "LogicalViewMode":  1,
+    "DurationSeconds":  3.64,
+    "StartTime":  "2026-08-31 14:17:02",
+    "FolderTypesInjected":  12,
+    "TaskName":  "set_explorer_default_details_view",
+    "DryRun":  false,
+    "ExplorerRestarted":  true,
+    "ViewModeConfigured":  "Details",
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-31 14:17:06",
+    "Mode":  4
+}
