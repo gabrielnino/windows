@@ -1,0 +1,13 @@
+﻿{
+    "TargetInputTip":  "0409:0000080A",
+    "DurationSeconds":  61.35,
+    "EndTime":  "2026-08-31 10:43:15",
+    "SettingsSynchronized":  true,
+    "ActivePrimaryTip":  "0409:0000080A",
+    "TaskName":  "set_english_latin_america_keyboard",
+    "DryRun":  false,
+    "StartTime":  "2026-08-31 10:42:13",
+    "TargetLanguage":  "en-US",
+    "Status":  "SUCCESS",
+    "InputOverrideSet":  true
+}

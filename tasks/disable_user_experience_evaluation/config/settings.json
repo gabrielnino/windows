@@ -1,0 +1,17 @@
+{
+  "task_name": "disable_user_experience_evaluation",
+  "version": "1.0.0",
+  "ceip_tasks_to_disable": [
+    "Consolidator",
+    "UsbCeip",
+    "Microsoft Compatibility Appraiser Exp",
+    "DmClient",
+    "DmClientOnScenarioDownload",
+    "Sqm-Tasks"
+  ],
+  "disable_feedback_prompts": true,
+  "disable_tailored_experiences": true,
+  "disable_content_delivery_suggestions": true,
+  "disable_advertising_id": true,
+  "minimize_telemetry_level": true
+}

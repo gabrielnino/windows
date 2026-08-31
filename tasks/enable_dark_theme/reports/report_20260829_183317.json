@@ -1,0 +1,13 @@
+﻿{
+    "DurationSeconds":  2.28,
+    "PostSystemTheme":  "Dark",
+    "PreAppsTheme":  "Light",
+    "PreSystemTheme":  "Light",
+    "ExplorerRestarted":  true,
+    "TaskName":  "enable_dark_theme",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 18:33:17",
+    "PostAppsTheme":  "Dark",
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 18:33:20"
+}

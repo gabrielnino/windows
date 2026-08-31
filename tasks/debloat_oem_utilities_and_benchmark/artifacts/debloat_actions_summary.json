@@ -1,0 +1,19 @@
+﻿{
+    "StartTime":  "2026-08-29 18:51:43",
+    "DryRun":  false,
+    "IterationSummaries":  [
+
+                           ],
+    "AsusServicesDisabled":  5,
+    "UwpPackagesRemoved":  1,
+    "InitialFreeMemoryGB":  8.9,
+    "DurationSeconds":  0,
+    "Status":  "RUNNING",
+    "TelemetryServicesStopped":  7,
+    "NetMemoryReclaimedMB":  0,
+    "ScheduledTasksDisabled":  3,
+    "MaxCpuTempRecordedC":  0,
+    "CompletedIterations":  3,
+    "TaskName":  "debloat_oem_utilities_and_benchmark",
+    "FinalFreeMemoryGB":  0
+}

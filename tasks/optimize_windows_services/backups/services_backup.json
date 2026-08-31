@@ -1,0 +1,86 @@
+﻿[
+    {
+        "Name":  "SysMain",
+        "DisplayName":  "SysMain",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "DoSvc",
+        "DisplayName":  "Delivery Optimization",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "PcaSvc",
+        "DisplayName":  "Program Compatibility Assistant Service",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "WSAIFabricSvc",
+        "DisplayName":  "WSAIFabricSvc",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "whesvc",
+        "DisplayName":  "Windows Health and Optimized Experiences",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "lfsvc",
+        "DisplayName":  "Geolocation Service",
+        "State":  "Running",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "TrkWks",
+        "DisplayName":  "Distributed Link Tracking Client",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "Spooler",
+        "DisplayName":  "Print Spooler",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "DusmSvc",
+        "DisplayName":  "Data Usage",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "MapsBroker",
+        "DisplayName":  "Downloaded Maps Manager",
+        "State":  "Stopped",
+        "StartMode":  "Disabled"
+    },
+    {
+        "Name":  "RetailDemo",
+        "DisplayName":  "Retail Demo Service",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "RemoteRegistry",
+        "DisplayName":  "Remote Registry",
+        "State":  "Stopped",
+        "StartMode":  "Disabled"
+    },
+    {
+        "Name":  "DiagTrack",
+        "DisplayName":  "Connected User Experiences and Telemetry",
+        "State":  "Stopped",
+        "StartMode":  "Disabled"
+    },
+    {
+        "Name":  "dmwappushservice",
+        "DisplayName":  "Device Management Wireless Application Protocol (WAP) Push message Routing Service",
+        "State":  "Stopped",
+        "StartMode":  "Disabled"
+    }
+]

@@ -1,0 +1,360 @@
+﻿{
+    "StartTime":  "2026-08-29 20:17:37",
+    "SamplesCollected":  57,
+    "DryRun":  false,
+    "HighestGpuTempC":  0,
+    "EndTime":  "2026-08-29 20:22:42",
+    "AvgCpuTempC":  52,
+    "DurationSeconds":  305.15,
+    "Status":  "SUCCESS",
+    "ThermalReadings":  [
+                            {
+                                "SampleIndex":  1,
+                                "Timestamp":  "2026-08-29 20:17:41",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  2,
+                                "Timestamp":  "2026-08-29 20:17:47",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  3,
+                                "Timestamp":  "2026-08-29 20:17:52",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  4,
+                                "Timestamp":  "2026-08-29 20:17:58",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  5,
+                                "Timestamp":  "2026-08-29 20:18:03",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  6,
+                                "Timestamp":  "2026-08-29 20:18:08",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  7,
+                                "Timestamp":  "2026-08-29 20:18:14",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  8,
+                                "Timestamp":  "2026-08-29 20:18:19",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  9,
+                                "Timestamp":  "2026-08-29 20:18:24",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  10,
+                                "Timestamp":  "2026-08-29 20:18:30",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  11,
+                                "Timestamp":  "2026-08-29 20:18:35",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  12,
+                                "Timestamp":  "2026-08-29 20:18:41",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  13,
+                                "Timestamp":  "2026-08-29 20:18:46",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  14,
+                                "Timestamp":  "2026-08-29 20:18:51",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  15,
+                                "Timestamp":  "2026-08-29 20:18:57",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  16,
+                                "Timestamp":  "2026-08-29 20:19:02",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  17,
+                                "Timestamp":  "2026-08-29 20:19:07",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  18,
+                                "Timestamp":  "2026-08-29 20:19:13",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  19,
+                                "Timestamp":  "2026-08-29 20:19:18",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  20,
+                                "Timestamp":  "2026-08-29 20:19:23",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  21,
+                                "Timestamp":  "2026-08-29 20:19:29",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  22,
+                                "Timestamp":  "2026-08-29 20:19:34",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  23,
+                                "Timestamp":  "2026-08-29 20:19:39",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  24,
+                                "Timestamp":  "2026-08-29 20:19:45",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  25,
+                                "Timestamp":  "2026-08-29 20:19:50",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  26,
+                                "Timestamp":  "2026-08-29 20:19:55",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  27,
+                                "Timestamp":  "2026-08-29 20:20:01",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  28,
+                                "Timestamp":  "2026-08-29 20:20:06",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  29,
+                                "Timestamp":  "2026-08-29 20:20:11",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  30,
+                                "Timestamp":  "2026-08-29 20:20:17",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  31,
+                                "Timestamp":  "2026-08-29 20:20:22",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  32,
+                                "Timestamp":  "2026-08-29 20:20:28",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  33,
+                                "Timestamp":  "2026-08-29 20:20:33",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  34,
+                                "Timestamp":  "2026-08-29 20:20:38",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  35,
+                                "Timestamp":  "2026-08-29 20:20:44",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  36,
+                                "Timestamp":  "2026-08-29 20:20:49",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  37,
+                                "Timestamp":  "2026-08-29 20:20:54",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  38,
+                                "Timestamp":  "2026-08-29 20:21:00",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  39,
+                                "Timestamp":  "2026-08-29 20:21:05",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  40,
+                                "Timestamp":  "2026-08-29 20:21:10",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  41,
+                                "Timestamp":  "2026-08-29 20:21:16",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  42,
+                                "Timestamp":  "2026-08-29 20:21:21",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  43,
+                                "Timestamp":  "2026-08-29 20:21:26",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  44,
+                                "Timestamp":  "2026-08-29 20:21:32",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  45,
+                                "Timestamp":  "2026-08-29 20:21:37",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  46,
+                                "Timestamp":  "2026-08-29 20:21:43",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  47,
+                                "Timestamp":  "2026-08-29 20:21:48",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  48,
+                                "Timestamp":  "2026-08-29 20:21:53",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  49,
+                                "Timestamp":  "2026-08-29 20:21:59",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  50,
+                                "Timestamp":  "2026-08-29 20:22:04",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  51,
+                                "Timestamp":  "2026-08-29 20:22:09",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  52,
+                                "Timestamp":  "2026-08-29 20:22:15",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  53,
+                                "Timestamp":  "2026-08-29 20:22:20",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  54,
+                                "Timestamp":  "2026-08-29 20:22:25",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  55,
+                                "Timestamp":  "2026-08-29 20:22:31",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  56,
+                                "Timestamp":  "2026-08-29 20:22:36",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  57,
+                                "Timestamp":  "2026-08-29 20:22:41",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            }
+                        ],
+    "OverallThermalState":  "NORMAL",
+    "Mode":  "OBSERVATION_WATCH",
+    "LowestCpuTempC":  52,
+    "HighestCpuTempC":  52,
+    "TaskName":  "monitor_hardware_temperature",
+    "AlertsTriggeredCount":  0
+}

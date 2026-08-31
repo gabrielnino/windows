@@ -1,0 +1,9 @@
+{
+  "task_name": "disconnect_and_uninstall_onedrive",
+  "version": "1.0.0",
+  "terminate_processes": true,
+  "remove_startup_entry": true,
+  "uninstall_onedrive_app": true,
+  "hide_from_explorer_sidebar": true,
+  "apply_disable_filesync_policy": true
+}

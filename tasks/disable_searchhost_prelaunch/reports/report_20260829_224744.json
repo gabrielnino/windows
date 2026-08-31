@@ -1,0 +1,20 @@
+﻿{
+    "IfeoBlockApplied":  true,
+    "PostSearchHostCount":  0,
+    "DurationSeconds":  1.43,
+    "EndTime":  "2026-08-29 22:47:45",
+    "PrelaunchDisabled":  true,
+    "TaskName":  "disable_searchhost_prelaunch",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 22:47:44",
+    "SearchHighlightsDisabled":  true,
+    "Status":  "SUCCESS",
+    "ProcessesTerminated":  [
+                                "msedgewebview2 (PID: 4044)",
+                                "msedgewebview2 (PID: 12540)",
+                                "msedgewebview2 (PID: 15940)",
+                                "msedgewebview2 (PID: 6828)",
+                                "msedgewebview2 (PID: 13936)",
+                                "SearchHost (PID: 15464)"
+                            ]
+}

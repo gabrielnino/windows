@@ -1,0 +1,10 @@
+{
+  "task_name": "deep_third_party_software_audit",
+  "version": "1.0.0",
+  "scan_scopes": [
+    "InstalledWin32Programs",
+    "AppxUwpPackages",
+    "NonMicrosoftScheduledTasks",
+    "NonKernelServices"
+  ]
+}

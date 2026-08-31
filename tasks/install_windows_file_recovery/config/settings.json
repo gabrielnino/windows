@@ -1,0 +1,7 @@
+{
+  "task_name": "install_windows_file_recovery",
+  "version": "1.0.0",
+  "package_id": "9N26S50LN705",
+  "source": "msstore",
+  "binary_name": "winfr.exe"
+}

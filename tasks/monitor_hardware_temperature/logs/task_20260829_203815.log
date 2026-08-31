@@ -1,0 +1,13 @@
+[2026-08-29 20:38:15] [INFO] [Step 1/4] Initializing Hardware Temperature Monitor Harness...
+[2026-08-29 20:38:15] [INFO] Target Workspace Task Directory: F:\windows\tasks\monitor_hardware_temperature
+[2026-08-29 20:38:15] [INFO] Configured Thresholds -> CPU: [Warn: 75°C | Danger: 85°C | Crit: 95°C]
+[2026-08-29 20:38:15] [INFO] Configured Thresholds -> GPU: [Warn: 75°C | Danger: 83°C | Crit: 90°C]
+[2026-08-29 20:38:17] [INFO] Detected Processor: 12th Gen Intel(R) Core(TM) i7-12650H (Cores: 10, Threads: 16)
+[2026-08-29 20:38:17] [INFO] [Step 2/4] Testing sensor access and baseline readings...
+[2026-08-29 20:38:20] [INFO] Found CPU Sensor: ACPI\ThermalZone\THRM_0 -> 52 °C (Trip: 103 °C)
+[2026-08-29 20:38:20] [INFO] Found GPU Controller: Intel(R) UHD Graphics (Status: OK, Driver: 30.0.101.1298)
+[2026-08-29 20:38:20] [INFO] [Step 3/4] Running temperature observation loop (DryRun: False)...
+[2026-08-29 20:38:20] [INFO] [Sample #1] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:38:20] [INFO] [Step 4/4] Generating summary reports and key performance indicators...
+[2026-08-29 20:38:20] [INFO] Execution complete. Report generated at: F:\windows\tasks\monitor_hardware_temperature\reports\report_20260829_203815.md
+[2026-08-29 20:38:20] [INFO] Overall Thermal State: NORMAL | Highest CPU: 52°C | Alerts: 0

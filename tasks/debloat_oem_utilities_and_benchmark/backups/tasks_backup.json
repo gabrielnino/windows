@@ -1,0 +1,14 @@
+﻿[
+    {
+        "TaskName":  "ASUS Live Update 2.0",
+        "State":  "Ready"
+    },
+    {
+        "TaskName":  "ASUS Update Checker 2.0",
+        "State":  "Ready"
+    },
+    {
+        "TaskName":  "AsusSystemDiagnosis_DriverQuality",
+        "State":  "Ready"
+    }
+]

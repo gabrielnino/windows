@@ -1,0 +1,14 @@
+[2026-08-30 06:25:21] [INFO] [Step 1/4] Loading configuration and assembling optimization argument string...
+[2026-08-30 06:25:22] [INFO] Thorium executable verified: C:\Users\luisg\AppData\Local\Thorium\Application\thorium.exe
+[2026-08-30 06:25:22] [INFO] Compiled argument string: --process-per-site --renderer-process-limit=10 --enable-gpu-rasterization --enable-zero-copy --smooth-scrolling --ignore-gpu-blocklist --enable-hardware-overlays --enable-aggressive-tab-discard --disk-cache-size=104857600 --media-cache-size=52428800 --enable-features=VaapiVideoDecoder,ParallelDownloading,CanvasOopRasterization,SmoothScrolling,WebRtcHideLocalIpsWithMdns,BackForwardCache,AutomaticTabDiscarding,HighEfficiencyModeAvailable,PageLifecycle --disable-features=MediaRouter,GlobalMediaControls,TranslateUI --js-flags=--max-old-space-size=2048
+[2026-08-30 06:25:22] [INFO] [Step 2/4] Creating standalone CLI launcher script...
+[2026-08-30 06:25:22] [INFO] Created batch launcher: f:\windows\launchers\ThoriumOptimizeMode.cmd
+[2026-08-30 06:25:22] [INFO] [Step 3/4] Creating and pinning 'Thorium (Optimize Mode)' shortcuts...
+[2026-08-30 06:25:22] [INFO] Created Shortcut: f:\windows\launchers\Thorium (Optimize Mode).lnk
+[2026-08-30 06:25:22] [INFO] Created Shortcut: C:\Users\luisg\Desktop\Thorium (Optimize Mode).lnk
+[2026-08-30 06:25:22] [INFO] Created Shortcut: C:\Users\luisg\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Thorium (Optimize Mode).lnk
+[2026-08-30 06:25:22] [INFO] Created Shortcut: C:\Users\luisg\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Thorium (Optimize Mode).lnk
+[2026-08-30 06:25:22] [INFO] Updated existing Taskbar pinned shortcut: C:\Users\luisg\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Luis - Thorium.lnk
+[2026-08-30 06:25:22] [INFO] [Step 4/4] Validating shortcut creation and argument integrity...
+[2026-08-30 06:25:22] [INFO] Verified Desktop shortcut presence and arguments.
+[2026-08-30 06:25:22] [INFO] Thorium Optimize Mode launcher deployment complete. Report generated at: F:\windows\tasks\setup_thorium_optimized_launcher\reports\report_20260830_062521.md

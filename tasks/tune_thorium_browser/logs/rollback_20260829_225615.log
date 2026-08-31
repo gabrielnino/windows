@@ -1,0 +1,4 @@
+[2026-08-29 22:56:15] [WARN] Initiating rollback for Thorium Browser tuning task. Reason: Cannot convert 'System.Object[]' to the type 'System.String' required by parameter 'ChildPath'. Specified method is not supported.
+[2026-08-29 22:56:15] [INFO] Restored Preferences from backup.
+[2026-08-29 22:56:15] [INFO] Restored Local State from backup.
+[2026-08-29 22:56:15] [INFO] Thorium rollback completed.

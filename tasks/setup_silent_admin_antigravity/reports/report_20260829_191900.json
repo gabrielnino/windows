@@ -1,0 +1,13 @@
+﻿{
+    "DurationSeconds":  1.68,
+    "StartMenuShortcutPath":  "C:\\Users\\luisg\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Antigravity (Admin Silencioso).lnk",
+    "VbsLauncherPath":  "f:\\windows\\launchers\\launch_antigravity.vbs",
+    "EndTime":  "2026-08-29 19:19:01",
+    "BatLauncherPath":  "f:\\windows\\launchers\\launch_antigravity.bat",
+    "ScheduledTaskCreated":  true,
+    "TaskName":  "setup_silent_admin_antigravity",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 19:19:00",
+    "Status":  "SUCCESS",
+    "DesktopShortcutPath":  "C:\\Users\\luisg\\Desktop\\Antigravity (Admin Silencioso).lnk"
+}

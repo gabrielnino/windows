@@ -1,0 +1,52 @@
+﻿[
+    {
+        "Name":  "DiagTrack",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "dmwappushservice",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "MapsBroker",
+        "State":  "Stopped",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "RetailDemo",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "WMPNetworkSvc",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "wisvc",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "XblAuthManager",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "XblGameSave",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "XboxNetApiSvc",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "XboxGipSvc",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    }
+]

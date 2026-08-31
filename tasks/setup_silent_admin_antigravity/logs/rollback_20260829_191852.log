@@ -1,0 +1,3 @@
+[2026-08-29 19:18:52] [WARN] Initiating rollback for Silent Admin Antigravity task. Reason: Cannot convert 'System.Object[]' to the type 'System.String' required by parameter 'ChildPath'. Specified method is not supported.
+[2026-08-29 19:18:54] [INFO] Unregistered Launch_Antigravity_Elevated scheduled task.
+[2026-08-29 19:18:54] [INFO] Silent Admin Antigravity rollback completed.

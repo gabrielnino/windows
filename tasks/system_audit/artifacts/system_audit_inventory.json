@@ -1,0 +1,2407 @@
+﻿{
+    "BIOS":  {
+                 "Manufacturer":  "American Megatrends International, LLC.",
+                 "Name":  "K6500ZC.303",
+                 "Version":  "_ASUS_ - 1072009",
+                 "ReleaseDate":  "\/Date(1684800000000)\/"
+             },
+    "Motherboard":  {
+                        "Manufacturer":  "ASUSTeK COMPUTER INC.",
+                        "Product":  "K6500ZC",
+                        "Version":  "1.0       ",
+                        "SerialNumber":  "N937NBCX006JRUMB"
+                    },
+    "CPU":  {
+                "Name":  "12th Gen Intel(R) Core(TM) i7-12650H",
+                "Manufacturer":  "GenuineIntel",
+                "Cores":  10,
+                "LogicalProcessors":  16,
+                "MaxClockSpeedMHz":  2300,
+                "L2CacheSizeKB":  9728,
+                "L3CacheSizeKB":  24576,
+                "SocketDesignation":  "U3E1"
+            },
+    "Storage":  {
+                    "PhysicalDisks":  [
+                                          {
+                                              "Model":  "SAMSUNG MZVL21T0HCLR-00B00",
+                                              "InterfaceType":  "SCSI",
+                                              "SizeGB":  953.86,
+                                              "Partitions":  8,
+                                              "Status":  "OK"
+                                          }
+                                      ],
+                    "LogicalVolumes":  [
+                                           {
+                                               "DriveLetter":  "C:",
+                                               "VolumeName":  "",
+                                               "FileSystem":  "NTFS",
+                                               "TotalSizeGB":  77.29,
+                                               "FreeSpaceGB":  37.3,
+                                               "UsedSpaceGB":  39.99,
+                                               "FreeSpacePct":  48.3
+                                           },
+                                           {
+                                               "DriveLetter":  "D:",
+                                               "VolumeName":  "",
+                                               "FileSystem":  "NTFS",
+                                               "TotalSizeGB":  78.12,
+                                               "FreeSpaceGB":  78.03,
+                                               "UsedSpaceGB":  0.09,
+                                               "FreeSpacePct":  99.9
+                                           },
+                                           {
+                                               "DriveLetter":  "E:",
+                                               "VolumeName":  "Storage",
+                                               "FileSystem":  "NTFS",
+                                               "TotalSizeGB":  265.63,
+                                               "FreeSpaceGB":  263.2,
+                                               "UsedSpaceGB":  2.42,
+                                               "FreeSpacePct":  99.1
+                                           },
+                                           {
+                                               "DriveLetter":  "F:",
+                                               "VolumeName":  "",
+                                               "FileSystem":  "NTFS",
+                                               "TotalSizeGB":  244.05,
+                                               "FreeSpaceGB":  243.85,
+                                               "UsedSpaceGB":  0.2,
+                                               "FreeSpacePct":  99.9
+                                           },
+                                           {
+                                               "DriveLetter":  "G:",
+                                               "VolumeName":  "DATA",
+                                               "FileSystem":  "NTFS",
+                                               "TotalSizeGB":  287,
+                                               "FreeSpaceGB":  191.48,
+                                               "UsedSpaceGB":  95.52,
+                                               "FreeSpacePct":  66.7
+                                           }
+                                       ],
+                    "TotalStorageGB":  952.09,
+                    "FreeStorageGB":  813.86,
+                    "StorageUtilizationPct":  14.5
+                },
+    "Memory":  {
+                   "TotalMemoryGB":  16,
+                   "FreeMemoryGB":  9.94,
+                   "UsedMemoryGB":  6.06,
+                   "MemoryUtilizationPct":  37.9,
+                   "ModulesCount":  8,
+                   "Modules":  [
+                                   {
+                                       "BankLabel":  "BANK 0",
+                                       "DeviceLocator":  "Controller0-ChannelA",
+                                       "CapacityGB":  2,
+                                       "SpeedMHz":  6400,
+                                       "Manufacturer":  "Micron Technology",
+                                       "PartNumber":  "                    "
+                                   },
+                                   {
+                                       "BankLabel":  "BANK 1",
+                                       "DeviceLocator":  "Controller0-ChannelB",
+                                       "CapacityGB":  2,
+                                       "SpeedMHz":  6400,
+                                       "Manufacturer":  "Micron Technology",
+                                       "PartNumber":  "                    "
+                                   },
+                                   {
+                                       "BankLabel":  "BANK 2",
+                                       "DeviceLocator":  "Controller0-ChannelC",
+                                       "CapacityGB":  2,
+                                       "SpeedMHz":  6400,
+                                       "Manufacturer":  "Micron Technology",
+                                       "PartNumber":  "                    "
+                                   },
+                                   {
+                                       "BankLabel":  "BANK 3",
+                                       "DeviceLocator":  "Controller0-ChannelD",
+                                       "CapacityGB":  2,
+                                       "SpeedMHz":  6400,
+                                       "Manufacturer":  "Micron Technology",
+                                       "PartNumber":  "                    "
+                                   },
+                                   {
+                                       "BankLabel":  "BANK 0",
+                                       "DeviceLocator":  "Controller1-ChannelA",
+                                       "CapacityGB":  2,
+                                       "SpeedMHz":  6400,
+                                       "Manufacturer":  "Micron Technology",
+                                       "PartNumber":  "                    "
+                                   },
+                                   {
+                                       "BankLabel":  "BANK 1",
+                                       "DeviceLocator":  "Controller1-ChannelB",
+                                       "CapacityGB":  2,
+                                       "SpeedMHz":  6400,
+                                       "Manufacturer":  "Micron Technology",
+                                       "PartNumber":  "                    "
+                                   },
+                                   {
+                                       "BankLabel":  "BANK 2",
+                                       "DeviceLocator":  "Controller1-ChannelC",
+                                       "CapacityGB":  2,
+                                       "SpeedMHz":  6400,
+                                       "Manufacturer":  "Micron Technology",
+                                       "PartNumber":  "                    "
+                                   },
+                                   {
+                                       "BankLabel":  "BANK 3",
+                                       "DeviceLocator":  "Controller1-ChannelD",
+                                       "CapacityGB":  2,
+                                       "SpeedMHz":  6400,
+                                       "Manufacturer":  "Micron Technology",
+                                       "PartNumber":  "                    "
+                                   }
+                               ]
+               },
+    "Graphics":  [
+                     {
+                         "Name":  "Intel(R) UHD Graphics",
+                         "DriverVersion":  "30.0.101.1298",
+                         "AdapterRAMMB":  1024,
+                         "Status":  "OK"
+                     }
+                 ],
+    "InstalledSoftware":  [
+                              {
+                                  "Name":  "Antigravity 2.11.0",
+                                  "DisplayVersion":  "2.11.0",
+                                  "Publisher":  "Google",
+                                  "InstallDate":  "N/A",
+                                  "InstallLocation":  "N/A"
+                              },
+                              {
+                                  "Name":  "Copilot",
+                                  "DisplayVersion":  "152.0.4191.42",
+                                  "Publisher":  "Microsoft Corporation",
+                                  "InstallDate":  "20260829",
+                                  "InstallLocation":  "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application"
+                              },
+                              {
+                                  "Name":  "Microsoft Edge",
+                                  "DisplayVersion":  "152.0.4191.53",
+                                  "Publisher":  "Microsoft Corporation",
+                                  "InstallDate":  "20260829",
+                                  "InstallLocation":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application"
+                              },
+                              {
+                                  "Name":  "Microsoft Edge WebView2 Runtime",
+                                  "DisplayVersion":  "152.0.4191.53",
+                                  "Publisher":  "Microsoft Corporation",
+                                  "InstallDate":  "20260829",
+                                  "InstallLocation":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application"
+                              },
+                              {
+                                  "Name":  "Microsoft OneDrive",
+                                  "DisplayVersion":  "26.150.0804.0011",
+                                  "Publisher":  "Microsoft Corporation",
+                                  "InstallDate":  "N/A",
+                                  "InstallLocation":  "N/A"
+                              },
+                              {
+                                  "Name":  "Microsoft Windows Application Compatibility Fix Database",
+                                  "DisplayVersion":  "N/A",
+                                  "Publisher":  "Unknown",
+                                  "InstallDate":  "N/A",
+                                  "InstallLocation":  "N/A"
+                              }
+                          ],
+    "Network":  [
+                    {
+                        "Description":  "MediaTek Wi-Fi 6E MT7922 160MHz Wireless LAN Card",
+                        "MACAddress":  "14:D4:24:9C:B5:E3",
+                        "IPAddresses":  "192.168.1.101, fe80::8590:c47d:8967:a738",
+                        "DefaultGateway":  "192.168.1.254, fe80::9e1e:95ff:febf:3d40",
+                        "DHCPEnabled":  true,
+                        "DNSServers":  "192.168.1.254, 75.153.171.124"
+                    }
+                ],
+    "OperatingSystem":  {
+                            "OSName":  "Microsoft Windows 11 Home Single Language",
+                            "Version":  "10.0.26200",
+                            "BuildNumber":  "26200",
+                            "Architecture":  "64-bit",
+                            "InstallDate":  "\/Date(1788010862000)\/",
+                            "LastBootUpTime":  "\/Date(1788051462500)\/",
+                            "Uptime":  "0d 0h 9m",
+                            "WindowsDirectory":  "C:\\WINDOWS",
+                            "SystemDirectory":  "C:\\WINDOWS\\system32",
+                            "RegisteredUser":  "luisgabrielnino@outlook.com",
+                            "Organization":  null,
+                            "ComputerManufacturer":  "ASUSTeK COMPUTER INC.",
+                            "ComputerModel":  "Vivobook_ASUSLaptop K6500ZC_K6500ZC",
+                            "SystemType":  "x64-based PC",
+                            "Domain":  "WORKGROUP"
+                        },
+    "Services":  [
+                     {
+                         "Name":  "ADPSvc",
+                         "DisplayName":  "Aggregated Data Platform Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "ALG",
+                         "DisplayName":  "Application Layer Gateway Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "AppIDSvc",
+                         "DisplayName":  "Application Identity",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  2340
+                     },
+                     {
+                         "Name":  "Appinfo",
+                         "DisplayName":  "Application Information",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  8832
+                     },
+                     {
+                         "Name":  "AppReadiness",
+                         "DisplayName":  "App Readiness",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "AppXSvc",
+                         "DisplayName":  "AppX Deployment Service (AppXSVC)",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  5848
+                     },
+                     {
+                         "Name":  "ApxSvc",
+                         "DisplayName":  "Windows Virtual Audio Device Proxy Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "AsusAppService",
+                         "DisplayName":  "ASUS App Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4324
+                     },
+                     {
+                         "Name":  "ASUSOptimization",
+                         "DisplayName":  "ASUS Optimization",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4024
+                     },
+                     {
+                         "Name":  "ASUSSoftwareManager",
+                         "DisplayName":  "ASUS Software Manager",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4348
+                     },
+                     {
+                         "Name":  "ASUSSwitch",
+                         "DisplayName":  "ASUS Switch",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4340
+                     },
+                     {
+                         "Name":  "ASUSSystemAnalysis",
+                         "DisplayName":  "ASUS System Analysis",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4452
+                     },
+                     {
+                         "Name":  "ASUSSystemDiagnosis",
+                         "DisplayName":  "ASUS System Diagnosis",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4404
+                     },
+                     {
+                         "Name":  "AudioEndpointBuilder",
+                         "DisplayName":  "Windows Audio Endpoint Builder",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3508
+                     },
+                     {
+                         "Name":  "Audiosrv",
+                         "DisplayName":  "Windows Audio",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  3624
+                     },
+                     {
+                         "Name":  "autotimesvc",
+                         "DisplayName":  "Cellular Time",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "AxInstSV",
+                         "DisplayName":  "ActiveX Installer (AxInstSV)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "BDESVC",
+                         "DisplayName":  "BitLocker Drive Encryption Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "BFE",
+                         "DisplayName":  "Base Filtering Engine",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  3976
+                     },
+                     {
+                         "Name":  "BITS",
+                         "DisplayName":  "Background Intelligent Transfer Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "BrokerInfrastructure",
+                         "DisplayName":  "Background Tasks Infrastructure Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1492
+                     },
+                     {
+                         "Name":  "BTAGService",
+                         "DisplayName":  "Bluetooth Audio Gateway Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  1940
+                     },
+                     {
+                         "Name":  "BthAvctpSvc",
+                         "DisplayName":  "AVCTP service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  1960
+                     },
+                     {
+                         "Name":  "bthserv",
+                         "DisplayName":  "Bluetooth Support Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  1980
+                     },
+                     {
+                         "Name":  "camsvc",
+                         "DisplayName":  "Capability Access Manager Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  5840
+                     },
+                     {
+                         "Name":  "CDPSvc",
+                         "DisplayName":  "Connected Devices Platform Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  8356
+                     },
+                     {
+                         "Name":  "CertPropSvc",
+                         "DisplayName":  "Certificate Propagation",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "ClipSVC",
+                         "DisplayName":  "Client License Service (ClipSVC)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "COMSysApp",
+                         "DisplayName":  "COM+ System Application",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "CoreMessagingRegistrar",
+                         "DisplayName":  "CoreMessaging",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  2256
+                     },
+                     {
+                         "Name":  "cplspcon",
+                         "DisplayName":  "Intel(R) Content Protection HDCP Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  11164
+                     },
+                     {
+                         "Name":  "CryptSvc",
+                         "DisplayName":  "Cryptographic Services",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT Authority\\NetworkService",
+                         "ProcessId":  1904
+                     },
+                     {
+                         "Name":  "DcomLaunch",
+                         "DisplayName":  "DCOM Server Process Launcher",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1492
+                     },
+                     {
+                         "Name":  "dcsvc",
+                         "DisplayName":  "Declared Configuration(DC) service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "defragsvc",
+                         "DisplayName":  "Optimize drives",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DeviceAssociationService",
+                         "DisplayName":  "Device Association Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3208
+                     },
+                     {
+                         "Name":  "DeviceInstall",
+                         "DisplayName":  "Device Install Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DevQueryBroker",
+                         "DisplayName":  "DevQuery Background Discovery Broker",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  6940
+                     },
+                     {
+                         "Name":  "Dhcp",
+                         "DisplayName":  "DHCP Client",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  2304
+                     },
+                     {
+                         "Name":  "diagsvc",
+                         "DisplayName":  "Diagnostic Execution Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DiagTrack",
+                         "DisplayName":  "Connected User Experiences and Telemetry",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4332
+                     },
+                     {
+                         "Name":  "DispBrokerDesktopSvc",
+                         "DisplayName":  "Display Policy Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  3716
+                     },
+                     {
+                         "Name":  "DisplayEnhancementService",
+                         "DisplayName":  "Display Enhancement Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  2380
+                     },
+                     {
+                         "Name":  "DmEnrollmentSvc",
+                         "DisplayName":  "Device Management Enrollment Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "dmwappushservice",
+                         "DisplayName":  "Device Management Wireless Application Protocol (WAP) Push message Routing Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "Dnscache",
+                         "DisplayName":  "DNS Client",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  2148
+                     },
+                     {
+                         "Name":  "DolbyDAXAPI",
+                         "DisplayName":  "Dolby DAX API Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4392
+                     },
+                     {
+                         "Name":  "DoSvc",
+                         "DisplayName":  "Delivery Optimization",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT Authority\\NetworkService",
+                         "ProcessId":  8760
+                     },
+                     {
+                         "Name":  "dot3svc",
+                         "DisplayName":  "Wired AutoConfig",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DPS",
+                         "DisplayName":  "Diagnostic Policy Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  4444
+                     },
+                     {
+                         "Name":  "dptftcs",
+                         "DisplayName":  "Intel(R) Dynamic Tuning Technology Telemetry Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  4504
+                     },
+                     {
+                         "Name":  "DsmSvc",
+                         "DisplayName":  "Device Setup Manager",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DsSvc",
+                         "DisplayName":  "Data Sharing Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DusmSvc",
+                         "DisplayName":  "Data Usage",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  3804
+                     },
+                     {
+                         "Name":  "EapHost",
+                         "DisplayName":  "Extensible Authentication Protocol",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "edgeupdate",
+                         "DisplayName":  "Microsoft Edge Update Service (edgeupdate)",
+                         "State":  "Stopped",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "edgeupdatem",
+                         "DisplayName":  "Microsoft Edge Update Service (edgeupdatem)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "EFS",
+                         "DisplayName":  "Encrypting File System (EFS)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "embeddedmode",
+                         "DisplayName":  "Embedded Mode",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "EntAppSvc",
+                         "DisplayName":  "Enterprise App Management Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Windows Event Log",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  2552
+                     },
+                     {
+                         "Name":  "EventSystem",
+                         "DisplayName":  "COM+ Event System",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  3180
+                     },
+                     {
+                         "Name":  "fdPHost",
+                         "DisplayName":  "Function Discovery Provider Host",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "FDResPub",
+                         "DisplayName":  "Function Discovery Resource Publication",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "fhsvc",
+                         "DisplayName":  "File History Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "FontCache",
+                         "DisplayName":  "Windows Font Cache Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  3516
+                     },
+                     {
+                         "Name":  "FrameServer",
+                         "DisplayName":  "Windows Camera Frame Server",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "FrameServerMonitor",
+                         "DisplayName":  "Windows Camera Frame Server Monitor",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "GameInputSvc",
+                         "DisplayName":  "GameInput Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "gpsvc",
+                         "DisplayName":  "Group Policy Client",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1856
+                     },
+                     {
+                         "Name":  "GraphicsPerfSvc",
+                         "DisplayName":  "GraphicsPerfSvc",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "hidserv",
+                         "DisplayName":  "Human Interface Device Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  14244
+                     },
+                     {
+                         "Name":  "hpatchmon",
+                         "DisplayName":  "Hotpatch Monitoring Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "HvHost",
+                         "DisplayName":  "HV Host Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "icssvc",
+                         "DisplayName":  "Windows Mobile Hotspot Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "igccservice",
+                         "DisplayName":  "Intel(R) Graphics Command Center Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4356
+                     },
+                     {
+                         "Name":  "IKEEXT",
+                         "DisplayName":  "IKE and AuthIP IPsec Keying Modules",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "InstallService",
+                         "DisplayName":  "Microsoft Store Install Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3728
+                     },
+                     {
+                         "Name":  "IntelAudioService",
+                         "DisplayName":  "Intel(R) Audio Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "InventorySvc",
+                         "DisplayName":  "Inventory and Compatibility Appraisal service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  8040
+                     },
+                     {
+                         "Name":  "ipfsvc",
+                         "DisplayName":  "Intel(R) Innovation Platform Framework Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4620
+                     },
+                     {
+                         "Name":  "iphlpsvc",
+                         "DisplayName":  "IP Helper",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4420
+                     },
+                     {
+                         "Name":  "IpxlatCfgSvc",
+                         "DisplayName":  "IP Translation Configuration Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "IsoEnvBroker",
+                         "DisplayName":  "Isolation Environment Broker",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "KeyIso",
+                         "DisplayName":  "CNG Key Isolation",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1348
+                     },
+                     {
+                         "Name":  "KtmRm",
+                         "DisplayName":  "KtmRm for Distributed Transaction Coordinator",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4784
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Workstation",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  4124
+                     },
+                     {
+                         "Name":  "lfsvc",
+                         "DisplayName":  "Geolocation Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  13764
+                     },
+                     {
+                         "Name":  "LicenseManager",
+                         "DisplayName":  "Windows License Manager Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  13860
+                     },
+                     {
+                         "Name":  "lltdsvc",
+                         "DisplayName":  "Link-Layer Topology Discovery Mapper",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "lmhosts",
+                         "DisplayName":  "TCP/IP NetBIOS Helper",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  7552
+                     },
+                     {
+                         "Name":  "LocalKdc",
+                         "DisplayName":  "Kerberos Local Key Distribution Center",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "LSM",
+                         "DisplayName":  "LSM",
+                         "State":  "Running",
+                         "StartMode":  "Unknown",
+                         "StartName":  null,
+                         "ProcessId":  1704
+                     },
+                     {
+                         "Name":  "LxpSvc",
+                         "DisplayName":  "Language Experience Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "MapsBroker",
+                         "DisplayName":  "Downloaded Maps Manager",
+                         "State":  "Stopped",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "McmSvc",
+                         "DisplayName":  "Mobile Connectivity Management Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT SERVICE\\McmSvc",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "McpManagementService",
+                         "DisplayName":  "McpManagementService",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "MDCoreSvc",
+                         "DisplayName":  "Microsoft Defender Core Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4472
+                     },
+                     {
+                         "Name":  "MicrosoftCopilotElevationService",
+                         "DisplayName":  "Microsoft Copilot Elevation Service (MicrosoftCopilotElevationService)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "MicrosoftEdgeElevationService",
+                         "DisplayName":  "Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "midisrv",
+                         "DisplayName":  "Windows MIDI Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "mpssvc",
+                         "DisplayName":  "Windows Defender Firewall",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  3976
+                     },
+                     {
+                         "Name":  "MSDTC",
+                         "DisplayName":  "Distributed Transaction Coordinator",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "MSiSCSI",
+                         "DisplayName":  "Microsoft iSCSI Initiator Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "msiserver",
+                         "DisplayName":  "Windows Installer",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "NaturalAuthentication",
+                         "DisplayName":  "Natural Authentication",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "NcaSvc",
+                         "DisplayName":  "Network Connectivity Assistant",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "NcbService",
+                         "DisplayName":  "Network Connection Broker",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1784
+                     },
+                     {
+                         "Name":  "NcdAutoSetup",
+                         "DisplayName":  "Network Connected Devices Auto-Setup",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "Netlogon",
+                         "DisplayName":  "Netlogon",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "Netman",
+                         "DisplayName":  "Network Connections",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "netprofm",
+                         "DisplayName":  "Network List Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  2312
+                     },
+                     {
+                         "Name":  "NetSetupSvc",
+                         "DisplayName":  "NetSetupSvc",
+                         "State":  "Stopped",
+                         "StartMode":  "Unknown",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "NetTcpPortSharing",
+                         "DisplayName":  "Net.Tcp Port Sharing Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "NgcCtnrSvc",
+                         "DisplayName":  "Microsoft Passport Container",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  7124
+                     },
+                     {
+                         "Name":  "NgcSvc",
+                         "DisplayName":  "Microsoft Passport",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  7048
+                     },
+                     {
+                         "Name":  "NlaSvc",
+                         "DisplayName":  "Network Location Awareness",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "nsi",
+                         "DisplayName":  "Network Store Interface Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  1924
+                     },
+                     {
+                         "Name":  "PcaSvc",
+                         "DisplayName":  "Program Compatibility Assistant Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  7012
+                     },
+                     {
+                         "Name":  "perceptionsimulation",
+                         "DisplayName":  "Windows Perception Simulation Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "PerfHost",
+                         "DisplayName":  "Performance Counter DLL Host",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "PhoneSvc",
+                         "DisplayName":  "Phone Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "pla",
+                         "DisplayName":  "Performance Logs \u0026 Alerts",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "PlugPlay",
+                         "DisplayName":  "Plug and Play",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1492
+                     },
+                     {
+                         "Name":  "PolicyAgent",
+                         "DisplayName":  "IPsec Policy Agent",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "Power",
+                         "DisplayName":  "Power",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1492
+                     },
+                     {
+                         "Name":  "PrintDeviceConfigurationService",
+                         "DisplayName":  "Print Device Configuration Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "PrintNotify",
+                         "DisplayName":  "Printer Extensions and Notifications",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "PrintScanBrokerService",
+                         "DisplayName":  "PrintScanBrokerService",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "ProfSvc",
+                         "DisplayName":  "User Profile Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  2408
+                     },
+                     {
+                         "Name":  "PushToInstall",
+                         "DisplayName":  "Windows PushToInstall Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "QWAVE",
+                         "DisplayName":  "Quality Windows Audio Video Experience",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "RasAuto",
+                         "DisplayName":  "Remote Access Auto Connection Manager",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "RasMan",
+                         "DisplayName":  "Remote Access Connection Manager",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "refsdedupsvc",
+                         "DisplayName":  "ReFS Dedup Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "RemoteAccess",
+                         "DisplayName":  "Routing and Remote Access",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "RemoteRegistry",
+                         "DisplayName":  "Remote Registry",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "RetailDemo",
+                         "DisplayName":  "Retail Demo Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "RmSvc",
+                         "DisplayName":  "Radio Management Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  6652
+                     },
+                     {
+                         "Name":  "RpcEptMapper",
+                         "DisplayName":  "RPC Endpoint Mapper",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  1652
+                     },
+                     {
+                         "Name":  "RpcLocator",
+                         "DisplayName":  "Remote Procedure Call (RPC) Locator",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "RpcSs",
+                         "DisplayName":  "Remote Procedure Call (RPC)",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  1652
+                     },
+                     {
+                         "Name":  "RstMwService",
+                         "DisplayName":  "Intel(R) Storage Middleware Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  8780
+                     },
+                     {
+                         "Name":  "SamSs",
+                         "DisplayName":  "Security Accounts Manager",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1348
+                     },
+                     {
+                         "Name":  "SCardSvr",
+                         "DisplayName":  "Smart Card",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "ScDeviceEnum",
+                         "DisplayName":  "Smart Card Device Enumeration Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "Schedule",
+                         "DisplayName":  "Task Scheduler",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  2268
+                     },
+                     {
+                         "Name":  "SCPolicySvc",
+                         "DisplayName":  "Smart Card Removal Policy",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SDRSVC",
+                         "DisplayName":  "Windows Backup",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "seclogon",
+                         "DisplayName":  "Secondary Logon",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SecurityHealthService",
+                         "DisplayName":  "Windows Security Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  9060
+                     },
+                     {
+                         "Name":  "SEMgrSvc",
+                         "DisplayName":  "Payments and NFC/SE Manager",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SENS",
+                         "DisplayName":  "System Event Notification Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3444
+                     },
+                     {
+                         "Name":  "SensorDataService",
+                         "DisplayName":  "Sensor Data Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SensorService",
+                         "DisplayName":  "Sensor Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  12576
+                     },
+                     {
+                         "Name":  "SensrSvc",
+                         "DisplayName":  "Sensor Monitoring Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SessionEnv",
+                         "DisplayName":  "Remote Desktop Configuration",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SharedAccess",
+                         "DisplayName":  "Internet Connection Sharing (ICS)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "ShellHWDetection",
+                         "DisplayName":  "Shell Hardware Detection",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4032
+                     },
+                     {
+                         "Name":  "shpamsvc",
+                         "DisplayName":  "Shared PC Account Manager",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "smphost",
+                         "DisplayName":  "Microsoft Storage Spaces SMP",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SmsRouter",
+                         "DisplayName":  "Microsoft Windows SMS Router Service.",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SNMPTrap",
+                         "DisplayName":  "SNMP Trap",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Print Spooler",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3364
+                     },
+                     {
+                         "Name":  "sppsvc",
+                         "DisplayName":  "Software Protection",
+                         "State":  "Stopped",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SSDPSRV",
+                         "DisplayName":  "SSDP Discovery",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  11556
+                     },
+                     {
+                         "Name":  "ssh-agent",
+                         "DisplayName":  "OpenSSH Authentication Agent",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SstpSvc",
+                         "DisplayName":  "Secure Socket Tunneling Protocol Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "StateRepository",
+                         "DisplayName":  "State Repository Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  2056
+                     },
+                     {
+                         "Name":  "StiSvc",
+                         "DisplayName":  "Windows Image Acquisition (WIA)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "StorSvc",
+                         "DisplayName":  "Storage Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  15012
+                     },
+                     {
+                         "Name":  "svsvc",
+                         "DisplayName":  "Spot Verifier",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "swprv",
+                         "DisplayName":  "Microsoft Software Shadow Copy Provider",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "SysMain",
+                         "DisplayName":  "SysMain",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3172
+                     },
+                     {
+                         "Name":  "SystemEventsBroker",
+                         "DisplayName":  "System Events Broker",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1492
+                     },
+                     {
+                         "Name":  "TapiSrv",
+                         "DisplayName":  "Telephony",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "TermService",
+                         "DisplayName":  "Remote Desktop Services",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "TextInputManagementService",
+                         "DisplayName":  "Text Input Management Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3668
+                     },
+                     {
+                         "Name":  "Themes",
+                         "DisplayName":  "Themes",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3160
+                     },
+                     {
+                         "Name":  "TieringEngineService",
+                         "DisplayName":  "Storage Tiers Management",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "TimeBrokerSvc",
+                         "DisplayName":  "Time Broker",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  2076
+                     },
+                     {
+                         "Name":  "TokenBroker",
+                         "DisplayName":  "Web Account Manager",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  7852
+                     },
+                     {
+                         "Name":  "TrkWks",
+                         "DisplayName":  "Distributed Link Tracking Client",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4484
+                     },
+                     {
+                         "Name":  "TroubleshootingSvc",
+                         "DisplayName":  "Recommended Troubleshooting Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "TrustedInstaller",
+                         "DisplayName":  "Windows Modules Installer",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "tzautoupdate",
+                         "DisplayName":  "Auto Time Zone Updater",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "UmRdpService",
+                         "DisplayName":  "Remote Desktop Services UserMode Port Redirector",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "upnphost",
+                         "DisplayName":  "UPnP Device Host",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "UserManager",
+                         "DisplayName":  "User Manager",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  2812
+                     },
+                     {
+                         "Name":  "UsoSvc",
+                         "DisplayName":  "Update Orchestrator Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  2376
+                     },
+                     {
+                         "Name":  "VaultSvc",
+                         "DisplayName":  "Credential Manager",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  1348
+                     },
+                     {
+                         "Name":  "vds",
+                         "DisplayName":  "Virtual Disk",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "vmicguestinterface",
+                         "DisplayName":  "Hyper-V Guest Service Interface",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "vmicheartbeat",
+                         "DisplayName":  "Hyper-V Heartbeat Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "vmickvpexchange",
+                         "DisplayName":  "Hyper-V Data Exchange Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "vmicrdv",
+                         "DisplayName":  "Hyper-V Remote Desktop Virtualization Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "vmicshutdown",
+                         "DisplayName":  "Hyper-V Guest Shutdown Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "vmictimesync",
+                         "DisplayName":  "Hyper-V Time Synchronization Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "vmicvmsession",
+                         "DisplayName":  "Hyper-V PowerShell Direct Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "vmicvss",
+                         "DisplayName":  "Hyper-V Volume Shadow Copy Requestor",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "VSS",
+                         "DisplayName":  "Volume Shadow Copy",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "W32Time",
+                         "DisplayName":  "Windows Time",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WaaSMedicSvc",
+                         "DisplayName":  "WaaSMedicSvc",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4520
+                     },
+                     {
+                         "Name":  "WalletService",
+                         "DisplayName":  "WalletService",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WarpJITSvc",
+                         "DisplayName":  "Warp JIT Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "wbengine",
+                         "DisplayName":  "Block Level Backup Engine Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WbioSrvc",
+                         "DisplayName":  "Windows Biometric Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "Wcmsvc",
+                         "DisplayName":  "Windows Connection Manager",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  3040
+                     },
+                     {
+                         "Name":  "wcncsvc",
+                         "DisplayName":  "Windows Connect Now - Config Registrar",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WdiServiceHost",
+                         "DisplayName":  "Diagnostic Service Host",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WdiSystemHost",
+                         "DisplayName":  "Diagnostic System Host",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  13092
+                     },
+                     {
+                         "Name":  "WdNisSvc",
+                         "DisplayName":  "Microsoft Defender Antivirus Network Inspection Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  5804
+                     },
+                     {
+                         "Name":  "WebClient",
+                         "DisplayName":  "WebClient",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "webthreatdefsvc",
+                         "DisplayName":  "Web Threat Defense Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  11352
+                     },
+                     {
+                         "Name":  "Wecsvc",
+                         "DisplayName":  "Windows Event Collector",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WEPHOSTSVC",
+                         "DisplayName":  "Windows Encryption Provider Host Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "wercplsupport",
+                         "DisplayName":  "Problem Reports Control Panel Support",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WerSvc",
+                         "DisplayName":  "Windows Error Reporting Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WFDSConMgrSvc",
+                         "DisplayName":  "Wi-Fi Direct Services Connection Manager Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "whesvc",
+                         "DisplayName":  "Windows Health and Optimized Experiences",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  15080
+                     },
+                     {
+                         "Name":  "WiaRpc",
+                         "DisplayName":  "Still Image Acquisition Events",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WinDefend",
+                         "DisplayName":  "Microsoft Defender Antivirus Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4460
+                     },
+                     {
+                         "Name":  "WinHttpAutoProxySvc",
+                         "DisplayName":  "WinHTTP Web Proxy Auto-Discovery Service",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  2792
+                     },
+                     {
+                         "Name":  "Winmgmt",
+                         "DisplayName":  "Windows Management Instrumentation",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "localSystem",
+                         "ProcessId":  4436
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "wisvc",
+                         "DisplayName":  "Windows Insider Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WlanSvc",
+                         "DisplayName":  "WLAN AutoConfig",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  3960
+                     },
+                     {
+                         "Name":  "wlidsvc",
+                         "DisplayName":  "Microsoft Account Sign-in Assistant",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "wlpasvc",
+                         "DisplayName":  "Local Profile Assistant Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT Authority\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WManSvc",
+                         "DisplayName":  "Windows Management Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "wmiApSrv",
+                         "DisplayName":  "WMI Performance Adapter",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WMPNetworkSvc",
+                         "DisplayName":  "Windows Media Player Network Sharing Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\NetworkService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "workfolderssvc",
+                         "DisplayName":  "Work Folders",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WpcMonSvc",
+                         "DisplayName":  "Parental Controls",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WPDBusEnum",
+                         "DisplayName":  "Portable Device Enumerator Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WpnService",
+                         "DisplayName":  "Windows Push Notifications System Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  4428
+                     },
+                     {
+                         "Name":  "WSAIFabricSvc",
+                         "DisplayName":  "WSAIFabricSvc",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  6024
+                     },
+                     {
+                         "Name":  "wscsvc",
+                         "DisplayName":  "Security Center",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  1500
+                     },
+                     {
+                         "Name":  "WSearch",
+                         "DisplayName":  "Windows Search",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  7776
+                     },
+                     {
+                         "Name":  "wuauserv",
+                         "DisplayName":  "Windows Update",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  14000
+                     },
+                     {
+                         "Name":  "wuqisvc",
+                         "DisplayName":  "Microsoft Usage and Quality Insights",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "NT AUTHORITY\\LocalService",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "WwanSvc",
+                         "DisplayName":  "WWAN AutoConfig",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "localSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "XblAuthManager",
+                         "DisplayName":  "Xbox Live Auth Manager",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "XblGameSave",
+                         "DisplayName":  "Xbox Live Game Save",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "XboxGipSvc",
+                         "DisplayName":  "Xbox Accessory Management Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "XboxNetApiSvc",
+                         "DisplayName":  "Xbox Live Networking Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  "LocalSystem",
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "AarSvc_76376",
+                         "DisplayName":  "AarSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "BcastDVRUserService_76376",
+                         "DisplayName":  "BcastDVRUserService_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "BluetoothUserService_76376",
+                         "DisplayName":  "BluetoothUserService_76376",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  7560
+                     },
+                     {
+                         "Name":  "CaptureService_76376",
+                         "DisplayName":  "CaptureService_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "cbdhsvc_76376",
+                         "DisplayName":  "cbdhsvc_76376",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  null,
+                         "ProcessId":  8368
+                     },
+                     {
+                         "Name":  "CDPUserSvc_76376",
+                         "DisplayName":  "CDPUserSvc_76376",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  null,
+                         "ProcessId":  7568
+                     },
+                     {
+                         "Name":  "CloudBackupRestoreSvc_76376",
+                         "DisplayName":  "CloudBackupRestoreSvc_76376",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  13572
+                     },
+                     {
+                         "Name":  "ConsentUxUserSvc_76376",
+                         "DisplayName":  "ConsentUxUserSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "CredentialEnrollmentManagerUserSvc_76376",
+                         "DisplayName":  "CredentialEnrollmentManagerUserSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DeviceAssociationBrokerSvc_76376",
+                         "DisplayName":  "DeviceAssociationBrokerSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DevicePickerUserSvc_76376",
+                         "DisplayName":  "DevicePickerUserSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "DevicesFlowUserSvc_76376",
+                         "DisplayName":  "DevicesFlowUserSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "MessagingService_76376",
+                         "DisplayName":  "MessagingService_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "NPSMSvc_76376",
+                         "DisplayName":  "NPSMSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "OneSyncSvc_76376",
+                         "DisplayName":  "OneSyncSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "P9RdrService_76376",
+                         "DisplayName":  "P9RdrService_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "PenService_76376",
+                         "DisplayName":  "PenService_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "PimIndexMaintenanceSvc_76376",
+                         "DisplayName":  "PimIndexMaintenanceSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "PrintWorkflowUserSvc_76376",
+                         "DisplayName":  "PrintWorkflowUserSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "UdkUserSvc_76376",
+                         "DisplayName":  "UdkUserSvc_76376",
+                         "State":  "Running",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  7120
+                     },
+                     {
+                         "Name":  "UnistoreSvc_76376",
+                         "DisplayName":  "UnistoreSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "UserDataSvc_76376",
+                         "DisplayName":  "UserDataSvc_76376",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "StartName":  null,
+                         "ProcessId":  0
+                     },
+                     {
+                         "Name":  "webthreatdefusersvc_76376",
+                         "DisplayName":  "webthreatdefusersvc_76376",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  null,
+                         "ProcessId":  7684
+                     },
+                     {
+                         "Name":  "WpnUserService_76376",
+                         "DisplayName":  "WpnUserService_76376",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "StartName":  null,
+                         "ProcessId":  7748
+                     }
+                 ]
+}

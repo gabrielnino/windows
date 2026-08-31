@@ -1,0 +1,22 @@
+﻿{
+    "files.watcherExclude":  {
+                                 "**/.git/objects/**":  true,
+                                 "**/.git/subtree-cache/**":  true,
+                                 "**/node_modules/**":  true,
+                                 "**/.venv/**":  true,
+                                 "**/__pycache__/**":  true,
+                                 "**/dist/**":  true,
+                                 "**/build/**":  true,
+                                 "**/tasks/**/logs/**":  true,
+                                 "**/tasks/**/backups/**":  true,
+                                 "**/tasks/**/reports/**":  true
+                             },
+    "search.exclude":  {
+                           "**/node_modules":  true,
+                           "**/.venv":  true,
+                           "**/__pycache__":  true,
+                           "**/.git":  true
+                       },
+    "editor.smoothScrolling":  true,
+    "editor.cursorBlinking":  "smooth"
+}

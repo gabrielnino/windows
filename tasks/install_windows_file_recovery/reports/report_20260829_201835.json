@@ -1,0 +1,12 @@
+﻿{
+    "WingetExitCode":  -2147023838,
+    "DurationSeconds":  2.9,
+    "EndTime":  "2026-08-29 20:18:38",
+    "WinfrBinaryFound":  false,
+    "PackageId":  "9N26S50LN705",
+    "TaskName":  "install_windows_file_recovery",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 20:18:35",
+    "Status":  "SUCCESS",
+    "WinfrVersionVerified":  false
+}

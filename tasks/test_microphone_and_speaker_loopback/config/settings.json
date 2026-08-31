@@ -1,0 +1,8 @@
+{
+  "task_name": "test_microphone_and_speaker_loopback",
+  "version": "1.0.0",
+  "test_duration_seconds": 4,
+  "output_sample_rate": 44100,
+  "channels": 2,
+  "bits_per_sample": 16
+}

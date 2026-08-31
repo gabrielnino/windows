@@ -1,0 +1,9 @@
+{
+  "task_name": "remove_and_disable_copilot",
+  "version": "1.0.0",
+  "remove_uwp_copilot": true,
+  "disable_copilot_group_policies": true,
+  "hide_taskbar_copilot_button": true,
+  "disable_copilot_service": true,
+  "disable_bing_ai_search_suggestions": true
+}

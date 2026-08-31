@@ -1,0 +1,66 @@
+﻿{
+    "StartTime":  "2026-08-29 18:56:57",
+    "DryRun":  false,
+    "ServicesDisabled":  [
+                             "edgeupdate",
+                             "edgeupdatem",
+                             "MicrosoftCopilotElevationService"
+                         ],
+    "PackagesRemoved":  [
+                            "Clipchamp.Clipchamp",
+                            "Microsoft.BingNews",
+                            "Microsoft.BingWeather",
+                            "Microsoft.MicrosoftSolitaireCollection",
+                            "Microsoft.WindowsFeedbackHub",
+                            "Microsoft.YourPhone",
+                            "MSTeams",
+                            "Microsoft.XboxGamingOverlay",
+                            "Microsoft.Xbox.TCUI",
+                            "Microsoft.XboxIdentityProvider",
+                            "Microsoft.XboxSpeechToTextOverlay",
+                            "MicrosoftCorporationII.MicrosoftFamily"
+                        ],
+    "InitialFreeMemoryGB":  8.86,
+    "EndTime":  "2026-08-29 18:57:35",
+    "DurationSeconds":  38.31,
+    "Status":  "SUCCESS",
+    "MaxCpuTempRecordedC":  51,
+    "NetMemoryReclaimedMB":  -1044,
+    "IterationSummaries":  [
+                               {
+                                   "PeakMemoryGB":  7.33,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.47,
+                                   "IterationIndex":  1,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               },
+                               {
+                                   "PeakMemoryGB":  7.37,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.06,
+                                   "IterationIndex":  2,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               },
+                               {
+                                   "PeakMemoryGB":  7.71,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.68,
+                                   "IterationIndex":  3,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               }
+                           ],
+    "TasksDisabled":  [
+                          "MicrosoftEdgeUpdateTaskMachineCore{D8E9762C-D85C-4487-85EC-1372C3A2BE58}",
+                          "MicrosoftEdgeUpdateTaskMachineUA{C33411E5-86C3-42F4-9B25-F097EF7C12D8}",
+                          "XblGameSaveTask",
+                          "SoftLandingCreativeManagementTask",
+                          "SoftLandingDeferralTask-{eff16a58-5bb8-4728-9399-9bb58a9a5482}",
+                          "SoftLandingTriggerTask-128000000001615609-render-{d4af543c-0534-4c92-94d8-812dc3077fe8}"
+                      ],
+    "CompletedIterations":  3,
+    "TaskName":  "remove_bloatware_and_benchmark",
+    "FinalFreeMemoryGB":  7.84
+}

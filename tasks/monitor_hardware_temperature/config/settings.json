@@ -1,0 +1,21 @@
+{
+  "task_name": "monitor_hardware_temperature",
+  "version": "1.0.0",
+  "thresholds": {
+    "cpu": {
+      "warning_celsius": 75.0,
+      "danger_celsius": 85.0,
+      "critical_celsius": 95.0
+    },
+    "gpu": {
+      "warning_celsius": 75.0,
+      "danger_celsius": 83.0,
+      "critical_celsius": 90.0
+    }
+  },
+  "monitoring_defaults": {
+    "interval_seconds": 3,
+    "default_watch_duration_seconds": 30,
+    "audio_alert_enabled": true
+  }
+}

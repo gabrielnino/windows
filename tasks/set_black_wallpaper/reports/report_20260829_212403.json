@@ -1,0 +1,13 @@
+﻿{
+    "EndTime":  "2026-08-29 21:24:03",
+    "DurationSeconds":  0.3,
+    "GeneratedImagePath":  "F:\\windows\\tasks\\set_black_wallpaper\\artifacts\\pure_black_wallpaper.png",
+    "DisplaysUpdated":  3,
+    "TaskName":  "set_black_wallpaper",
+    "DryRun":  false,
+    "ImageSizeBytes":  36115,
+    "StartTime":  "2026-08-29 21:24:03",
+    "Status":  "SUCCESS",
+    "PreviousWallpaper":  "C:\\Users\\luisg\\AppData\\Roaming\\Microsoft\\Windows\\Themes\\TranscodedWallpaper",
+    "TargetColorHex":  "#000000"
+}

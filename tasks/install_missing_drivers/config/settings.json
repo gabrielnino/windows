@@ -1,0 +1,35 @@
+{
+  "task_name": "install_missing_drivers",
+  "version": "1.0.0",
+  "system_model": "ASUS Vivobook Pro 15 OLED K6500ZC",
+  "manufacturer": "ASUSTeK COMPUTER INC.",
+  "target_devices": [
+    {
+      "hardware_id": "ACPI\\ASUS2018",
+      "component": "ASUS System Control Interface V3"
+    },
+    {
+      "hardware_id": "PCI\\VEN_8086&DEV_46A3",
+      "component": "Intel Iris Xe Graphics (12th Gen Alder Lake-H)"
+    },
+    {
+      "hardware_id": "PCI\\VEN_8086&DEV_461D",
+      "component": "Intel Gaussian & Neural Accelerator (GNA) / DTT"
+    },
+    {
+      "hardware_id": "PCI\\VEN_8086&DEV_51A3",
+      "component": "Intel SMBus / Chipset Device Software"
+    },
+    {
+      "hardware_id": "PCI\\VEN_8086&DEV_51E8",
+      "component": "Intel Serial IO I2C Host Controller"
+    },
+    {
+      "hardware_id": "USB\\VID_0BDA&PID_0129",
+      "component": "Realtek Card Reader USB2.0-CRW"
+    }
+  ],
+  "create_system_restore_point": true,
+  "backup_current_drivers": true,
+  "allow_reboot": false
+}

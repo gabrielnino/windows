@@ -1,0 +1,17 @@
+{
+  "task_name": "permanently_disable_edge_update",
+  "version": "1.0.0",
+  "tasks_to_disable": [
+    "MicrosoftEdgeUpdateTaskMachineCore*",
+    "MicrosoftEdgeUpdateTaskMachineUA*"
+  ],
+  "services_to_disable": [
+    "edgeupdate",
+    "edgeupdatem",
+    "MicrosoftEdgeElevationService"
+  ],
+  "ifeo_block_binaries": [
+    "MicrosoftEdgeUpdate.exe",
+    "msedge.exe"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "task_name": "debloat_oem_utilities_and_benchmark",
+  "version": "1.0.0",
+  "iterations": 3,
+  "debloat_targets": {
+    "asus_services": [
+      "AsusAppService",
+      "ASUSSoftwareManager",
+      "ASUSSwitch",
+      "ASUSSystemAnalysis",
+      "ASUSSystemDiagnosis"
+    ],
+    "telemetry_services": [
+      "DiagTrack",
+      "dmwappushservice",
+      "dptftcs",
+      "DPS",
+      "InventorySvc",
+      "wuqisvc",
+      "MapsBroker"
+    ],
+    "asus_scheduled_tasks": [
+      "ASUS Live Update 2.0",
+      "ASUS Update Checker 2.0",
+      "AsusSystemDiagnosis_DriverQuality"
+    ],
+    "clean_asus_uwp_assistant": true
+  },
+  "benchmark_parameters": {
+    "worker_threads": 4,
+    "workload_duration_seconds": 6,
+    "memory_buffer_mb": 256,
+    "cpu_thermal_limit_celsius": 85.0
+  }
+}

@@ -1,0 +1,22 @@
+﻿{
+    "FeedbackSurveysDisabled":  true,
+    "TelemetryLevelMinimized":  true,
+    "TaskName":  "disable_user_experience_evaluation",
+    "StartTime":  "2026-08-29 19:12:36",
+    "DryRun":  false,
+    "ScheduledTasksDisabled":  [
+                                   "Consolidator",
+                                   "UsbCeip",
+                                   "Microsoft Compatibility Appraiser Exp",
+                                   "DmClient",
+                                   "DmClientOnScenarioDownload",
+                                   "Sqm-Tasks",
+                                   "StartupAppTask"
+                               ],
+    "TailoredExperiencesDisabled":  true,
+    "DurationSeconds":  12.2,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 19:12:48",
+    "SuggestionsAndTipsDisabled":  true,
+    "AdvertisingIdDisabled":  true
+}

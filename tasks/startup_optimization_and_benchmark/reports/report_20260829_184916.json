@@ -1,0 +1,62 @@
+﻿{
+    "InitialFreeMemoryGB":  9.03,
+    "FinalFreeMemoryGB":  9.02,
+    "CompletedIterations":  3,
+    "DurationSeconds":  31.1,
+    "TaskName":  "startup_optimization_and_benchmark",
+    "IterationSummaries":  [
+                               {
+                                   "PeakMemoryGB":  6.94,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.48,
+                                   "IterationIndex":  1,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               },
+                               {
+                                   "PeakMemoryGB":  6.92,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.18,
+                                   "IterationIndex":  2,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               },
+                               {
+                                   "PeakMemoryGB":  7.02,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.23,
+                                   "IterationIndex":  3,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               }
+                           ],
+    "StartTime":  "2026-08-29 18:49:16",
+    "DryRun":  false,
+    "TotalStartupAppsFound":  3,
+    "StartupApplications":  [
+                                {
+                                    "Name":  "OneDrive",
+                                    "Command":  "\"C:\\Users\\luisg\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background",
+                                    "Location":  "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+                                    "Scope":  "Current User (Registry)",
+                                    "Type":  "Registry Run"
+                                },
+                                {
+                                    "Name":  "MicrosoftEdgeAutoLaunch_E90AA34631D0A1DE7BBB9E92F473D05D",
+                                    "Command":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start",
+                                    "Location":  "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+                                    "Scope":  "Current User (Registry)",
+                                    "Type":  "Registry Run"
+                                },
+                                {
+                                    "Name":  "SecurityHealth",
+                                    "Command":  "C:\\WINDOWS\\system32\\SecurityHealthSystray.exe",
+                                    "Location":  "HKLM:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+                                    "Scope":  "All Users (Registry 64-bit)",
+                                    "Type":  "Registry Run"
+                                }
+                            ],
+    "MaxCpuTempRecordedC":  51,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 18:49:47"
+}

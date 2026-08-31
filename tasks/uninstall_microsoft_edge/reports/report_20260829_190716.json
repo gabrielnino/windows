@@ -1,0 +1,14 @@
+﻿{
+    "PolicyConfigured":  true,
+    "WebView2Preserved":  true,
+    "TaskName":  "uninstall_microsoft_edge",
+    "StartTime":  "2026-08-29 19:07:16",
+    "DryRun":  false,
+    "ShortcutsRemoved":  2,
+    "EdgeSetupPath":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\152.0.4191.53\\Installer\\setup.exe",
+    "DurationSeconds":  1.35,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 19:07:17",
+    "UninstallerExitCode":  93,
+    "StartupKeyRemoved":  true
+}

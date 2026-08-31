@@ -1,0 +1,15 @@
+﻿{
+    "PreServiceStartType":  "Automatic",
+    "DurationSeconds":  14.04,
+    "EndTime":  "2026-08-29 19:16:40",
+    "TaskName":  "disable_windows_search_indexer",
+    "DryRun":  false,
+    "PostServiceStatus":  "Stopped",
+    "StartTime":  "2026-08-29 19:16:26",
+    "PreServiceStatus":  "Running",
+    "Status":  "SUCCESS",
+    "PostServiceStartType":  "Disabled",
+    "ProcessesTerminated":  [
+
+                            ]
+}

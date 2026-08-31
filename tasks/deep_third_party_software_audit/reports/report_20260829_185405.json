@@ -1,0 +1,12 @@
+﻿{
+    "TotalThirdPartyTasks":  11,
+    "DurationSeconds":  2.43,
+    "EndTime":  "2026-08-29 18:54:08",
+    "TotalWin32AppsFound":  6,
+    "TotalThirdPartyServices":  11,
+    "TaskName":  "deep_third_party_software_audit",
+    "DryRun":  false,
+    "TotalUwpBloatCandidates":  17,
+    "StartTime":  "2026-08-29 18:54:05",
+    "Status":  "SUCCESS"
+}

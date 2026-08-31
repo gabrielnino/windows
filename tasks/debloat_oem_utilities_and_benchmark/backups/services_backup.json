@@ -1,0 +1,62 @@
+﻿[
+    {
+        "Name":  "AsusAppService",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "ASUSSoftwareManager",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "ASUSSwitch",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "ASUSSystemAnalysis",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "ASUSSystemDiagnosis",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "DiagTrack",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "dmwappushservice",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "dptftcs",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "DPS",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "InventorySvc",
+        "State":  "Running",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "wuqisvc",
+        "State":  "Running",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "MapsBroker",
+        "State":  "Stopped",
+        "StartMode":  "Auto"
+    }
+]

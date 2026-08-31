@@ -1,0 +1,42 @@
+﻿{
+    "StartTime":  "2026-08-29 21:01:31",
+    "SamplesCollected":  4,
+    "DryRun":  false,
+    "HighestGpuTempC":  0,
+    "EndTime":  "2026-08-29 21:01:39",
+    "AvgCpuTempC":  0,
+    "DurationSeconds":  7.91,
+    "Status":  "SUCCESS",
+    "ThermalReadings":  [
+                            {
+                                "SampleIndex":  1,
+                                "Timestamp":  "2026-08-29 21:01:32",
+                                "CpuTempC":  0,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  2,
+                                "Timestamp":  "2026-08-29 21:01:34",
+                                "CpuTempC":  0,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  3,
+                                "Timestamp":  "2026-08-29 21:01:37",
+                                "CpuTempC":  0,
+                                "GpuTempC":  0
+                            },
+                            {
+                                "SampleIndex":  4,
+                                "Timestamp":  "2026-08-29 21:01:39",
+                                "CpuTempC":  0,
+                                "GpuTempC":  0
+                            }
+                        ],
+    "OverallThermalState":  "NORMAL",
+    "Mode":  "OBSERVATION_WATCH",
+    "LowestCpuTempC":  0,
+    "HighestCpuTempC":  0,
+    "TaskName":  "monitor_hardware_temperature",
+    "AlertsTriggeredCount":  0
+}

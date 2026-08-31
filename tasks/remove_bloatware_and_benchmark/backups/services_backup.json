@@ -1,0 +1,17 @@
+﻿[
+    {
+        "Name":  "edgeupdate",
+        "State":  "Stopped",
+        "StartMode":  "Auto"
+    },
+    {
+        "Name":  "edgeupdatem",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    },
+    {
+        "Name":  "MicrosoftCopilotElevationService",
+        "State":  "Stopped",
+        "StartMode":  "Manual"
+    }
+]

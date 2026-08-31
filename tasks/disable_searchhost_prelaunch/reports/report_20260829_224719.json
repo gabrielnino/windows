@@ -1,0 +1,20 @@
+﻿{
+    "PostSearchHostCount":  0,
+    "ProcessesTerminated":  [
+                                "msedgewebview2 (PID: 4544)",
+                                "msedgewebview2 (PID: 8012)",
+                                "msedgewebview2 (PID: 7904)",
+                                "msedgewebview2 (PID: 11820)",
+                                "msedgewebview2 (PID: 14536)",
+                                "SearchHost (PID: 5184)"
+                            ],
+    "DurationSeconds":  1.68,
+    "EndTime":  "2026-08-29 22:47:20",
+    "PrelaunchDisabled":  true,
+    "TaskName":  "disable_searchhost_prelaunch",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 22:47:19",
+    "SearchHighlightsDisabled":  true,
+    "Status":  "SUCCESS",
+    "SearchWebDisabled":  true
+}

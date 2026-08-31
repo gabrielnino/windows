@@ -1,0 +1,43 @@
+﻿{
+    "UwpPackagesRemoved":  1,
+    "EndTime":  "2026-08-29 18:52:32",
+    "DurationSeconds":  49.55,
+    "NetMemoryReclaimedMB":  -164,
+    "MaxCpuTempRecordedC":  51,
+    "Status":  "SUCCESS",
+    "DryRun":  false,
+    "IterationSummaries":  [
+                               {
+                                   "PeakMemoryGB":  7.19,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.45,
+                                   "IterationIndex":  1,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               },
+                               {
+                                   "PeakMemoryGB":  7.26,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.11,
+                                   "IterationIndex":  2,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               },
+                               {
+                                   "PeakMemoryGB":  7.21,
+                                   "PeakCpuTempC":  51,
+                                   "BenchDurationSec":  8.11,
+                                   "IterationIndex":  3,
+                                   "WorkersCount":  4,
+                                   "HealthAuditStatus":  "100% OPERATIONAL \u0026 HEALTHY"
+                               }
+                           ],
+    "ScheduledTasksDisabled":  3,
+    "InitialFreeMemoryGB":  8.9,
+    "FinalFreeMemoryGB":  8.74,
+    "CompletedIterations":  3,
+    "TelemetryServicesStopped":  7,
+    "TaskName":  "debloat_oem_utilities_and_benchmark",
+    "StartTime":  "2026-08-29 18:51:43",
+    "AsusServicesDisabled":  5
+}

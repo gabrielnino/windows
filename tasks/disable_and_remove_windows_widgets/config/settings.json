@@ -1,0 +1,8 @@
+{
+  "task_name": "disable_and_remove_windows_widgets",
+  "version": "1.0.0",
+  "remove_web_experience_package": true,
+  "package_name": "MicrosoftWindows.Client.WebExperience",
+  "disable_widgets_policy": true,
+  "hide_taskbar_widgets_button": true
+}

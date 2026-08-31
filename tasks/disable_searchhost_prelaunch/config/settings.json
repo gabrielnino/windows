@@ -1,0 +1,8 @@
+{
+  "task_name": "disable_searchhost_prelaunch",
+  "version": "1.0.0",
+  "disable_prelaunch": true,
+  "disable_search_highlights": true,
+  "disable_web_search": true,
+  "terminate_searchhost": true
+}

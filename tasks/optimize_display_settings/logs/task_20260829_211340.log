@@ -1,0 +1,19 @@
+[2026-08-29 21:13:40] [INFO] [Step 1/4] Reading target configurations from config/settings.json...
+[2026-08-29 21:13:40] [INFO] [Step 2/4] Inspecting current display modes on all active displays...
+[2026-08-29 21:13:40] [INFO] Current: \\.\DISPLAY1 -> 2880x1620@120Hz
+[2026-08-29 21:13:40] [INFO] Current: \\.\DISPLAY2 -> 1920x1080@60Hz
+[2026-08-29 21:13:40] [INFO] Current: \\.\DISPLAY3 -> 1920x1080@60Hz
+[2026-08-29 21:13:40] [INFO] [Step 3/4] Staging and applying optimal resolutions & refresh rates...
+[2026-08-29 21:13:40] [INFO] Target for \\.\DISPLAY1 - 2880x1620 @ 120 Hz (ASUS Vivobook OLED 15.6 inch native panel)
+[2026-08-29 21:13:40] [INFO] Staged \\.\DISPLAY1 -> 2880x1620 @ 120 Hz (StageCode: -1)
+[2026-08-29 21:13:40] [INFO] Target for \\.\DISPLAY2 - 1920x1080 @ 75 Hz (Samsung LF22T35 External Monitor 1)
+[2026-08-29 21:13:40] [INFO] Staged \\.\DISPLAY2 -> 1920x1080 @ 75 Hz (StageCode: -1)
+[2026-08-29 21:13:40] [INFO] Target for \\.\DISPLAY3 - 1920x1080 @ 75 Hz (Samsung LF22T35 External Monitor 2)
+[2026-08-29 21:13:40] [INFO] Staged \\.\DISPLAY3 -> 1920x1080 @ 75 Hz (StageCode: -1)
+[2026-08-29 21:13:40] [INFO] Committing display modes across all monitors simultaneously...
+[2026-08-29 21:13:40] [INFO] CommitAllDisplays returned ResultCode: -1
+[2026-08-29 21:13:42] [INFO] [Step 4/4] Verifying post-optimization display modes...
+[2026-08-29 21:13:42] [INFO] Post-Optimization: \\.\DISPLAY1 -> 2880x1620@120Hz
+[2026-08-29 21:13:43] [INFO] Post-Optimization: \\.\DISPLAY2 -> 1920x1080@60Hz
+[2026-08-29 21:13:43] [INFO] Post-Optimization: \\.\DISPLAY3 -> 1920x1080@60Hz
+[2026-08-29 21:13:43] [INFO] Display optimization report generated at: F:\windows\tasks\optimize_display_settings\reports\report_20260829_211340.md

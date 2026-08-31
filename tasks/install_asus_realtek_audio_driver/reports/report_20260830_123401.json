@@ -1,0 +1,53 @@
+﻿{
+    "DurationSeconds":  53.35,
+    "AudioEndpoints":  [
+                           {
+                               "Name":  "Microsoft Streaming Service Proxy",
+                               "Status":  "OK"
+                           },
+                           {
+                               "Name":  "OpenRun Pro 2 by Shokz",
+                               "Status":  "OK"
+                           },
+                           {
+                               "Name":  "High Definition Audio Device",
+                               "Status":  "OK"
+                           },
+                           {
+                               "Name":  "OpenRun Pro 2 by Shokz Hands-Free",
+                               "Status":  "OK"
+                           },
+                           {
+                               "Name":  "Microphone (High Definition Audio Device)",
+                               "Status":  "OK"
+                           },
+                           {
+                               "Name":  "Speakers (High Definition Audio Device)",
+                               "Status":  "OK"
+                           }
+                       ],
+    "DownloadedFiles":  [
+                            {
+                                "Name":  "Realtek Audio Driver",
+                                "Path":  "F:\\windows\\tasks\\install_asus_realtek_audio_driver\\artifacts\\Audio_Realtek_K6500ZC.exe",
+                                "SizeMB":  37.64
+                            },
+                            {
+                                "Name":  "Intel Smart Sound Technology Driver",
+                                "Path":  "F:\\windows\\tasks\\install_asus_realtek_audio_driver\\artifacts\\iSST_Intel_K6500ZC.exe",
+                                "SizeMB":  65.72
+                            }
+                        ],
+    "ExtractedPackages":  [
+                              "F:\\windows\\tasks\\install_asus_realtek_audio_driver\\artifacts\\Realtek_Audio_Driver",
+                              "F:\\windows\\tasks\\install_asus_realtek_audio_driver\\artifacts\\Intel_Smart_Sound_Technology_Driver"
+                          ],
+    "TaskName":  "install_asus_realtek_audio_driver",
+    "DryRun":  false,
+    "InstalledDrivers":  [
+
+                         ],
+    "StartTime":  "2026-08-30 12:34:01",
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-30 12:34:54"
+}

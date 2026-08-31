@@ -1,0 +1,70 @@
+[2026-08-29 20:17:37] [INFO] [Step 1/4] Initializing Hardware Temperature Monitor Harness...
+[2026-08-29 20:17:37] [INFO] Target Workspace Task Directory: F:\windows\tasks\monitor_hardware_temperature
+[2026-08-29 20:17:37] [INFO] Configured Thresholds -> CPU: [Warn: 75°C | Danger: 85°C | Crit: 95°C]
+[2026-08-29 20:17:37] [INFO] Configured Thresholds -> GPU: [Warn: 75°C | Danger: 83°C | Crit: 90°C]
+[2026-08-29 20:17:40] [INFO] Detected Processor: 12th Gen Intel(R) Core(TM) i7-12650H (Cores: 10, Threads: 16)
+[2026-08-29 20:17:40] [INFO] [Step 2/4] Testing sensor access and baseline readings...
+[2026-08-29 20:17:41] [INFO] Found CPU Sensor: ACPI\ThermalZone\THRM_0 -> 52 °C (Trip: 103 °C)
+[2026-08-29 20:17:41] [INFO] Found GPU Controller: Microsoft Basic Display Adapter (Status: OK, Driver: 10.0.26100.1)
+[2026-08-29 20:17:41] [INFO] [Step 3/4] Running temperature observation loop (DryRun: False)...
+[2026-08-29 20:17:42] [INFO] [Sample #1] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:17:47] [INFO] [Sample #2] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:17:53] [INFO] [Sample #3] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:17:58] [INFO] [Sample #4] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:03] [INFO] [Sample #5] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:09] [INFO] [Sample #6] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:14] [INFO] [Sample #7] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:19] [INFO] [Sample #8] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:25] [INFO] [Sample #9] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:30] [INFO] [Sample #10] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:35] [INFO] [Sample #11] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:41] [INFO] [Sample #12] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:46] [INFO] [Sample #13] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:52] [INFO] [Sample #14] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:18:57] [INFO] [Sample #15] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:02] [INFO] [Sample #16] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:08] [INFO] [Sample #17] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:13] [INFO] [Sample #18] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:18] [INFO] [Sample #19] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:24] [INFO] [Sample #20] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:29] [INFO] [Sample #21] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:34] [INFO] [Sample #22] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:40] [INFO] [Sample #23] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:45] [INFO] [Sample #24] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:50] [INFO] [Sample #25] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:19:56] [INFO] [Sample #26] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:01] [INFO] [Sample #27] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:06] [INFO] [Sample #28] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:12] [INFO] [Sample #29] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:17] [INFO] [Sample #30] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:23] [INFO] [Sample #31] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:28] [INFO] [Sample #32] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:33] [INFO] [Sample #33] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:39] [INFO] [Sample #34] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:44] [INFO] [Sample #35] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:49] [INFO] [Sample #36] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:20:55] [INFO] [Sample #37] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:00] [INFO] [Sample #38] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:05] [INFO] [Sample #39] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:11] [INFO] [Sample #40] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:16] [INFO] [Sample #41] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:21] [INFO] [Sample #42] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:27] [INFO] [Sample #43] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:32] [INFO] [Sample #44] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:38] [INFO] [Sample #45] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:43] [INFO] [Sample #46] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:48] [INFO] [Sample #47] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:54] [INFO] [Sample #48] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:21:59] [INFO] [Sample #49] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:04] [INFO] [Sample #50] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:10] [INFO] [Sample #51] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:15] [INFO] [Sample #52] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:20] [INFO] [Sample #53] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:26] [INFO] [Sample #54] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:31] [INFO] [Sample #55] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:36] [INFO] [Sample #56] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:42] [INFO] [Sample #57] CPU Current Temp: 52°C | Status: NORMAL
+[2026-08-29 20:22:42] [INFO] Watch duration limit of 300s reached.
+[2026-08-29 20:22:42] [INFO] [Step 4/4] Generating summary reports and key performance indicators...
+[2026-08-29 20:22:42] [INFO] Execution complete. Report generated at: F:\windows\tasks\monitor_hardware_temperature\reports\report_20260829_201737.md
+[2026-08-29 20:22:42] [INFO] Overall Thermal State: NORMAL | Highest CPU: 52°C | Alerts: 0

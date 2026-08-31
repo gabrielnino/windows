@@ -1,0 +1,17 @@
+﻿{
+    "DurationSeconds":  16.4,
+    "UninstallerExecuted":  true,
+    "PoliciesConfigured":  true,
+    "StartTime":  "2026-08-29 19:11:44",
+    "TaskName":  "disconnect_and_uninstall_onedrive",
+    "ProcessesTerminated":  [
+                                "FileCoAuth (PID: 14992)",
+                                "OneDrive (PID: 6532)"
+                            ],
+    "SidebarPinnedDisabled":  true,
+    "DryRun":  false,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 19:12:01",
+    "StartupKeyRemoved":  true,
+    "PostActiveProcessesCount":  0
+}

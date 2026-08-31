@@ -1,0 +1,9 @@
+{
+  "task_name": "optimize_antigravity_ide",
+  "version": "1.0.0",
+  "enable_gpu_acceleration": true,
+  "disable_background_timer_throttling": true,
+  "max_old_space_size_mb": 4096,
+  "optimize_file_watcher": true,
+  "cleanup_stale_temp_media": true
+}

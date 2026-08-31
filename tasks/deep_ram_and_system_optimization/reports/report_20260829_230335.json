@@ -1,0 +1,22 @@
+﻿{
+    "HibernationDisabled":  true,
+    "InitialFreeMemoryGB":  8.42,
+    "FinalFreeMemoryGB":  9.37,
+    "DefenderExclusionsAdded":  8,
+    "DurationSeconds":  5.94,
+    "TaskName":  "deep_ram_and_system_optimization",
+    "UserServicesDisabled":  [
+                                 "CDPUserSvc",
+                                 "PimIndexMaintenanceSvc",
+                                 "UserDataSvc",
+                                 "UnistoreSvc",
+                                 "CloudBackupRestoreSvc",
+                                 "DevicesFlowUserSvc"
+                             ],
+    "StartTime":  "2026-08-29 23:03:35",
+    "DryRun":  false,
+    "NetMemoryReclaimedMB":  973,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 23:03:41",
+    "GameDvrDisabled":  true
+}

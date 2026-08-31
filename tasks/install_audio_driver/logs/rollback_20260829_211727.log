@@ -1,0 +1,4 @@
+[2026-08-29 21:17:27] [WARN] Initiating rollback sequence for audio driver task. Reason: User cancelled installation to avoid bloatware
+[2026-08-29 21:17:27] [INFO] Removing artifact: F:\windows\tasks\install_audio_driver\artifacts\Intel_ISST_K6500ZC.exe
+[2026-08-29 21:17:27] [INFO] Removing artifact: F:\windows\tasks\install_audio_driver\artifacts\Realtek_Audio_K6500ZC.exe
+[2026-08-29 21:17:27] [INFO] Rollback and cleanup finished successfully.

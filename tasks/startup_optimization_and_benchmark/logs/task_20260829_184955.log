@@ -1,0 +1,48 @@
+[2026-08-29 18:49:55] [INFO] [Step 1/5] Auditing all applications configured to start with Windows...
+[2026-08-29 18:49:55] [INFO] Found Startup App: OneDrive -> "C:\Users\luisg\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background [Current User (Registry)]
+[2026-08-29 18:49:55] [INFO] Found Startup App: MicrosoftEdgeAutoLaunch_E90AA34631D0A1DE7BBB9E92F473D05D -> "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start [Current User (Registry)]
+[2026-08-29 18:49:55] [INFO] Found Startup App: SecurityHealth -> C:\WINDOWS\system32\SecurityHealthSystray.exe [All Users (Registry 64-bit)]
+[2026-08-29 18:49:55] [INFO] Total Startup Applications Detected: 3
+[2026-08-29 18:49:55] [INFO] Exported Startup Apps inventory to: F:\windows\tasks\startup_optimization_and_benchmark\artifacts\startup_applications.csv and F:\windows\tasks\startup_optimization_and_benchmark\artifacts\startup_applications.json
+[2026-08-29 18:49:55] [INFO] [Step 2/5] Beginning 3-Iteration Multi-Process Stress & Look Engineer Cycle...
+[2026-08-29 18:49:55] [INFO] ==========================================================
+[2026-08-29 18:49:55] [INFO] >>> STARTING ITERATION 1 OF 3 <<<
+[2026-08-29 18:49:55] [INFO] ==========================================================
+[2026-08-29 18:49:55] [INFO] [Iteration 1 | Phase 1/3] Pre-benchmark memory check and garbage collection...
+[2026-08-29 18:49:55] [INFO] Pre-test Memory: 6.66 GB Used / 9.03 GB Free (42.4%)
+[2026-08-29 18:49:55] [INFO] [Iteration 1 | Phase 2/3] Launching 4 parallel compute workers for 6s stress test...
+[2026-08-29 18:50:03] [INFO] Phase 2 Completed: Stress ran for 8.49s | Peak Temp: 51°C | Peak RAM: 6.92 GB
+[2026-08-29 18:50:03] [INFO] [Iteration 1 | Phase 3/3] Performing 'Look Engineer' Subsystem Audit...
+[2026-08-29 18:50:03] [INFO] Display Engine: 3 active workspaces operational (ASUS OLED + 2x Samsung LF22T35).
+[2026-08-29 18:50:04] [INFO] Audio Engine: 2 active audio endpoints verified.
+[2026-08-29 18:50:04] [INFO] Network Stack: ONLINE (MediaTek Wi-Fi 6E MT7922 160MHz Wireless LAN Card)
+[2026-08-29 18:50:04] [INFO] Post-Stress Memory State: 6.72 GB Used / 8.97 GB Free (42.8%)
+[2026-08-29 18:50:04] [INFO] Iteration 1 Look Engineer Status: 100% OPERATIONAL & HEALTHY
+[2026-08-29 18:50:05] [INFO] ==========================================================
+[2026-08-29 18:50:05] [INFO] >>> STARTING ITERATION 2 OF 3 <<<
+[2026-08-29 18:50:05] [INFO] ==========================================================
+[2026-08-29 18:50:05] [INFO] [Iteration 2 | Phase 1/3] Pre-benchmark memory check and garbage collection...
+[2026-08-29 18:50:05] [INFO] Pre-test Memory: 6.73 GB Used / 8.96 GB Free (42.9%)
+[2026-08-29 18:50:05] [INFO] [Iteration 2 | Phase 2/3] Launching 4 parallel compute workers for 6s stress test...
+[2026-08-29 18:50:13] [INFO] Phase 2 Completed: Stress ran for 8.06s | Peak Temp: 51°C | Peak RAM: 6.97 GB
+[2026-08-29 18:50:13] [INFO] [Iteration 2 | Phase 3/3] Performing 'Look Engineer' Subsystem Audit...
+[2026-08-29 18:50:13] [INFO] Display Engine: 3 active workspaces operational (ASUS OLED + 2x Samsung LF22T35).
+[2026-08-29 18:50:14] [INFO] Audio Engine: 2 active audio endpoints verified.
+[2026-08-29 18:50:14] [INFO] Network Stack: ONLINE (MediaTek Wi-Fi 6E MT7922 160MHz Wireless LAN Card)
+[2026-08-29 18:50:14] [INFO] Post-Stress Memory State: 6.3 GB Used / 9.39 GB Free (40.2%)
+[2026-08-29 18:50:14] [INFO] Iteration 2 Look Engineer Status: 100% OPERATIONAL & HEALTHY
+[2026-08-29 18:50:15] [INFO] ==========================================================
+[2026-08-29 18:50:15] [INFO] >>> STARTING ITERATION 3 OF 3 <<<
+[2026-08-29 18:50:15] [INFO] ==========================================================
+[2026-08-29 18:50:15] [INFO] [Iteration 3 | Phase 1/3] Pre-benchmark memory check and garbage collection...
+[2026-08-29 18:50:15] [INFO] Pre-test Memory: 6.29 GB Used / 9.4 GB Free (40.1%)
+[2026-08-29 18:50:15] [INFO] [Iteration 3 | Phase 2/3] Launching 4 parallel compute workers for 6s stress test...
+[2026-08-29 18:50:23] [INFO] Phase 2 Completed: Stress ran for 8.17s | Peak Temp: 51°C | Peak RAM: 6.52 GB
+[2026-08-29 18:50:23] [INFO] [Iteration 3 | Phase 3/3] Performing 'Look Engineer' Subsystem Audit...
+[2026-08-29 18:50:23] [INFO] Display Engine: 3 active workspaces operational (ASUS OLED + 2x Samsung LF22T35).
+[2026-08-29 18:50:24] [INFO] Audio Engine: 2 active audio endpoints verified.
+[2026-08-29 18:50:24] [INFO] Network Stack: ONLINE (MediaTek Wi-Fi 6E MT7922 160MHz Wireless LAN Card)
+[2026-08-29 18:50:24] [INFO] Post-Stress Memory State: 6.29 GB Used / 9.4 GB Free (40.1%)
+[2026-08-29 18:50:24] [INFO] Iteration 3 Look Engineer Status: 100% OPERATIONAL & HEALTHY
+[2026-08-29 18:50:25] [INFO] [Step 5/5] Generating final execution summary report...
+[2026-08-29 18:50:25] [INFO] Startup & Benchmark task complete. Report generated at: F:\windows\tasks\startup_optimization_and_benchmark\reports\report_20260829_184955.md

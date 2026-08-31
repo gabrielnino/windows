@@ -1,0 +1,23 @@
+{
+  "task_name": "setup_thorium_optimized_launcher",
+  "version": "1.0.0",
+  "shortcut_name": "Thorium (Optimize Mode)",
+  "optimization_flags": [
+    "--process-per-site",
+    "--renderer-process-limit=10",
+    "--enable-gpu-rasterization",
+    "--enable-zero-copy",
+    "--smooth-scrolling",
+    "--ignore-gpu-blocklist",
+    "--enable-hardware-overlays",
+    "--enable-aggressive-tab-discard",
+    "--disk-cache-size=104857600",
+    "--media-cache-size=52428800",
+    "--enable-features=VaapiVideoDecoder,ParallelDownloading,CanvasOopRasterization,SmoothScrolling,WebRtcHideLocalIpsWithMdns,BackForwardCache,AutomaticTabDiscarding,HighEfficiencyModeAvailable,PageLifecycle",
+    "--disable-features=MediaRouter,GlobalMediaControls,TranslateUI",
+    "--js-flags=--max-old-space-size=2048"
+  ],
+  "pin_to_taskbar": true,
+  "create_desktop_shortcut": true,
+  "create_start_menu_shortcut": true
+}

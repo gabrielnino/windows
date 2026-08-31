@@ -1,0 +1,15 @@
+﻿{
+    "HibernateTimeoutAcMin":  0,
+    "LidCloseActionAc":  "Do Nothing (0)",
+    "DurationSeconds":  1.1,
+    "TaskName":  "configure_ac_power_plan",
+    "ContinuousOperationReady":  true,
+    "StartTime":  "2026-08-29 22:42:58",
+    "ActiveScheme":  "Power Scheme GUID: 381b4222-f694-41f0-9685-ff5bb260df2e  (Balanced)",
+    "DryRun":  false,
+    "Status":  "SUCCESS",
+    "StandbyTimeoutAcMin":  0,
+    "EndTime":  "2026-08-29 22:42:59",
+    "DiskTimeoutAcMin":  0,
+    "MonitorTimeoutAcMin":  10
+}

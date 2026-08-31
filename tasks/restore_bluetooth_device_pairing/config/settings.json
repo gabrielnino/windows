@@ -1,0 +1,12 @@
+{
+  "task_name": "restore_bluetooth_device_pairing",
+  "version": "1.0.0",
+  "services_to_enable": [
+    "DevicesFlowUserSvc",
+    "DevicePickerUserSvc",
+    "DeviceAssociationBrokerSvc",
+    "DeviceAssociationService",
+    "BluetoothUserService",
+    "bthserv"
+  ]
+}

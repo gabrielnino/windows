@@ -1,0 +1,31 @@
+[2026-08-29 23:03:35] [INFO] [Step 1/5] Loading configuration and capturing memory baseline...
+[2026-08-29 23:03:35] [INFO] Memory Baseline: 7.27 GB Used / 8.42 GB Free (46.3%)
+[2026-08-29 23:03:35] [INFO] [Step 2/5] Disabling per-user sync service templates in registry...
+[2026-08-29 23:03:35] [INFO] Disabled per-user service template: CDPUserSvc (Start=4)
+[2026-08-29 23:03:35] [INFO] Disabled per-user service template: PimIndexMaintenanceSvc (Start=4)
+[2026-08-29 23:03:35] [INFO] Disabled per-user service template: UserDataSvc (Start=4)
+[2026-08-29 23:03:35] [INFO] Disabled per-user service template: UnistoreSvc (Start=4)
+[2026-08-29 23:03:35] [INFO] Disabled per-user service template: CloudBackupRestoreSvc (Start=4)
+[2026-08-29 23:03:35] [INFO] Disabled per-user service template: DevicesFlowUserSvc (Start=4)
+[2026-08-29 23:03:36] [INFO] Stopped active per-user service: CDPUserSvc_76376
+[2026-08-29 23:03:36] [INFO] Stopped active per-user service: CloudBackupRestoreSvc_76376
+[2026-08-29 23:03:36] [INFO] Stopped active per-user service: DevicesFlowUserSvc_76376
+[2026-08-29 23:03:37] [INFO] Stopped active per-user service: PimIndexMaintenanceSvc_76376
+[2026-08-29 23:03:37] [INFO] Stopped active per-user service: UnistoreSvc_76376
+[2026-08-29 23:03:37] [INFO] Stopped active per-user service: UserDataSvc_76376
+[2026-08-29 23:03:37] [INFO] [Step 3/5] Disabling GameDVR background video recording and GPU capture...
+[2026-08-29 23:03:37] [INFO] GameDVR background video capture completely disabled.
+[2026-08-29 23:03:37] [INFO] [Step 4/5] Adding high-performance development exclusions to Windows Defender...
+[2026-08-29 23:03:38] [INFO] Added Defender Path Exclusion: F:\
+[2026-08-29 23:03:38] [INFO] Added Defender Path Exclusion: C:\Users\luisg\AppData\Local\Programs\antigravity
+[2026-08-29 23:03:38] [INFO] Added Defender Path Exclusion: C:\Users\luisg\AppData\Local\Thorium
+[2026-08-29 23:03:38] [INFO] Added Defender Path Exclusion: C:\Users\luisg\.gemini
+[2026-08-29 23:03:38] [INFO] Added Defender Process Exclusion: Antigravity.exe
+[2026-08-29 23:03:38] [INFO] Added Defender Process Exclusion: language_server.exe
+[2026-08-29 23:03:38] [INFO] Added Defender Process Exclusion: thorium.exe
+[2026-08-29 23:03:38] [INFO] Added Defender Process Exclusion: pwsh.exe
+[2026-08-29 23:03:38] [INFO] Disabling Windows Hibernation (powercfg /h off)...
+[2026-08-29 23:03:38] [INFO] Hibernation disabled (hiberfil.sys deleted from C:\).
+[2026-08-29 23:03:38] [INFO] [Step 5/5] Flushing working sets and evaluating memory gains...
+[2026-08-29 23:03:41] [INFO] Post-Optimization Memory: 6.32 GB Used / 9.37 GB Free (40.3%)
+[2026-08-29 23:03:41] [INFO] Deep RAM optimization complete. Report generated at: F:\windows\tasks\deep_ram_and_system_optimization\reports\report_20260829_230335.md

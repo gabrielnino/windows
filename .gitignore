@@ -1,0 +1,19 @@
+# Large Binary Installer Archives & Large Driver Blobs (>40MB)
+tasks/**/artifacts/*.exe
+tasks/**/artifacts/*.dat
+tasks/**/artifacts/*.DAT
+tasks/**/artifacts/*.zip
+tasks/**/artifacts/*.7z
+tasks/**/artifacts/*.wav
+tasks/**/artifacts/Realtek_Extracted/
+tasks/**/artifacts/ISST_Extracted/
+
+# Temporary files & swap
+*.tmp
+*.temp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Git ignores
+.git/

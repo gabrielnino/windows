@@ -1,0 +1,14 @@
+{
+  "task_name": "system_audit",
+  "version": "1.0.0",
+  "audit_scope": {
+    "include_hardware": true,
+    "include_operating_system": true,
+    "include_services": true,
+    "include_software_inventory": true,
+    "include_windows_features": true,
+    "include_network_adapters": true,
+    "include_storage_devices": true
+  },
+  "export_formats": ["json", "markdown"]
+}

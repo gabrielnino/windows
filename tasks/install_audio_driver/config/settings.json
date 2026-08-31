@@ -1,0 +1,17 @@
+{
+  "task_name": "install_audio_driver",
+  "version": "1.0.0",
+  "system_model": "ASUS Vivobook Pro 15 OLED K6500ZC",
+  "target_driver": {
+    "name": "Realtek Audio Driver (Dolby DCH)",
+    "version": "V6.0.9329.1",
+    "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Audio/27736/Audio_DriverOnly_Dolby_DCH_Realtek_Z_V6.0.9329.1_27736_1.exe?model=K6500ZC",
+    "hardware_target": "HDAUDIO\\FUNC_01&VEN_10EC&DEV_0294"
+  },
+  "sst_driver": {
+    "name": "Intel Smart Sound Technology (ISST) Driver",
+    "version": "V10.29.00.7767",
+    "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Audio/28387/iSST_DCH_Intel_Z_V10.29.00.7767_28387_1.exe?model=K6500ZC",
+    "hardware_target": "INTELAUDIO\\DSP_CTLR_DEV_51C8"
+  }
+}

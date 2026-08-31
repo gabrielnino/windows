@@ -1,0 +1,9 @@
+{
+  "task_name": "configure_display_topology",
+  "version": "1.0.0",
+  "target_topology": "Extend",
+  "options": {
+    "extend_command": "DisplaySwitch.exe /extend",
+    "fallback_pnp_reenumerate": true
+  }
+}

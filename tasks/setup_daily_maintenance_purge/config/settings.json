@@ -1,0 +1,14 @@
+{
+  "task_name": "setup_daily_maintenance_purge",
+  "version": "1.0.0",
+  "scheduled_task_name": "Maintenance_DailyPerformancePurge",
+  "triggers": [
+    "AtLogOn",
+    "Daily_06_00_AM"
+  ],
+  "clean_windows_temp": true,
+  "clean_thorium_cache": true,
+  "clean_antigravity_cache": true,
+  "clean_crash_dumps": true,
+  "flush_memory": true
+}

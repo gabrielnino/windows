@@ -1,0 +1,19 @@
+﻿{
+    "DurationSeconds":  6.07,
+    "ServicesDisabled":  [
+                             "InstallService"
+                         ],
+    "PackagesUninstalled":  [
+                                "Microsoft.OutlookForWindows",
+                                "Microsoft.WindowsStore"
+                            ],
+    "EndTime":  "2026-08-29 19:36:40",
+    "StartupEntriesCleaned":  2,
+    "TaskName":  "uninstall_outlook_and_store",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 19:36:34",
+    "Status":  "SUCCESS",
+    "TasksDisabled":  [
+                          "ScanForUpdatesAsUser"
+                      ]
+}

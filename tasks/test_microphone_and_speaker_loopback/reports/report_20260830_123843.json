@@ -1,0 +1,14 @@
+﻿{
+    "RMSEnergy":  0.48,
+    "DurationSeconds":  15.06,
+    "StartTime":  "2026-08-30 12:38:43",
+    "MicrophoneFunctional":  true,
+    "TaskName":  "test_microphone_and_speaker_loopback",
+    "DryRun":  false,
+    "SpeechPlayed":  true,
+    "AudioFileSizeKB":  684.15,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-30 12:38:58",
+    "AudioCaptured":  true,
+    "PeakAmplitude":  3
+}

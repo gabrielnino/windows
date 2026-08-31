@@ -1,0 +1,18 @@
+{
+  "task_name": "startup_optimization_and_benchmark",
+  "version": "1.0.0",
+  "iterations": 3,
+  "startup_audit_locations": [
+    "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "HKLM:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "HKLM:\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "UserStartupFolder",
+    "CommonStartupFolder"
+  ],
+  "benchmark_parameters": {
+    "worker_threads": 4,
+    "workload_duration_seconds": 6,
+    "memory_buffer_mb": 256,
+    "cpu_thermal_limit_celsius": 85.0
+  }
+}

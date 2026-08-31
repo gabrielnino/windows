@@ -1,0 +1,8 @@
+{
+  "task_name": "set_black_wallpaper",
+  "version": "1.0.0",
+  "color_hex": "#000000",
+  "color_rgb": [0, 0, 0],
+  "wallpaper_style": "Fit",
+  "apply_all_monitors": true
+}

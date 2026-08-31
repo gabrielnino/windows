@@ -1,0 +1,8 @@
+{
+  "task_name": "install_powershell7",
+  "version": "1.0.0",
+  "package_id": "Microsoft.PowerShell",
+  "source": "winget",
+  "silent": true,
+  "accept_agreements": true
+}

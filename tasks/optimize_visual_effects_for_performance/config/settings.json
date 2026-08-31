@@ -1,0 +1,11 @@
+{
+  "task_name": "optimize_visual_effects_for_performance",
+  "version": "1.0.0",
+  "disable_transparency": true,
+  "disable_window_animations": true,
+  "disable_taskbar_animations": true,
+  "disable_menu_fade_effects": true,
+  "disable_window_shadows": true,
+  "disable_cursor_shadow": true,
+  "preserve_cleartype_font_smoothing": true
+}

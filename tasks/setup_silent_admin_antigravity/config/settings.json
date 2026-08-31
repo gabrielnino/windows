@@ -1,0 +1,8 @@
+{
+  "task_name": "setup_silent_admin_antigravity",
+  "version": "1.0.0",
+  "antigravity_path": "C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\Antigravity.exe",
+  "task_scheduler_name": "Launch_Antigravity_Elevated",
+  "launcher_dir": "f:\\windows\\launchers",
+  "shortcut_name": "Antigravity (Admin Silencioso).lnk"
+}

@@ -1,0 +1,14 @@
+﻿{
+    "PolicyConfigured":  true,
+    "WebView2Preserved":  true,
+    "TaskName":  "uninstall_microsoft_edge",
+    "StartTime":  "2026-08-29 19:07:54",
+    "ProcessesTerminated":  0,
+    "DryRun":  false,
+    "ShortcutsRemoved":  0,
+    "IfeoBlocked":  true,
+    "DurationSeconds":  0.18,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 19:07:54",
+    "StartupKeyRemoved":  false
+}

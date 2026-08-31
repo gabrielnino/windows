@@ -1,0 +1,9 @@
+{
+  "task_name": "enable_dark_theme",
+  "version": "1.0.0",
+  "theme_settings": {
+    "system_dark_mode": true,
+    "apps_dark_mode": true,
+    "enable_transparency": true
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+    "DurationSeconds":  0.11,
+    "DisplaysConfigured":  3,
+    "WallpaperTheme":  "Minimalist Obsidian Black Geometric",
+    "EndTime":  "2026-08-29 18:31:17",
+    "ImageSizeMB":  0.45,
+    "TaskName":  "set_minimalist_black_wallpaper",
+    "DryRun":  false,
+    "ImageFilePath":  "F:\\windows\\tasks\\set_minimalist_black_wallpaper\\artifacts\\minimalist_black_wallpaper.jpg",
+    "StartTime":  "2026-08-29 18:31:17",
+    "Status":  "SUCCESS",
+    "PreviousWallpaper":  "C:\\Users\\luisg\\AppData\\Roaming\\Microsoft\\Windows\\Themes\\TranscodedWallpaper"
+}

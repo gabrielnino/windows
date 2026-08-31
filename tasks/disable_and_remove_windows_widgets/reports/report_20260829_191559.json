@@ -1,0 +1,15 @@
+﻿{
+    "DurationSeconds":  2.82,
+    "EndTime":  "2026-08-29 19:16:02",
+    "WebExperienceRemoved":  true,
+    "TaskbarButtonHidden":  true,
+    "ExplorerRestarted":  true,
+    "PolicyConfigured":  true,
+    "TaskName":  "disable_and_remove_windows_widgets",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 19:15:59",
+    "Status":  "SUCCESS",
+    "ProcessesTerminated":  [
+
+                            ]
+}

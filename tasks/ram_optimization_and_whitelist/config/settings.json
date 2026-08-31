@@ -1,0 +1,32 @@
+{
+  "task_name": "ram_optimization_and_whitelist",
+  "version": "1.0.0",
+  "whitelisted_processes": [
+    "Antigravity",
+    "language_server",
+    "msedgewebview2",
+    "thorium",
+    "dwm",
+    "explorer",
+    "taskmgr",
+    "pwsh",
+    "powershell",
+    "conhost",
+    "MsMpEng",
+    "SecurityHealthService",
+    "SecurityHealthSystray",
+    "lsass",
+    "services",
+    "wininit",
+    "csrss",
+    "smss",
+    "svchost",
+    "fontdrvhost",
+    "audiodg",
+    "ipfsvc",
+    "ipf_helper"
+  ],
+  "disable_windows_widgets": true,
+  "terminate_non_essential_background_apps": true,
+  "trim_working_sets": true
+}

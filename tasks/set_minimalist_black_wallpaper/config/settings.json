@@ -1,0 +1,7 @@
+{
+  "task_name": "set_minimalist_black_wallpaper",
+  "version": "1.0.0",
+  "wallpaper_theme": "minimalist_black_geometric",
+  "wallpaper_style": "Fit",
+  "apply_all_monitors": true
+}

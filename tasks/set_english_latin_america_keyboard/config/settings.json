@@ -1,0 +1,9 @@
+{
+  "task_name": "set_english_latin_america_keyboard",
+  "version": "1.0.0",
+  "target_language_tag": "en-US",
+  "target_input_method_tip": "0409:0000080A",
+  "target_keyboard_description": "English (United States) with Latin American Keyboard Layout",
+  "set_default_override": true,
+  "sync_welcome_screen": true
+}

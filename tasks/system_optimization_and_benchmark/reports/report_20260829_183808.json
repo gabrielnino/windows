@@ -1,0 +1,46 @@
+﻿{
+    "TotalTempFilesPurged":  9,
+    "DurationSeconds":  43.11,
+    "PeakBenchmarkCpuPct":  0,
+    "NetMemoryReclaimedMB":  195,
+    "MaxCpuTempRecordedC":  51,
+    "Status":  "SUCCESS",
+    "IterationSummaries":  [
+                               {
+                                   "Phase3_HealthStatus":  "DEGRADED",
+                                   "Phase1_ServicesOptimized":  1,
+                                   "IterationIndex":  1,
+                                   "Phase1_TempMBFreed":  125.2,
+                                   "Phase2_BenchDurationSec":  18.37,
+                                   "Phase2_PeakCpuTempC":  51,
+                                   "Phase2_PeakMemoryMB":  7014
+                               },
+                               {
+                                   "Phase3_HealthStatus":  "DEGRADED",
+                                   "Phase1_ServicesOptimized":  0,
+                                   "IterationIndex":  2,
+                                   "Phase1_TempMBFreed":  0,
+                                   "Phase2_BenchDurationSec":  6.93,
+                                   "Phase2_PeakCpuTempC":  51,
+                                   "Phase2_PeakMemoryMB":  6994
+                               },
+                               {
+                                   "Phase3_HealthStatus":  "DEGRADED",
+                                   "Phase1_ServicesOptimized":  0,
+                                   "IterationIndex":  3,
+                                   "Phase1_TempMBFreed":  0,
+                                   "Phase2_BenchDurationSec":  6.98,
+                                   "Phase2_PeakCpuTempC":  51,
+                                   "Phase2_PeakMemoryMB":  6994
+                               }
+                           ],
+    "DryRun":  false,
+    "TotalIterations":  3,
+    "EndTime":  "2026-08-29 18:38:51",
+    "InitialFreeMemoryGB":  8.92,
+    "FinalFreeMemoryGB":  9.11,
+    "TotalServicesStopped":  1,
+    "TotalTempMBFreed":  125.2,
+    "TaskName":  "system_optimization_and_benchmark",
+    "StartTime":  "2026-08-29 18:38:08"
+}

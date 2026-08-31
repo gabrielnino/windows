@@ -1,0 +1,23 @@
+﻿[
+    {
+        "Name":  "OneDrive",
+        "Command":  "\"C:\\Users\\luisg\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background",
+        "Location":  "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "Scope":  "Current User (Registry)",
+        "Type":  "Registry Run"
+    },
+    {
+        "Name":  "MicrosoftEdgeAutoLaunch_E90AA34631D0A1DE7BBB9E92F473D05D",
+        "Command":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start",
+        "Location":  "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "Scope":  "Current User (Registry)",
+        "Type":  "Registry Run"
+    },
+    {
+        "Name":  "SecurityHealth",
+        "Command":  "C:\\WINDOWS\\system32\\SecurityHealthSystray.exe",
+        "Location":  "HKLM:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+        "Scope":  "All Users (Registry 64-bit)",
+        "Type":  "Registry Run"
+    }
+]

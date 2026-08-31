@@ -1,0 +1,7 @@
+﻿"DisplayName","Publisher","DisplayVersion","InstallLocation","UninstallString"
+"Antigravity 2.11.0","Google","2.11.0","Default","""C:\Users\luisg\AppData\Local\Programs\antigravity\Uninstall Antigravity.exe"" /currentuser"
+"Copilot","Microsoft Corporation","152.0.4191.42","C:\Program Files (x86)\Microsoft\Copilot\Application","""C:\Program Files (x86)\Microsoft\Copilot\Application\152.0.4191.42\Installer\copilot_setup.exe"" --uninstall --mscopilot --channel=stable --system-level --verbose-logging"
+"Microsoft Edge","Microsoft Corporation","152.0.4191.53","C:\Program Files (x86)\Microsoft\Edge\Application","""C:\Program Files (x86)\Microsoft\Edge\Application\152.0.4191.53\Installer\setup.exe"" --uninstall --msedge --channel=stable --system-level --verbose-logging"
+"Microsoft Edge WebView2 Runtime","Microsoft Corporation","152.0.4191.53","C:\Program Files (x86)\Microsoft\EdgeWebView\Application","""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\Installer\setup.exe"" --uninstall --msedgewebview --system-level --verbose-logging"
+"Microsoft OneDrive","Microsoft Corporation","26.150.0804.0011","Default","""C:\Users\luisg\AppData\Local\Microsoft\OneDrive\26.150.0804.0011\OneDriveSetup.exe""  /uninstall "
+"Microsoft Windows Application Compatibility Fix Database","Unknown","N/A","Default","C:\WINDOWS\system32\sdbinst.exe -u ""C:\WINDOWS\AppPatch\CustomSDB\{22221111-1111-1111-1111-111111111111}.sdb"""

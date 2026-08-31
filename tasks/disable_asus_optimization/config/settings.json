@@ -1,0 +1,14 @@
+{
+  "task_name": "disable_asus_optimization",
+  "version": "1.0.0",
+  "services_to_disable": [
+    "ASUSOptimization"
+  ],
+  "tasks_to_disable": [
+    "ASUS Optimization 36D18D69AFC3"
+  ],
+  "processes_to_kill": [
+    "AsusOptimization",
+    "AsusOptimizationStartupTask"
+  ]
+}

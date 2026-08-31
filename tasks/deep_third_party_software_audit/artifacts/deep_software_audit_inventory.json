@@ -1,0 +1,303 @@
+﻿{
+    "Win32Software":  [
+                          {
+                              "DisplayName":  "Antigravity 2.11.0",
+                              "Publisher":  "Google",
+                              "DisplayVersion":  "2.11.0",
+                              "InstallLocation":  "Default",
+                              "UninstallString":  "\"C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\Uninstall Antigravity.exe\" /currentuser"
+                          },
+                          {
+                              "DisplayName":  "Copilot",
+                              "Publisher":  "Microsoft Corporation",
+                              "DisplayVersion":  "152.0.4191.42",
+                              "InstallLocation":  "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application",
+                              "UninstallString":  "\"C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\152.0.4191.42\\Installer\\copilot_setup.exe\" --uninstall --mscopilot --channel=stable --system-level --verbose-logging"
+                          },
+                          {
+                              "DisplayName":  "Microsoft Edge",
+                              "Publisher":  "Microsoft Corporation",
+                              "DisplayVersion":  "152.0.4191.53",
+                              "InstallLocation":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
+                              "UninstallString":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\152.0.4191.53\\Installer\\setup.exe\" --uninstall --msedge --channel=stable --system-level --verbose-logging"
+                          },
+                          {
+                              "DisplayName":  "Microsoft Edge WebView2 Runtime",
+                              "Publisher":  "Microsoft Corporation",
+                              "DisplayVersion":  "152.0.4191.53",
+                              "InstallLocation":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
+                              "UninstallString":  "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\152.0.4191.53\\Installer\\setup.exe\" --uninstall --msedgewebview --system-level --verbose-logging"
+                          },
+                          {
+                              "DisplayName":  "Microsoft OneDrive",
+                              "Publisher":  "Microsoft Corporation",
+                              "DisplayVersion":  "26.150.0804.0011",
+                              "InstallLocation":  "Default",
+                              "UninstallString":  "\"C:\\Users\\luisg\\AppData\\Local\\Microsoft\\OneDrive\\26.150.0804.0011\\OneDriveSetup.exe\"  /uninstall "
+                          },
+                          {
+                              "DisplayName":  "Microsoft Windows Application Compatibility Fix Database",
+                              "Publisher":  "Unknown",
+                              "DisplayVersion":  "N/A",
+                              "InstallLocation":  "Default",
+                              "UninstallString":  "C:\\WINDOWS\\system32\\sdbinst.exe -u \"C:\\WINDOWS\\AppPatch\\CustomSDB\\{22221111-1111-1111-1111-111111111111}.sdb\""
+                          }
+                      ],
+    "UwpConsumerPackages":  [
+                                {
+                                    "PackageName":  "Clipchamp.Clipchamp",
+                                    "PackageFullName":  "Clipchamp.Clipchamp_4.4.10720.0_x64__yxz26nhyzhsrt",
+                                    "Publisher":  "yxz26nhyzhsrt",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.BingNews",
+                                    "PackageFullName":  "Microsoft.BingNews_1.0.2.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.BingWeather",
+                                    "PackageFullName":  "Microsoft.BingWeather_3.2.11.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.GetHelp",
+                                    "PackageFullName":  "Microsoft.GetHelp_10.2407.40222.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.MicrosoftSolitaireCollection",
+                                    "PackageFullName":  "Microsoft.MicrosoftSolitaireCollection_4.25.4290.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.Windows.DevHome",
+                                    "PackageFullName":  "Microsoft.Windows.DevHome_0.0.0.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.WindowsFeedbackHub",
+                                    "PackageFullName":  "Microsoft.WindowsFeedbackHub_1.2512.16303.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.Xbox.TCUI",
+                                    "PackageFullName":  "Microsoft.Xbox.TCUI_1.23.28005.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.XboxGameCallableUI",
+                                    "PackageFullName":  "Microsoft.XboxGameCallableUI_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy",
+                                    "Publisher":  "cw5n1h2txyewy",
+                                    "NonRemovable":  true,
+                                    "Status":  "System Core"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.XboxGamingOverlay",
+                                    "PackageFullName":  "Microsoft.XboxGamingOverlay_7.325.7221.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.XboxIdentityProvider",
+                                    "PackageFullName":  "Microsoft.XboxIdentityProvider_12.130.2510.6003_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.XboxSpeechToTextOverlay",
+                                    "PackageFullName":  "Microsoft.XboxSpeechToTextOverlay_1.123.11001.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.YourPhone",
+                                    "PackageFullName":  "Microsoft.YourPhone_0.26012.102.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "Microsoft.ZuneMusic",
+                                    "PackageFullName":  "Microsoft.ZuneMusic_11.2512.10.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "MicrosoftCorporationII.MicrosoftFamily",
+                                    "PackageFullName":  "MicrosoftCorporationII.MicrosoftFamily_0.2.103.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "MicrosoftCorporationII.QuickAssist",
+                                    "PackageFullName":  "MicrosoftCorporationII.QuickAssist_2.0.43.0_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                },
+                                {
+                                    "PackageName":  "MSTeams",
+                                    "PackageFullName":  "MSTeams_26213.1006.5014.9784_x64__8wekyb3d8bbwe",
+                                    "Publisher":  "8wekyb3d8bbwe",
+                                    "NonRemovable":  false,
+                                    "Status":  "Removable / Non-Essential"
+                                }
+                            ],
+    "ScheduledTasks":  [
+                           {
+                               "TaskName":  "ASUS Live Update 2.0",
+                               "State":  "Disabled",
+                               "TaskPath":  "\\"
+                           },
+                           {
+                               "TaskName":  "ASUS Optimization 36D18D69AFC3",
+                               "State":  "Ready",
+                               "TaskPath":  "\\"
+                           },
+                           {
+                               "TaskName":  "ASUS Update Checker 2.0",
+                               "State":  "Disabled",
+                               "TaskPath":  "\\"
+                           },
+                           {
+                               "TaskName":  "AsusSystemDiagnosis_DriverQuality",
+                               "State":  "Disabled",
+                               "TaskPath":  "\\"
+                           },
+                           {
+                               "TaskName":  "MicrosoftEdgeUpdateTaskMachineCore{D8E9762C-D85C-4487-85EC-1372C3A2BE58}",
+                               "State":  "Running",
+                               "TaskPath":  "\\"
+                           },
+                           {
+                               "TaskName":  "MicrosoftEdgeUpdateTaskMachineUA{C33411E5-86C3-42F4-9B25-F097EF7C12D8}",
+                               "State":  "Ready",
+                               "TaskPath":  "\\"
+                           },
+                           {
+                               "TaskName":  "ScanForUpdatesAsUser",
+                               "State":  "Ready",
+                               "TaskPath":  "\\Microsoft\\Windows\\InstallService\\"
+                           },
+                           {
+                               "TaskName":  "XblGameSaveTask",
+                               "State":  "Ready",
+                               "TaskPath":  "\\Microsoft\\XblGameSave\\"
+                           },
+                           {
+                               "TaskName":  "SoftLandingCreativeManagementTask",
+                               "State":  "Ready",
+                               "TaskPath":  "\\SoftLanding\\S-1-5-21-3097461819-4044830883-1541544106-1001\\"
+                           },
+                           {
+                               "TaskName":  "SoftLandingDeferralTask-{eff16a58-5bb8-4728-9399-9bb58a9a5482}",
+                               "State":  "Ready",
+                               "TaskPath":  "\\SoftLanding\\S-1-5-21-3097461819-4044830883-1541544106-1001\\"
+                           },
+                           {
+                               "TaskName":  "SoftLandingTriggerTask-128000000001615609-render-{d4af543c-0534-4c92-94d8-812dc3077fe8}",
+                               "State":  "Disabled",
+                               "TaskPath":  "\\SoftLanding\\S-1-5-21-3097461819-4044830883-1541544106-1001\\"
+                           }
+                       ],
+    "Services":  [
+                     {
+                         "ServiceName":  "AsusAppService",
+                         "DisplayName":  "ASUS App Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "PathName":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\AsusAppService\\AsusAppService.exe"
+                     },
+                     {
+                         "ServiceName":  "ASUSOptimization",
+                         "DisplayName":  "ASUS Optimization",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "PathName":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSOptimization\\AsusOptimization.exe"
+                     },
+                     {
+                         "ServiceName":  "ASUSSoftwareManager",
+                         "DisplayName":  "ASUS Software Manager",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "PathName":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSoftwareManager\\AsusSoftwareManager.exe"
+                     },
+                     {
+                         "ServiceName":  "ASUSSwitch",
+                         "DisplayName":  "ASUS Switch",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "PathName":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSwitch\\AsusSwitch.exe"
+                     },
+                     {
+                         "ServiceName":  "ASUSSystemAnalysis",
+                         "DisplayName":  "ASUS System Analysis",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "PathName":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSystemAnalysis\\AsusSystemAnalysis.exe"
+                     },
+                     {
+                         "ServiceName":  "ASUSSystemDiagnosis",
+                         "DisplayName":  "ASUS System Diagnosis",
+                         "State":  "Stopped",
+                         "StartMode":  "Disabled",
+                         "PathName":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSSystemDiagnosis\\AsusSystemDiagnosis.exe"
+                     },
+                     {
+                         "ServiceName":  "DolbyDAXAPI",
+                         "DisplayName":  "Dolby DAX API Service",
+                         "State":  "Running",
+                         "StartMode":  "Auto",
+                         "PathName":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\dax3_swc_aposvc.inf_amd64_8e54c1bc7d581ad1\\DAX3API.exe"
+                     },
+                     {
+                         "ServiceName":  "edgeupdate",
+                         "DisplayName":  "Microsoft Edge Update Service (edgeupdate)",
+                         "State":  "Stopped",
+                         "StartMode":  "Auto",
+                         "PathName":  "\"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /svc"
+                     },
+                     {
+                         "ServiceName":  "edgeupdatem",
+                         "DisplayName":  "Microsoft Edge Update Service (edgeupdatem)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "PathName":  "\"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /medsvc"
+                     },
+                     {
+                         "ServiceName":  "IntelAudioService",
+                         "DisplayName":  "Intel(R) Audio Service",
+                         "State":  "Stopped",
+                         "StartMode":  "Auto",
+                         "PathName":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\intcoed.inf_amd64_06dd582276d3f601\\\\AS\\\\IAS\\\\IntelAudioService.exe"
+                     },
+                     {
+                         "ServiceName":  "MicrosoftCopilotElevationService",
+                         "DisplayName":  "Microsoft Copilot Elevation Service (MicrosoftCopilotElevationService)",
+                         "State":  "Stopped",
+                         "StartMode":  "Manual",
+                         "PathName":  "\"C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\152.0.4191.42\\elevation_service.exe\""
+                     }
+                 ]
+}

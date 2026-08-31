@@ -1,0 +1,14 @@
+﻿{
+    "DesktopShortcutPath":  "",
+    "DurationSeconds":  3.35,
+    "TaskName":  "setup_silent_admin_antigravity",
+    "VbsLauncherPath":  "f:\\windows\\launchers\\launch_antigravity.vbs",
+    "StartTime":  "2026-08-29 19:18:50",
+    "DryRun":  false,
+    "StartMenuShortcutPath":  "",
+    "BatLauncherPath":  "f:\\windows\\launchers\\launch_antigravity.bat",
+    "Status":  "FAILED",
+    "ScheduledTaskCreated":  true,
+    "ErrorMessage":  "Cannot convert \u0027System.Object[]\u0027 to the type \u0027System.String\u0027 required by parameter \u0027ChildPath\u0027. Specified method is not supported.",
+    "EndTime":  "2026-08-29 19:18:54"
+}

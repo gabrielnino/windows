@@ -1,0 +1,15 @@
+{
+  "task_name": "uninstall_outlook_and_store",
+  "version": "1.0.0",
+  "packages_to_uninstall": [
+    "Microsoft.OutlookForWindows",
+    "Microsoft.WindowsStore"
+  ],
+  "services_to_disable": [
+    "InstallService"
+  ],
+  "tasks_to_disable": [
+    "ScanForUpdatesAsUser"
+  ],
+  "clean_startup_locations": true
+}

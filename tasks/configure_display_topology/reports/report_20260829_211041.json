@@ -1,0 +1,21 @@
+﻿{
+    "PreActiveScreens":  3,
+    "DurationSeconds":  4.71,
+    "EndTime":  "2026-08-29 21:10:46",
+    "DetectedMonitors":  [
+                             "SAM LF22T35 (HCNR900471)",
+                             "SDC  (0)",
+                             "SAM LF22T35 (HCNR900526)"
+                         ],
+    "PostActiveScreens":  3,
+    "ActiveScreensDetails":  [
+                                 "Screen: \\\\.\\DISPLAY1 | Bounds: 1440x810 at (0,0) | Primary: True",
+                                 "Screen: \\\\.\\DISPLAY2 | Bounds: 1920x1080 at (2880,0) | Primary: False",
+                                 "Screen: \\\\.\\DISPLAY3 | Bounds: 1920x1080 at (4800,0) | Primary: False"
+                             ],
+    "TaskName":  "configure_display_topology",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 21:10:41",
+    "Status":  "SUCCESS",
+    "TargetMode":  "Extend"
+}

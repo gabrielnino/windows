@@ -1,0 +1,12 @@
+[2026-08-29 22:42:58] [INFO] [Step 1/3] Loading configuration and capturing active power scheme...
+[2026-08-29 22:42:58] [INFO] Active Power Scheme: Power Scheme GUID: 381b4222-f694-41f0-9685-ff5bb260df2e  (Balanced)
+[2026-08-29 22:42:59] [INFO] Backed up current power scheme query to: F:\windows\tasks\configure_ac_power_plan\backups\power_scheme_backup.txt
+[2026-08-29 22:42:59] [INFO] [Step 2/3] Applying AC power management policies via powercfg...
+[2026-08-29 22:42:59] [INFO] Configured: Monitor turns off after 10 minutes on AC power.
+[2026-08-29 22:42:59] [INFO] Configured: System Sleep (Standby) set to NEVER (0 minutes) on AC power.
+[2026-08-29 22:42:59] [INFO] Configured: System Hibernate set to NEVER (0 minutes) on AC power.
+[2026-08-29 22:42:59] [INFO] Configured: Hard Disks/SSD set to NEVER spin down (0 minutes) on AC power.
+[2026-08-29 22:42:59] [INFO] Configured: Closing laptop lid on AC power set to DO NOTHING (0).
+[2026-08-29 22:42:59] [INFO] Applied and committed active power scheme.
+[2026-08-29 22:42:59] [INFO] [Step 3/3] Verifying committed power configuration...
+[2026-08-29 22:42:59] [INFO] AC Power Plan configuration complete. Report generated at: F:\windows\tasks\configure_ac_power_plan\reports\report_20260829_224258.md

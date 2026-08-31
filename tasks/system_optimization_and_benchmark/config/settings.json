@@ -1,0 +1,26 @@
+{
+  "task_name": "system_optimization_and_benchmark",
+  "version": "1.0.0",
+  "iterations": 3,
+  "safe_optimization": {
+    "target_services": [
+      "DiagTrack",
+      "dmwappushservice",
+      "MapsBroker",
+      "RetailDemo",
+      "WMPNetworkSvc",
+      "wisvc",
+      "XblAuthManager",
+      "XblGameSave",
+      "XboxNetApiSvc",
+      "XboxGipSvc"
+    ],
+    "clean_temp_caches": true
+  },
+  "benchmark_parameters": {
+    "worker_threads": 4,
+    "workload_duration_seconds": 5,
+    "memory_allocation_mb": 512,
+    "cpu_thermal_limit_celsius": 85.0
+  }
+}

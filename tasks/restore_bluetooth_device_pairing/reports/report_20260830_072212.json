@@ -1,0 +1,39 @@
+﻿{
+    "StartTime":  "2026-08-30 07:22:12",
+    "DryRun":  false,
+    "PairingModalReady":  true,
+    "ServicesReEnabled":  [
+                              "DevicesFlowUserSvc",
+                              "DevicePickerUserSvc",
+                              "DeviceAssociationBrokerSvc",
+                              "DeviceAssociationService",
+                              "BluetoothUserService",
+                              "bthserv"
+                          ],
+    "DurationSeconds":  0.67,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-30 07:22:13",
+    "TaskName":  "restore_bluetooth_device_pairing",
+    "ActiveServicesStart":  [
+                                {
+                                    "Name":  "BluetoothUserService_58272",
+                                    "Status":  "Running"
+                                },
+                                {
+                                    "Name":  "bthserv",
+                                    "Status":  "Running"
+                                },
+                                {
+                                    "Name":  "DeviceAssociationService",
+                                    "Status":  "Running"
+                                },
+                                {
+                                    "Name":  "DevicePickerUserSvc_58272",
+                                    "Status":  "Running"
+                                },
+                                {
+                                    "Name":  "DevicesFlowUserSvc_58272",
+                                    "Status":  "Stopped"
+                                }
+                            ]
+}

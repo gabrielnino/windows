@@ -1,0 +1,292 @@
+﻿{
+    "StartTime":  "2026-08-29 19:14:16",
+    "DryRun":  false,
+    "TotalProcessesAudited":  178,
+    "WhitelistedAppsCount":  23,
+    "TopConsumersBefore":  [
+                               {
+                                   "Id":  1812,
+                                   "ProcessName":  "MsMpEng",
+                                   "RAM_MB":  494.62,
+                                   "CPU_Seconds":  1215.8,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "System / Unknown"
+                               },
+                               {
+                                   "Id":  9800,
+                                   "ProcessName":  "Antigravity",
+                                   "RAM_MB":  387.56,
+                                   "CPU_Seconds":  250.28,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\Antigravity.exe"
+                               },
+                               {
+                                   "Id":  14880,
+                                   "ProcessName":  "SnippingTool",
+                                   "RAM_MB":  369.21,
+                                   "CPU_Seconds":  2.8,
+                                   "Whitelisted":  false,
+                                   "Category":  "Candidate for Optimization",
+                                   "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2605.37.0_x64__8wekyb3d8bbwe\\SnippingTool\\SnippingTool.exe"
+                               },
+                               {
+                                   "Id":  5456,
+                                   "ProcessName":  "language_server",
+                                   "RAM_MB":  294.84,
+                                   "CPU_Seconds":  30.8,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\resources\\bin\\language_server.exe"
+                               },
+                               {
+                                   "Id":  6496,
+                                   "ProcessName":  "thorium",
+                                   "RAM_MB":  275.59,
+                                   "CPU_Seconds":  12.17,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\Users\\luisg\\AppData\\Local\\Thorium\\Application\\thorium.exe"
+                               },
+                               {
+                                   "Id":  14012,
+                                   "ProcessName":  "thorium",
+                                   "RAM_MB":  265.32,
+                                   "CPU_Seconds":  28.28,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\Users\\luisg\\AppData\\Local\\Thorium\\Application\\thorium.exe"
+                               },
+                               {
+                                   "Id":  16160,
+                                   "ProcessName":  "explorer",
+                                   "RAM_MB":  229.04,
+                                   "CPU_Seconds":  4.06,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\WINDOWS\\Explorer.EXE"
+                               },
+                               {
+                                   "Id":  1796,
+                                   "ProcessName":  "dwm",
+                                   "RAM_MB":  226.07,
+                                   "CPU_Seconds":  244.97,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\WINDOWS\\system32\\dwm.exe"
+                               },
+                               {
+                                   "Id":  10312,
+                                   "ProcessName":  "Antigravity",
+                                   "RAM_MB":  194.72,
+                                   "CPU_Seconds":  123.95,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\Antigravity.exe"
+                               },
+                               {
+                                   "Id":  5508,
+                                   "ProcessName":  "StartMenuExperienceHost",
+                                   "RAM_MB":  168.05,
+                                   "CPU_Seconds":  2,
+                                   "Whitelisted":  false,
+                                   "Category":  "Candidate for Optimization",
+                                   "Path":  "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe"
+                               },
+                               {
+                                   "Id":  3756,
+                                   "ProcessName":  "Taskmgr",
+                                   "RAM_MB":  149.32,
+                                   "CPU_Seconds":  11.48,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\WINDOWS\\system32\\taskmgr.exe"
+                               },
+                               {
+                                   "Id":  15680,
+                                   "ProcessName":  "SearchHost",
+                                   "RAM_MB":  139.29,
+                                   "CPU_Seconds":  1.3,
+                                   "Whitelisted":  false,
+                                   "Category":  "Candidate for Optimization",
+                                   "Path":  "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe"
+                               },
+                               {
+                                   "Id":  14116,
+                                   "ProcessName":  "Antigravity",
+                                   "RAM_MB":  130.7,
+                                   "CPU_Seconds":  21.42,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\Antigravity.exe"
+                               },
+                               {
+                                   "Id":  11880,
+                                   "ProcessName":  "Antigravity",
+                                   "RAM_MB":  122.68,
+                                   "CPU_Seconds":  0.23,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\Antigravity.exe"
+                               },
+                               {
+                                   "Id":  15564,
+                                   "ProcessName":  "msedgewebview2",
+                                   "RAM_MB":  113.47,
+                                   "CPU_Seconds":  0.88,
+                                   "Whitelisted":  true,
+                                   "Category":  "Fundamental (Protected)",
+                                   "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\152.0.4191.53\\msedgewebview2.exe"
+                               }
+                           ],
+    "InitialFreeMemoryGB":  8.8,
+    "EndTime":  "2026-08-29 19:14:19",
+    "DurationSeconds":  3.15,
+    "Status":  "SUCCESS",
+    "NetMemoryReclaimedMB":  1618,
+    "TerminatedProcesses":  [
+                                "SnippingTool (PID: 14880)",
+                                "Widgets (PID: 13740)",
+                                "CrossDeviceResume (PID: 9032)"
+                            ],
+    "TopConsumersAfter":  [
+                              {
+                                  "Id":  1812,
+                                  "ProcessName":  "MsMpEng",
+                                  "RAM_MB":  492.68,
+                                  "CPU_Seconds":  1216.03,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "System / Unknown"
+                              },
+                              {
+                                  "Id":  3396,
+                                  "ProcessName":  "Memory Compression",
+                                  "RAM_MB":  155.69,
+                                  "CPU_Seconds":  8.42,
+                                  "Whitelisted":  false,
+                                  "Category":  "Other",
+                                  "Path":  "System / Unknown"
+                              },
+                              {
+                                  "Id":  9800,
+                                  "ProcessName":  "Antigravity",
+                                  "RAM_MB":  82.82,
+                                  "CPU_Seconds":  250.84,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\Antigravity.exe"
+                              },
+                              {
+                                  "Id":  5440,
+                                  "ProcessName":  "powershell",
+                                  "RAM_MB":  64.9,
+                                  "CPU_Seconds":  2.97,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+                              },
+                              {
+                                  "Id":  8312,
+                                  "ProcessName":  "svchost",
+                                  "RAM_MB":  49.8,
+                                  "CPU_Seconds":  2.47,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "System / Unknown"
+                              },
+                              {
+                                  "Id":  3756,
+                                  "ProcessName":  "Taskmgr",
+                                  "RAM_MB":  37.31,
+                                  "CPU_Seconds":  11.69,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "C:\\WINDOWS\\system32\\taskmgr.exe"
+                              },
+                              {
+                                  "Id":  272,
+                                  "ProcessName":  "Registry",
+                                  "RAM_MB":  37.16,
+                                  "CPU_Seconds":  0.94,
+                                  "Whitelisted":  false,
+                                  "Category":  "Other",
+                                  "Path":  "System / Unknown"
+                              },
+                              {
+                                  "Id":  1796,
+                                  "ProcessName":  "dwm",
+                                  "RAM_MB":  33.49,
+                                  "CPU_Seconds":  245.19,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "C:\\WINDOWS\\system32\\dwm.exe"
+                              },
+                              {
+                                  "Id":  8760,
+                                  "ProcessName":  "svchost",
+                                  "RAM_MB":  32.09,
+                                  "CPU_Seconds":  15.12,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "System / Unknown"
+                              },
+                              {
+                                  "Id":  1348,
+                                  "ProcessName":  "lsass",
+                                  "RAM_MB":  31.61,
+                                  "CPU_Seconds":  52.5,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "System / Unknown"
+                              },
+                              {
+                                  "Id":  8296,
+                                  "ProcessName":  "MpDefenderCoreService",
+                                  "RAM_MB":  29.57,
+                                  "CPU_Seconds":  0.94,
+                                  "Whitelisted":  false,
+                                  "Category":  "Other",
+                                  "Path":  "System / Unknown"
+                              },
+                              {
+                                  "Id":  16160,
+                                  "ProcessName":  "explorer",
+                                  "RAM_MB":  25.88,
+                                  "CPU_Seconds":  4.11,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "C:\\WINDOWS\\Explorer.EXE"
+                              },
+                              {
+                                  "Id":  9060,
+                                  "ProcessName":  "SecurityHealthService",
+                                  "RAM_MB":  21.5,
+                                  "CPU_Seconds":  1.91,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "System / Unknown"
+                              },
+                              {
+                                  "Id":  10312,
+                                  "ProcessName":  "Antigravity",
+                                  "RAM_MB":  20.75,
+                                  "CPU_Seconds":  124.23,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "C:\\Users\\luisg\\AppData\\Local\\Programs\\antigravity\\Antigravity.exe"
+                              },
+                              {
+                                  "Id":  1500,
+                                  "ProcessName":  "svchost",
+                                  "RAM_MB":  16.46,
+                                  "CPU_Seconds":  0.31,
+                                  "Whitelisted":  true,
+                                  "Category":  "Fundamental (Protected)",
+                                  "Path":  "System / Unknown"
+                              }
+                          ],
+    "TaskName":  "ram_optimization_and_whitelist",
+    "FinalFreeMemoryGB":  10.38
+}

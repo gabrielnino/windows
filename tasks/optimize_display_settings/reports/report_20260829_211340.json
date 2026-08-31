@@ -1,0 +1,40 @@
+﻿{
+    "PreOptimizationModes":  [
+                                 {
+                                     "Device":  "\\\\.\\DISPLAY1",
+                                     "Mode":  "2880x1620@120Hz"
+                                 },
+                                 {
+                                     "Device":  "\\\\.\\DISPLAY2",
+                                     "Mode":  "1920x1080@60Hz"
+                                 },
+                                 {
+                                     "Device":  "\\\\.\\DISPLAY3",
+                                     "Mode":  "1920x1080@60Hz"
+                                 }
+                             ],
+    "DisplaysConfigured":  3,
+    "DurationSeconds":  2.21,
+    "EndTime":  "2026-08-29 21:13:43",
+    "PostOptimizationModes":  [
+                                  {
+                                      "Device":  "\\\\.\\DISPLAY1",
+                                      "Mode":  "2880x1620@120Hz"
+                                  },
+                                  {
+                                      "Device":  "\\\\.\\DISPLAY2",
+                                      "Mode":  "1920x1080@60Hz"
+                                  },
+                                  {
+                                      "Device":  "\\\\.\\DISPLAY3",
+                                      "Mode":  "1920x1080@60Hz"
+                                  }
+                              ],
+    "TaskName":  "optimize_display_settings",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 21:13:40",
+    "Status":  "SUCCESS",
+    "ConfigurationResults":  [
+
+                             ]
+}

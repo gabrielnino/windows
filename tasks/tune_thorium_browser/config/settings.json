@@ -1,0 +1,12 @@
+{
+  "task_name": "tune_thorium_browser",
+  "version": "1.0.0",
+  "enable_memory_saver": true,
+  "time_before_tab_discard_minutes": 15,
+  "disable_background_mode": true,
+  "enable_gpu_rasterization": true,
+  "enable_zero_copy": true,
+  "enable_parallel_downloading": true,
+  "enable_smooth_scrolling": true,
+  "disable_telemetry_reporting": true
+}

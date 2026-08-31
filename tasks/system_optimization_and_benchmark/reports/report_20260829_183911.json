@@ -1,0 +1,46 @@
+﻿{
+    "TotalTempFilesPurged":  0,
+    "DurationSeconds":  29.76,
+    "PeakBenchmarkCpuPct":  0,
+    "NetMemoryReclaimedMB":  -143,
+    "MaxCpuTempRecordedC":  51,
+    "Status":  "SUCCESS",
+    "IterationSummaries":  [
+                               {
+                                   "Phase3_HealthStatus":  "100% OPERATIONAL \u0026 HEALTHY",
+                                   "Phase1_ServicesOptimized":  0,
+                                   "IterationIndex":  1,
+                                   "Phase1_TempMBFreed":  0,
+                                   "Phase2_BenchDurationSec":  7.19,
+                                   "Phase2_PeakCpuTempC":  51,
+                                   "Phase2_PeakMemoryMB":  7004
+                               },
+                               {
+                                   "Phase3_HealthStatus":  "100% OPERATIONAL \u0026 HEALTHY",
+                                   "Phase1_ServicesOptimized":  0,
+                                   "IterationIndex":  2,
+                                   "Phase1_TempMBFreed":  0,
+                                   "Phase2_BenchDurationSec":  6.97,
+                                   "Phase2_PeakCpuTempC":  51,
+                                   "Phase2_PeakMemoryMB":  6984
+                               },
+                               {
+                                   "Phase3_HealthStatus":  "100% OPERATIONAL \u0026 HEALTHY",
+                                   "Phase1_ServicesOptimized":  0,
+                                   "IterationIndex":  3,
+                                   "Phase1_TempMBFreed":  0,
+                                   "Phase2_BenchDurationSec":  7.03,
+                                   "Phase2_PeakCpuTempC":  51,
+                                   "Phase2_PeakMemoryMB":  6963
+                               }
+                           ],
+    "DryRun":  false,
+    "TotalIterations":  3,
+    "EndTime":  "2026-08-29 18:39:41",
+    "InitialFreeMemoryGB":  9.16,
+    "FinalFreeMemoryGB":  9.02,
+    "TotalServicesStopped":  0,
+    "TotalTempMBFreed":  0,
+    "TaskName":  "system_optimization_and_benchmark",
+    "StartTime":  "2026-08-29 18:39:11"
+}

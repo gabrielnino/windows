@@ -1,0 +1,16 @@
+﻿{
+    "ParallelDownloadEnabled":  true,
+    "DurationSeconds":  1.85,
+    "ShortcutsOptimized":  0,
+    "BackgroundModeDisabled":  true,
+    "StartTime":  "2026-08-29 22:56:13",
+    "TaskName":  "tune_thorium_browser",
+    "DryRun":  false,
+    "SmoothScrollingEnabled":  true,
+    "ZeroCopyEnabled":  true,
+    "Status":  "FAILED",
+    "ErrorMessage":  "Cannot convert \u0027System.Object[]\u0027 to the type \u0027System.String\u0027 required by parameter \u0027ChildPath\u0027. Specified method is not supported.",
+    "MemorySaverConfigured":  true,
+    "GpuRasterizationEnabled":  true,
+    "EndTime":  "2026-08-29 22:56:15"
+}

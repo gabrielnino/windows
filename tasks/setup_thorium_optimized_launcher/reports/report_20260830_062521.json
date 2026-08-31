@@ -1,0 +1,13 @@
+﻿{
+    "TaskbarPinned":  true,
+    "DurationSeconds":  0.87,
+    "EndTime":  "2026-08-30 06:25:22",
+    "BatchLauncherCreated":  true,
+    "DesktopShortcut":  true,
+    "TaskName":  "setup_thorium_optimized_launcher",
+    "DryRun":  false,
+    "StartTime":  "2026-08-30 06:25:21",
+    "StartMenuShortcut":  true,
+    "Status":  "SUCCESS",
+    "FlagsCount":  13
+}

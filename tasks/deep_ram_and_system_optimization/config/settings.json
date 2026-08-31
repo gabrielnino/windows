@@ -1,0 +1,16 @@
+{
+  "task_name": "deep_ram_and_system_optimization",
+  "version": "1.0.0",
+  "disable_per_user_services": [
+    "CDPUserSvc",
+    "PimIndexMaintenanceSvc",
+    "UserDataSvc",
+    "UnistoreSvc",
+    "CloudBackupRestoreSvc",
+    "DevicesFlowUserSvc"
+  ],
+  "disable_gamedvr": true,
+  "add_defender_dev_exclusions": true,
+  "disable_hibernation": true,
+  "trim_memory": true
+}

@@ -1,0 +1,24 @@
+﻿{
+    "StartTime":  "2026-08-29 20:38:15",
+    "SamplesCollected":  1,
+    "DryRun":  false,
+    "HighestGpuTempC":  0,
+    "EndTime":  "2026-08-29 20:38:20",
+    "AvgCpuTempC":  52,
+    "DurationSeconds":  4.9,
+    "Status":  "SUCCESS",
+    "ThermalReadings":  [
+                            {
+                                "SampleIndex":  1,
+                                "Timestamp":  "2026-08-29 20:38:20",
+                                "CpuTempC":  52,
+                                "GpuTempC":  0
+                            }
+                        ],
+    "OverallThermalState":  "NORMAL",
+    "Mode":  "SINGLE_CHECK",
+    "LowestCpuTempC":  52,
+    "HighestCpuTempC":  52,
+    "TaskName":  "monitor_hardware_temperature",
+    "AlertsTriggeredCount":  0
+}

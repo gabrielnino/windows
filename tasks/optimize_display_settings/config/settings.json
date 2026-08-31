@@ -1,0 +1,27 @@
+{
+  "task_name": "optimize_display_settings",
+  "version": "1.0.0",
+  "display_targets": [
+    {
+      "device_name": "\\\\.\\DISPLAY1",
+      "target_width": 2880,
+      "target_height": 1620,
+      "target_refresh_rate_hz": 120,
+      "description": "ASUS Vivobook OLED 15.6 inch native panel"
+    },
+    {
+      "device_name": "\\\\.\\DISPLAY2",
+      "target_width": 1920,
+      "target_height": 1080,
+      "target_refresh_rate_hz": 75,
+      "description": "Samsung LF22T35 External Monitor 1"
+    },
+    {
+      "device_name": "\\\\.\\DISPLAY3",
+      "target_width": 1920,
+      "target_height": 1080,
+      "target_refresh_rate_hz": 75,
+      "description": "Samsung LF22T35 External Monitor 2"
+    }
+  ]
+}

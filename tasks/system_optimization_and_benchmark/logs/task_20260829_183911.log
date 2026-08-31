@@ -1,0 +1,47 @@
+[2026-08-29 18:39:11] [INFO] [Step 1/4] Reading optimization & benchmark settings...
+[2026-08-29 18:39:12] [INFO] Baseline System Status -> RAM: 6.53 GB Used / 9.16 GB Free (41.6%)
+[2026-08-29 18:39:15] [INFO] Backed up state of 10 candidate services to: F:\windows\tasks\system_optimization_and_benchmark\backups\services_original_state.json
+[2026-08-29 18:39:15] [INFO] ==========================================================
+[2026-08-29 18:39:15] [INFO] >>> STARTING ITERATION 1 OF 3 <<<
+[2026-08-29 18:39:15] [INFO] ==========================================================
+[2026-08-29 18:39:15] [INFO] [Iteration 1 | Phase 1/3] Identifying and optimizing non-critical background services...
+[2026-08-29 18:39:15] [INFO] Phase 1 Completed: 0 services optimized. Cleaned 0 temp files (0 MB freed).
+[2026-08-29 18:39:15] [INFO] [Iteration 1 | Phase 2/3] Executing Multi-Process CPU & RAM Stress Benchmark...
+[2026-08-29 18:39:15] [INFO] Spawning 4 parallel compute workers for 5s workload...
+[2026-08-29 18:39:22] [INFO] Phase 2 Completed: Benchmark ran for 7.19s | Peak Temp: 51°C | Peak RAM: 6.84 GB
+[2026-08-29 18:39:22] [INFO] [Iteration 1 | Phase 3/3] Performing 'Look Engineer' End-to-End Health Inspection...
+[2026-08-29 18:39:22] [INFO] Display Subsystem: 3 active workspaces online.
+[2026-08-29 18:39:23] [INFO] Audio Subsystem: 2 audio endpoints operational.
+[2026-08-29 18:39:23] [INFO] Network Subsystem: IP Connectivity is ONLINE (Active: MediaTek Wi-Fi 6E MT7922 160MHz Wireless LAN Card).
+[2026-08-29 18:39:23] [INFO] Post-Stress Memory: 6.6 GB Used / 9.09 GB Free (42.1%)
+[2026-08-29 18:39:23] [INFO] Iteration 1 System Health Result: 100% OPERATIONAL & HEALTHY
+[2026-08-29 18:39:24] [INFO] ==========================================================
+[2026-08-29 18:39:24] [INFO] >>> STARTING ITERATION 2 OF 3 <<<
+[2026-08-29 18:39:24] [INFO] ==========================================================
+[2026-08-29 18:39:24] [INFO] [Iteration 2 | Phase 1/3] Identifying and optimizing non-critical background services...
+[2026-08-29 18:39:24] [INFO] Phase 1 Completed: 0 services optimized. Cleaned 0 temp files (0 MB freed).
+[2026-08-29 18:39:24] [INFO] [Iteration 2 | Phase 2/3] Executing Multi-Process CPU & RAM Stress Benchmark...
+[2026-08-29 18:39:24] [INFO] Spawning 4 parallel compute workers for 5s workload...
+[2026-08-29 18:39:31] [INFO] Phase 2 Completed: Benchmark ran for 6.97s | Peak Temp: 51°C | Peak RAM: 6.82 GB
+[2026-08-29 18:39:31] [INFO] [Iteration 2 | Phase 3/3] Performing 'Look Engineer' End-to-End Health Inspection...
+[2026-08-29 18:39:31] [INFO] Display Subsystem: 3 active workspaces online.
+[2026-08-29 18:39:31] [INFO] Audio Subsystem: 2 audio endpoints operational.
+[2026-08-29 18:39:31] [INFO] Network Subsystem: IP Connectivity is ONLINE (Active: MediaTek Wi-Fi 6E MT7922 160MHz Wireless LAN Card).
+[2026-08-29 18:39:32] [INFO] Post-Stress Memory: 6.57 GB Used / 9.12 GB Free (41.9%)
+[2026-08-29 18:39:32] [INFO] Iteration 2 System Health Result: 100% OPERATIONAL & HEALTHY
+[2026-08-29 18:39:33] [INFO] ==========================================================
+[2026-08-29 18:39:33] [INFO] >>> STARTING ITERATION 3 OF 3 <<<
+[2026-08-29 18:39:33] [INFO] ==========================================================
+[2026-08-29 18:39:33] [INFO] [Iteration 3 | Phase 1/3] Identifying and optimizing non-critical background services...
+[2026-08-29 18:39:33] [INFO] Phase 1 Completed: 0 services optimized. Cleaned 0 temp files (0 MB freed).
+[2026-08-29 18:39:33] [INFO] [Iteration 3 | Phase 2/3] Executing Multi-Process CPU & RAM Stress Benchmark...
+[2026-08-29 18:39:33] [INFO] Spawning 4 parallel compute workers for 5s workload...
+[2026-08-29 18:39:40] [INFO] Phase 2 Completed: Benchmark ran for 7.03s | Peak Temp: 51°C | Peak RAM: 6.8 GB
+[2026-08-29 18:39:40] [INFO] [Iteration 3 | Phase 3/3] Performing 'Look Engineer' End-to-End Health Inspection...
+[2026-08-29 18:39:40] [INFO] Display Subsystem: 3 active workspaces online.
+[2026-08-29 18:39:40] [INFO] Audio Subsystem: 2 audio endpoints operational.
+[2026-08-29 18:39:40] [INFO] Network Subsystem: IP Connectivity is ONLINE (Active: MediaTek Wi-Fi 6E MT7922 160MHz Wireless LAN Card).
+[2026-08-29 18:39:40] [INFO] Post-Stress Memory: 6.69 GB Used / 9 GB Free (42.6%)
+[2026-08-29 18:39:40] [INFO] Iteration 3 System Health Result: 100% OPERATIONAL & HEALTHY
+[2026-08-29 18:39:41] [INFO] [Step 4/4] Finalizing optimization cycle and generating executive report...
+[2026-08-29 18:39:41] [INFO] Optimization report generated at: F:\windows\tasks\system_optimization_and_benchmark\reports\report_20260829_183911.md

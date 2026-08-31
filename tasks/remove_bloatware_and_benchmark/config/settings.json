@@ -1,0 +1,34 @@
+{
+  "task_name": "remove_bloatware_and_benchmark",
+  "version": "1.0.0",
+  "iterations": 3,
+  "uwp_packages_to_remove": [
+    "Clipchamp.Clipchamp",
+    "Microsoft.BingNews",
+    "Microsoft.BingWeather",
+    "Microsoft.MicrosoftSolitaireCollection",
+    "Microsoft.WindowsFeedbackHub",
+    "Microsoft.YourPhone",
+    "MSTeams",
+    "Microsoft.XboxGamingOverlay",
+    "Microsoft.Xbox.TCUI",
+    "Microsoft.XboxIdentityProvider",
+    "Microsoft.XboxSpeechToTextOverlay",
+    "MicrosoftCorporationII.MicrosoftFamily"
+  ],
+  "tasks_to_disable": [
+    "SoftLandingCreativeManagementTask",
+    "XblGameSaveTask"
+  ],
+  "services_to_disable": [
+    "edgeupdate",
+    "edgeupdatem",
+    "MicrosoftCopilotElevationService"
+  ],
+  "benchmark_parameters": {
+    "worker_threads": 4,
+    "workload_duration_seconds": 6,
+    "memory_buffer_mb": 256,
+    "cpu_thermal_limit_celsius": 85.0
+  }
+}

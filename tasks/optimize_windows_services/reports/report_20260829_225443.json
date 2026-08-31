@@ -1,0 +1,84 @@
+﻿{
+    "FinalFreeMemoryGB":  8.16,
+    "DurationSeconds":  11.52,
+    "ServicesTargetedCount":  14,
+    "InitialFreeMemoryGB":  6.7,
+    "TaskName":  "optimize_windows_services",
+    "DryRun":  false,
+    "NetMemoryReclaimedMB":  1495,
+    "StartTime":  "2026-08-29 22:54:43",
+    "ServicesDisabled":  [
+                             {
+                                 "Name":  "SysMain",
+                                 "DisplayName":  "SysMain",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "DoSvc",
+                                 "DisplayName":  "Delivery Optimization",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "PcaSvc",
+                                 "DisplayName":  "Program Compatibility Assistant Service",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "WSAIFabricSvc",
+                                 "DisplayName":  "WSAIFabricSvc",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "whesvc",
+                                 "DisplayName":  "Windows Health and Optimized Experiences",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "lfsvc",
+                                 "DisplayName":  "Geolocation Service",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "TrkWks",
+                                 "DisplayName":  "Distributed Link Tracking Client",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "Spooler",
+                                 "DisplayName":  "Print Spooler",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "DusmSvc",
+                                 "DisplayName":  "Data Usage",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "MapsBroker",
+                                 "DisplayName":  "Downloaded Maps Manager",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "RetailDemo",
+                                 "DisplayName":  "Retail Demo Service",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "RemoteRegistry",
+                                 "DisplayName":  "Remote Registry",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "DiagTrack",
+                                 "DisplayName":  "Connected User Experiences and Telemetry",
+                                 "Status":  "Disabled"
+                             },
+                             {
+                                 "Name":  "dmwappushservice",
+                                 "DisplayName":  "Device Management Wireless Application Protocol (WAP) Push message Routing Service",
+                                 "Status":  "Disabled"
+                             }
+                         ],
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 22:54:55"
+}

@@ -1,0 +1,42 @@
+﻿{
+    "StartTime":  "2026-08-29 18:56:57",
+    "DryRun":  false,
+    "ServicesDisabled":  [
+                             "edgeupdate",
+                             "edgeupdatem",
+                             "MicrosoftCopilotElevationService"
+                         ],
+    "PackagesRemoved":  [
+                            "Clipchamp.Clipchamp",
+                            "Microsoft.BingNews",
+                            "Microsoft.BingWeather",
+                            "Microsoft.MicrosoftSolitaireCollection",
+                            "Microsoft.WindowsFeedbackHub",
+                            "Microsoft.YourPhone",
+                            "MSTeams",
+                            "Microsoft.XboxGamingOverlay",
+                            "Microsoft.Xbox.TCUI",
+                            "Microsoft.XboxIdentityProvider",
+                            "Microsoft.XboxSpeechToTextOverlay",
+                            "MicrosoftCorporationII.MicrosoftFamily"
+                        ],
+    "InitialFreeMemoryGB":  8.86,
+    "DurationSeconds":  0,
+    "Status":  "RUNNING",
+    "MaxCpuTempRecordedC":  0,
+    "NetMemoryReclaimedMB":  0,
+    "IterationSummaries":  [
+
+                           ],
+    "TasksDisabled":  [
+                          "MicrosoftEdgeUpdateTaskMachineCore{D8E9762C-D85C-4487-85EC-1372C3A2BE58}",
+                          "MicrosoftEdgeUpdateTaskMachineUA{C33411E5-86C3-42F4-9B25-F097EF7C12D8}",
+                          "XblGameSaveTask",
+                          "SoftLandingCreativeManagementTask",
+                          "SoftLandingDeferralTask-{eff16a58-5bb8-4728-9399-9bb58a9a5482}",
+                          "SoftLandingTriggerTask-128000000001615609-render-{d4af543c-0534-4c92-94d8-812dc3077fe8}"
+                      ],
+    "CompletedIterations":  3,
+    "TaskName":  "remove_bloatware_and_benchmark",
+    "FinalFreeMemoryGB":  0
+}

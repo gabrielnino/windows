@@ -1,0 +1,10 @@
+{
+  "task_name": "disable_windows_search_indexer",
+  "version": "1.0.0",
+  "services_to_disable": [
+    "WSearch"
+  ],
+  "processes_to_kill": [
+    "SearchIndexer"
+  ]
+}

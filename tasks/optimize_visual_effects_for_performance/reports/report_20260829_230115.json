@@ -1,0 +1,14 @@
+﻿{
+    "DurationSeconds":  2.53,
+    "TaskName":  "optimize_visual_effects_for_performance",
+    "TransparencyDisabled":  true,
+    "ShadowsDisabled":  true,
+    "StartTime":  "2026-08-29 23:01:15",
+    "DryRun":  false,
+    "ExplorerRestarted":  true,
+    "WindowAnimationsDisabled":  true,
+    "TaskbarAnimationsDisabled":  true,
+    "ClearTypePreserved":  true,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 23:01:17"
+}

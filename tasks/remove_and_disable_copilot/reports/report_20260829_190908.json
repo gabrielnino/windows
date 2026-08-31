@@ -1,0 +1,14 @@
+﻿{
+    "DurationSeconds":  3.04,
+    "TaskName":  "remove_and_disable_copilot",
+    "UwpAppRemoved":  true,
+    "ServiceDisabled":  true,
+    "StartTime":  "2026-08-29 19:09:08",
+    "TaskbarButtonDisabled":  true,
+    "DryRun":  false,
+    "GroupPoliciesApplied":  3,
+    "BingSearchDisabled":  true,
+    "Status":  "SUCCESS",
+    "ExplorerRestarted":  true,
+    "EndTime":  "2026-08-29 19:09:11"
+}

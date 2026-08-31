@@ -1,0 +1,13 @@
+﻿{
+    "DurationSeconds":  7.18,
+    "InitialTestExecuted":  true,
+    "EndTime":  "2026-08-29 23:09:15",
+    "WorkerScriptPath":  "f:\\windows\\scripts\\daily_performance_purge.ps1",
+    "TaskName":  "setup_daily_maintenance_purge",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 23:09:08",
+    "ScheduledTaskName":  "Maintenance_DailyPerformancePurge",
+    "Status":  "SUCCESS",
+    "LogonTriggerActive":  true,
+    "DailyTriggerActive":  true
+}

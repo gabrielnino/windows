@@ -1,0 +1,23 @@
+﻿{
+    "IfeoBlockApplied":  true,
+    "DurationSeconds":  1.87,
+    "TaskName":  "permanently_disable_edge_update",
+    "TasksDisabled":  [
+                          "MicrosoftEdgeUpdateTaskMachineCore{D8E9762C-D85C-4487-85EC-1372C3A2BE58}",
+                          "MicrosoftEdgeUpdateTaskMachineUA{C33411E5-86C3-42F4-9B25-F097EF7C12D8}"
+                      ],
+    "StartTime":  "2026-08-29 19:10:16",
+    "ProcessesTerminated":  [
+                                "MicrosoftEdgeUpdate (PID: 7988)"
+                            ],
+    "DryRun":  false,
+    "ServicesDisabled":  [
+                             "edgeupdate",
+                             "edgeupdatem",
+                             "MicrosoftEdgeElevationService"
+                         ],
+    "Status":  "SUCCESS",
+    "TriggerIdentified":  "MicrosoftEdgeUpdateTaskMachineCore",
+    "EndTime":  "2026-08-29 19:10:18",
+    "PostActiveProcessesCount":  0
+}

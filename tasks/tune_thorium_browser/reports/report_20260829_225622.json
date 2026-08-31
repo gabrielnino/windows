@@ -1,0 +1,15 @@
+﻿{
+    "ParallelDownloadEnabled":  true,
+    "DurationSeconds":  1.58,
+    "ShortcutsOptimized":  1,
+    "BackgroundModeDisabled":  true,
+    "StartTime":  "2026-08-29 22:56:22",
+    "TaskName":  "tune_thorium_browser",
+    "DryRun":  false,
+    "SmoothScrollingEnabled":  true,
+    "ZeroCopyEnabled":  true,
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 22:56:24",
+    "MemorySaverConfigured":  true,
+    "GpuRasterizationEnabled":  true
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "configure_ac_power_plan",
+  "version": "1.0.0",
+  "monitor_timeout_ac_minutes": 10,
+  "standby_timeout_ac_minutes": 0,
+  "hibernate_timeout_ac_minutes": 0,
+  "disk_timeout_ac_minutes": 0,
+  "lid_close_action_ac": 0
+}

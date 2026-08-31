@@ -1,0 +1,13 @@
+﻿{
+    "InstallationExitCode":  0,
+    "DurationSeconds":  30.04,
+    "ExecutablePath":  "C:\\Users\\luisg\\AppData\\Local\\Microsoft\\WindowsApps\\pwsh.exe",
+    "PackageId":  "Microsoft.PowerShell",
+    "PostInstallVersion":  "PowerShell 7.6.5",
+    "PreInstallVersion":  "Windows PowerShell 5.1.26100.9168",
+    "TaskName":  "install_powershell7",
+    "DryRun":  false,
+    "StartTime":  "2026-08-29 21:22:26",
+    "Status":  "SUCCESS",
+    "EndTime":  "2026-08-29 21:22:56"
+}
