@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_153327",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T15:33:27.242203+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 708,
+  "text_preview": "Luis, tienes una mente de arquitecto impresionante. Lo que acabas de describir e...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_153327.mp3",
+  "audio_bytes": 271728,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 5.91,
+  "playback_duration_seconds": 45.82,
+  "total_duration_seconds": 51.93,
+  "end_time": "2026-09-06T15:34:19.168601+00:00"
+}

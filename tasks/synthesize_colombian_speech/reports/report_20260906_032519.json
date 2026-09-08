@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_032519",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T03:25:19.311460+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 455,
+  "text_preview": "Reporte de las ocho y veinticinco. Gran noticia: la fase de recolección de outli...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_032519.mp3",
+  "audio_bytes": 184176,
+  "youtube_detected": false,
+  "youtube_window_title": null,
+  "youtube_paused": false,
+  "youtube_resumed": false,
+  "synthesis_duration_seconds": 3.02,
+  "playback_duration_seconds": 31.35,
+  "total_duration_seconds": 34.38,
+  "end_time": "2026-09-06T03:25:53.691342+00:00"
+}

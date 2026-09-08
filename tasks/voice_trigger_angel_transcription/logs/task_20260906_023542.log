@@ -1,0 +1,5 @@
+[2026-09-05 19:35:42] [INFO] [Step 1/4] Validating audio input devices and loading Whisper model...
+[2026-09-05 19:35:42] [INFO] Microphone detected: 'Microphone (High Definition Aud' (Index: 1)
+[2026-09-05 19:35:42] [INFO] [DRY RUN] Simulating stream activation and model verification.
+[2026-09-05 19:35:42] [INFO] [DRY RUN] Model 'base' configured for wake word 'angel'.
+[2026-09-05 19:35:42] [INFO] Execution finished with status: SUCCESS. Report: F:\windows\tasks\voice_trigger_angel_transcription\reports\report_20260906_023542.json

@@ -13,6 +13,8 @@ All tasks adhere strictly to an isolated, verifiable, and reversible engineering
 * 📊 `reports/`: Dual-output reports in machine-readable JSON (`report_*.json`) and user-facing Markdown (`report_*.md`).
 * 📝 `logs/`: High-resolution audit traces (`task_*.log`).
 
+> 📖 **Guía práctica de uso:** Consulta [TASKS_USAGE_GUIDE.md](./TASKS_USAGE_GUIDE.md) para ver ejemplos de ejecución rápida, parámetros y cómo usar cada tarea.
+
 ---
 
 ## 💻 Hardware Environment
@@ -56,6 +58,8 @@ All tasks adhere strictly to an isolated, verifiable, and reversible engineering
 * `tasks/debloat_oem_utilities_and_benchmark`: Removed factory UWP bloatware packages.
 
 ### 🎧 4. Audio, Bluetooth & Drivers
+* `tasks/voice_trigger_angel_transcription`: Real-time microphone audio stream listener, 'Angel' wake-word activation, and Whisper transcription engine based on `F:/YT-Downloader`.
+* `tasks/synthesize_colombian_speech`: High-fidelity neural TTS speech synthesis in Spanish with Colombian female accent (`es-CO-SalomeNeural`) and immediate playback.
 * `tasks/install_asus_realtek_audio_driver`: Downloaded and injected official ASUS Realtek UAD (`6.0.9329.1`) & Intel SST (`10.29.0.7767`) packages into DriverStore.
 * `tasks/restore_bluetooth_device_pairing`: Configured `DevicesFlowUserSvc`, `DevicePickerUserSvc`, and `CDPUserSvc` in manual on-demand mode.
 * `tasks/test_microphone_and_speaker_loopback`: End-to-end acoustic loopback test suite with 44.1 kHz 16-bit PCM sampling and waveform analysis.

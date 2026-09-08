@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_122328",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:23:28.312459+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 670,
+  "text_preview": "Auditoría forense re-ejecutada y completada con éxito en el servidor. El parche ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_122328.mp3",
+  "audio_bytes": 256752,
+  "browser_media_active_before": true,
+  "media_paused_by_task": true,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": true,
+  "synthesis_duration_seconds": 5.01,
+  "playback_duration_seconds": 42.97,
+  "total_duration_seconds": 53.64,
+  "end_time": "2026-09-06T12:24:21.949164+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_175349",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T17:53:49.222732+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 401,
+  "text_preview": "Excelente noticia, Luis. La máquina está impecable: sistema nuevo y limpio, la s...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_175349.mp3",
+  "audio_bytes": 164160,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 4.96,
+  "playback_duration_seconds": 28.05,
+  "total_duration_seconds": 33.22,
+  "end_time": "2026-09-06T17:54:22.444877+00:00"
+}

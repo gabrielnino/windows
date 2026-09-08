@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_123558",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:35:58.820024+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 1150,
+  "text_preview": "Luis, aquí está mi reporte Consigliere de la situación actual. En el terreno téc...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_123558.mp3",
+  "audio_bytes": 451296,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 10.9,
+  "playback_duration_seconds": 75.49,
+  "total_duration_seconds": 86.64,
+  "end_time": "2026-09-06T12:37:25.462580+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_130157",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T13:01:57.733169+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 986,
+  "text_preview": "Luis, respira y sigue caminando tranquilo. Ya te resolví por completo la misión ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_130157.mp3",
+  "audio_bytes": 406800,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 9.82,
+  "playback_duration_seconds": 68.06,
+  "total_duration_seconds": 78.1,
+  "end_time": "2026-09-06T13:03:15.835352+00:00"
+}

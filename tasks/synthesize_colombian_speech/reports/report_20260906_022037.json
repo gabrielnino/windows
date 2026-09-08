@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_022037",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:20:37.405153+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 255,
+  "text_preview": "Fase uno completada exitosamente. Se procesaron las veintidós consultas y se des...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_022037.mp3",
+  "audio_bytes": 100224,
+  "synthesis_duration_seconds": 4.28,
+  "playback_duration_seconds": 17.17,
+  "total_duration_seconds": 21.46,
+  "end_time": "2026-09-06T02:20:58.864931+00:00"
+}

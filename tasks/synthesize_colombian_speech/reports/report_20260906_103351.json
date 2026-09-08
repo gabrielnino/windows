@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_103351",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T10:33:51.605735+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 396,
+  "text_preview": "Análisis del Consigliere en curso. Tienes toda la razón, Don Luis: hubo un exces...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_103351.mp3",
+  "audio_bytes": 154368,
+  "browser_media_active_before": true,
+  "media_paused_by_task": true,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": true,
+  "synthesis_duration_seconds": 5.28,
+  "playback_duration_seconds": 25.84,
+  "total_duration_seconds": 36.66,
+  "end_time": "2026-09-06T10:34:28.268452+00:00"
+}

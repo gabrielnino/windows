@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_124709",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:47:09.155125+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 497,
+  "text_preview": "Luis, acabo de crear su nuevo repositorio privado en GitHub con el nombre Salo, ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_124709.mp3",
+  "audio_bytes": 194112,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 3.29,
+  "playback_duration_seconds": 32.71,
+  "total_duration_seconds": 36.21,
+  "end_time": "2026-09-06T12:47:45.362512+00:00"
+}

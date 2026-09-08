@@ -1,0 +1,12 @@
+{
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "voice_locale": "es-CO",
+  "voice_description": "Voz neuronal femenina en español con acento colombiano (Salomé)",
+  "rate": "+0%",
+  "volume": "+0%",
+  "pitch": "+0Hz",
+  "default_text": "¡Hola! ¿Cómo estás? Esta es una prueba de voz sintética colombiana.",
+  "auto_pause_browser_media": true,
+  "resume_delay_seconds": 5.0
+}

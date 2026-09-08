@@ -1,0 +1,17 @@
+{
+  "task_name": "voice_trigger_angel_transcription",
+  "timestamp": "20260906_023542",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:35:42.507574+00:00",
+  "dry_run": true,
+  "wake_word": "angel",
+  "wake_word_detected": false,
+  "listen_duration_seconds": 0.0,
+  "recorded_audio_seconds": 0.0,
+  "audio_artifact": null,
+  "transcript_text": null,
+  "words_transcribed": 0,
+  "segments_count": 0,
+  "total_duration_seconds": 0.09,
+  "end_time": "2026-09-06T02:35:42.593274+00:00"
+}

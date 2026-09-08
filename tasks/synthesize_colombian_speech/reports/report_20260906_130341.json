@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_130341",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T13:03:41.916147+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 262,
+  "text_preview": "Luis, el texto de Skool te lo dejé guardado en tu repositorio, en la carpeta doc...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_130341.mp3",
+  "audio_bytes": 100944,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 3.24,
+  "playback_duration_seconds": 17.53,
+  "total_duration_seconds": 20.98,
+  "end_time": "2026-09-06T13:04:02.894883+00:00"
+}

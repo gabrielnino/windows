@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_195057",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T19:50:57.690157+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 410,
+  "text_preview": "Patrón, el oráculo de veintidós consultas ha concluido con éxito rotundo. Raspam...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_195057.mp3",
+  "audio_bytes": 159408,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 3.52,
+  "playback_duration_seconds": 27.31,
+  "total_duration_seconds": 31.03,
+  "end_time": "2026-09-06T19:51:28.719484+00:00"
+}

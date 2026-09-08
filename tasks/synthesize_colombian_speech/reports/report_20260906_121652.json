@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_121652",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:16:52.475632+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 1107,
+  "text_preview": "Tiene toda la razón: el texto de la línea sesenta y cuatro no corresponde al ava...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_121652.mp3",
+  "audio_bytes": 407088,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 5.01,
+  "playback_duration_seconds": 68.26,
+  "total_duration_seconds": 73.47,
+  "end_time": "2026-09-06T12:18:05.940693+00:00"
+}

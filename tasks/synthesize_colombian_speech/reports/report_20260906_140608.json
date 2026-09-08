@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_140608",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T14:06:08.923646+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 622,
+  "text_preview": "Luis, vi tu pantalla en Skool, ¡te quedó impecable el post con la encuesta! Para...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_140608.mp3",
+  "audio_bytes": 246672,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 4.81,
+  "playback_duration_seconds": 41.45,
+  "total_duration_seconds": 46.5,
+  "end_time": "2026-09-06T14:06:55.422391+00:00"
+}

@@ -5,6 +5,7 @@ tasks/**/artifacts/*.DAT
 tasks/**/artifacts/*.zip
 tasks/**/artifacts/*.7z
 tasks/**/artifacts/*.wav
+tasks/**/artifacts/*.mp3
 tasks/**/artifacts/Realtek_Extracted/
 tasks/**/artifacts/ISST_Extracted/
 

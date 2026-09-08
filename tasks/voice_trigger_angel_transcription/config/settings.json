@@ -1,0 +1,13 @@
+{
+  "wake_word": "angel",
+  "wake_word_language": "en",
+  "whisper_model": "base",
+  "transcription_language": null,
+  "sample_rate": 16000,
+  "vad_energy_threshold": 0.012,
+  "sliding_window_seconds": 2.5,
+  "silence_timeout_seconds": 2.0,
+  "max_speech_record_seconds": 15.0,
+  "listen_timeout_seconds": 0,
+  "audio_device_index": null
+}

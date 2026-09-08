@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_034554",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T03:45:54.448624+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 216,
+  "text_preview": "Reportes periódicos desconectados. El servidor continuará ejecutando la fase de ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_034554.mp3",
+  "audio_bytes": 86832,
+  "browser_media_active_before": true,
+  "media_paused_by_task": true,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": true,
+  "synthesis_duration_seconds": 3.74,
+  "playback_duration_seconds": 14.57,
+  "total_duration_seconds": 23.86,
+  "end_time": "2026-09-06T03:46:18.312797+00:00"
+}

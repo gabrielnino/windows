@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_142132",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T14:21:32.981428+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 784,
+  "text_preview": "Luis, claro que podemos hacerlo y te tengo una sorpresa: no solo estructuramos l...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_142132.mp3",
+  "audio_bytes": 298368,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 7.97,
+  "playback_duration_seconds": 50.17,
+  "total_duration_seconds": 58.35,
+  "end_time": "2026-09-06T14:22:31.327084+00:00"
+}

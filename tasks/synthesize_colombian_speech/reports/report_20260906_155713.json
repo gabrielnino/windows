@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_155713",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T15:57:13.327250+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 417,
+  "text_preview": "Luis, ya tienes listo el plan de implementación para Ghost Oracle. Diseñé el orq...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_155713.mp3",
+  "audio_bytes": 168336,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 7.75,
+  "playback_duration_seconds": 28.47,
+  "total_duration_seconds": 36.42,
+  "end_time": "2026-09-06T15:57:49.744866+00:00"
+}

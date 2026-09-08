@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_021647",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:16:47.264934+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 206,
+  "text_preview": "Iniciando la búsqueda intensa con veintidós consultas en inglés. Desplegando el ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_021647.mp3",
+  "audio_bytes": 84240,
+  "synthesis_duration_seconds": 2.0,
+  "playback_duration_seconds": 14.6,
+  "total_duration_seconds": 16.6,
+  "end_time": "2026-09-06T02:17:03.868861+00:00"
+}

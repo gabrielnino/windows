@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_022131",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:21:31.159366+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 371,
+  "text_preview": "Fase dos en pleno desarrollo. El extractor de outliers está recorriendo los dosc...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_022131.mp3",
+  "audio_bytes": 143856,
+  "synthesis_duration_seconds": 3.83,
+  "playback_duration_seconds": 24.35,
+  "total_duration_seconds": 28.19,
+  "end_time": "2026-09-06T02:21:59.344418+00:00"
+}

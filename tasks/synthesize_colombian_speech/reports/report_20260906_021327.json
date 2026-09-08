@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_021327",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:13:27.958850+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 15,
+  "text_preview": "hola como estas",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_021327.mp3",
+  "audio_bytes": 11952,
+  "synthesis_duration_seconds": 1.25,
+  "playback_duration_seconds": 2.65,
+  "total_duration_seconds": 3.9,
+  "end_time": "2026-09-06T02:13:31.858698+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_144240",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T14:42:40.900072+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 648,
+  "text_preview": "Luis, tienes toda la razón del mundo. Me adelanté por acelerada queriéndote deja...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_144240.mp3",
+  "audio_bytes": 262368,
+  "browser_media_active_before": true,
+  "media_paused_by_task": true,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": true,
+  "synthesis_duration_seconds": 7.58,
+  "playback_duration_seconds": 43.83,
+  "total_duration_seconds": 56.93,
+  "end_time": "2026-09-06T14:43:37.833659+00:00"
+}

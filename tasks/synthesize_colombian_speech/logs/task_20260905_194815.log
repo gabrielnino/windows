@@ -1,0 +1,4 @@
+[2026-09-05 19:48:15] [INFO] Starting task 'synthesize_colombian_speech'...
+[2026-09-05 19:48:15] [INFO] Invoking Python engine: python F:\windows\tasks\synthesize_colombian_speech\run.py --dry-run
+[2026-09-05 19:48:15] [INFO] Speech synthesis and playback completed successfully!
+[2026-09-05 19:48:15] [INFO] Duration: 0.01s | Audio Size: 0 bytes

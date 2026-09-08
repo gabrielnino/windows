@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_152949",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T15:29:49.782320+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 799,
+  "text_preview": "Luis, qué pregunta tan profunda y madura. La respuesta es no, no están tallados ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_152949.mp3",
+  "audio_bytes": 329040,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 5.03,
+  "playback_duration_seconds": 55.29,
+  "total_duration_seconds": 60.57,
+  "end_time": "2026-09-06T15:30:50.350296+00:00"
+}

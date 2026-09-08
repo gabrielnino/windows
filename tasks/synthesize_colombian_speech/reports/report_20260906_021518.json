@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_021518",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:15:18.077190+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 462,
+  "text_preview": "Totalmente claro. A partir de este momento te reportaré cada avance por voz. Par...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_021518.mp3",
+  "audio_bytes": 198864,
+  "synthesis_duration_seconds": 5.61,
+  "playback_duration_seconds": 33.34,
+  "total_duration_seconds": 38.95,
+  "end_time": "2026-09-06T02:15:57.027840+00:00"
+}

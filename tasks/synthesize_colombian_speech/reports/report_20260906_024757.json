@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_024757",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:47:57.663084+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 289,
+  "text_preview": "Reporte de estado en vivo. El proceso avanza a gran ritmo en el servidor: ya hem...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_024757.mp3",
+  "audio_bytes": 134208,
+  "synthesis_duration_seconds": 2.23,
+  "playback_duration_seconds": 22.47,
+  "total_duration_seconds": 24.71,
+  "end_time": "2026-09-06T02:48:22.374191+00:00"
+}

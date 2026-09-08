@@ -1,0 +1,7 @@
+[2026-09-05 19:48:15] [INFO] [Step 1/4] Validating input parameters and audio configuration...
+[2026-09-05 19:48:15] [INFO] Target Voice: es-CO-SalomeNeural (Colombian Female)
+[2026-09-05 19:48:15] [INFO] Input Text: "¡Hola! ¿Cómo estás? Esta es una prueba de voz sintética colombiana." (67 characters)
+[2026-09-05 19:48:15] [INFO] [DRY RUN] Checking YouTube browser detection in simulation mode...
+[2026-09-05 19:48:15] [INFO] [DRY RUN] Detected YouTube in thorium.exe: "(1) CONTRATÉ los SERVICIOS MÁS RAROS DE AIRBNB | ¿Vale la Pena? - YouTube - Thorium"
+[2026-09-05 19:48:15] [INFO] [DRY RUN] Skipping actual synthesis and playback.
+[2026-09-05 19:48:15] [INFO] Execution finished with status: SUCCESS. Report saved to: F:\windows\tasks\synthesize_colombian_speech\reports\report_20260906_024815.json

@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_194229",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T19:42:29.570130+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 425,
+  "text_preview": "Luis, jefe: he preparado el plan de implementación completo para las 22 consulta...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_194229.mp3",
+  "audio_bytes": 163728,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 2.5,
+  "playback_duration_seconds": 27.69,
+  "total_duration_seconds": 30.42,
+  "end_time": "2026-09-06T19:42:59.993053+00:00"
+}

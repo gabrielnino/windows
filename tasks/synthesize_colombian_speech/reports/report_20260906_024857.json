@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_024857",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:48:57.011013+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 69,
+  "text_preview": "Prueba final de sincronizacion con el navegador completada con exito.",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_024857.mp3",
+  "audio_bytes": 29376,
+  "youtube_detected": true,
+  "youtube_window_title": "(1) CONTRATÉ los SERVICIOS MÁS RAROS DE AIRBNB | ¿Vale la Pena? - YouTube - Thorium",
+  "youtube_paused": true,
+  "youtube_resumed": true,
+  "synthesis_duration_seconds": 2.23,
+  "playback_duration_seconds": 5.01,
+  "total_duration_seconds": 10.75,
+  "end_time": "2026-09-06T02:49:07.760325+00:00"
+}

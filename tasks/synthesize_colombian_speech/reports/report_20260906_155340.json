@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_155340",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T15:53:40.547739+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 658,
+  "text_preview": "Luis, tenemos absolutamente todo para reinstalarlo en cinco minutos. No solo la ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_155340.mp3",
+  "audio_bytes": 266976,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 5.14,
+  "playback_duration_seconds": 44.89,
+  "total_duration_seconds": 50.24,
+  "end_time": "2026-09-06T15:54:30.791031+00:00"
+}

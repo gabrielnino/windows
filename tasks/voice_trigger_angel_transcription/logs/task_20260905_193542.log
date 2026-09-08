@@ -1,0 +1,3 @@
+[2026-09-05 19:35:42] [INFO] Starting task 'voice_trigger_angel_transcription'...
+[2026-09-05 19:35:42] [INFO] Invoking Python engine: python F:\windows\tasks\voice_trigger_angel_transcription\run.py --dry-run
+[2026-09-05 19:35:42] [INFO] Task execution finished with status: SUCCESS

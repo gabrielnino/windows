@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_024815",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:48:15.423682+00:00",
+  "dry_run": true,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 67,
+  "text_preview": "¡Hola! ¿Cómo estás? Esta es una prueba de voz sintética colombiana.",
+  "audio_artifact": null,
+  "audio_bytes": 0,
+  "youtube_detected": true,
+  "youtube_window_title": "(1) CONTRATÉ los SERVICIOS MÁS RAROS DE AIRBNB | ¿Vale la Pena? - YouTube - Thorium",
+  "youtube_paused": false,
+  "youtube_resumed": false,
+  "synthesis_duration_seconds": 0.0,
+  "playback_duration_seconds": 0.0,
+  "total_duration_seconds": 0.01,
+  "end_time": "2026-09-06T02:48:15.434964+00:00"
+}

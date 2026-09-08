@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_132337",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T13:23:37.631439+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 886,
+  "text_preview": "Luis, qué maravilla de lección esta del Día 5. La analogía de la polilla y el bo...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_132337.mp3",
+  "audio_bytes": 356976,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 6.78,
+  "playback_duration_seconds": 59.95,
+  "total_duration_seconds": 66.94,
+  "end_time": "2026-09-06T13:24:44.575262+00:00"
+}

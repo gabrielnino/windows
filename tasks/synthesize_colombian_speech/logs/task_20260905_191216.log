@@ -1,0 +1,5 @@
+[2026-09-05 19:12:16] [INFO] Starting task 'synthesize_colombian_speech'...
+[2026-09-05 19:12:16] [INFO] Invoking Python engine: python F:\windows\tasks\synthesize_colombian_speech\run.py --text Hola, esta es una prueba de sintesis neuronal con acento colombiano. --no-play
+[2026-09-05 19:12:19] [INFO] Speech synthesis and playback completed successfully!
+[2026-09-05 19:12:19] [INFO] Duration: 1.68s | Audio Size: 29952 bytes
+[2026-09-05 19:12:19] [INFO] Artifact: F:\windows\tasks\synthesize_colombian_speech\artifacts\speech_es_CO_20260906_021217.mp3

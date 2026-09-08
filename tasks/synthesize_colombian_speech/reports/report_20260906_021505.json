@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_021505",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:15:05.849101+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 89,
+  "text_preview": "Entendido. A partir de ahora te responderé cada parte del proceso por aquí con v...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_021505.mp3",
+  "audio_bytes": 39888,
+  "synthesis_duration_seconds": 1.68,
+  "playback_duration_seconds": 6.98,
+  "total_duration_seconds": 8.66,
+  "end_time": "2026-09-06T02:15:14.508326+00:00"
+}

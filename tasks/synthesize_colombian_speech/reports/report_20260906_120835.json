@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_120835",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:08:35.317318+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 391,
+  "text_preview": "Auditoría forense completada con éxito en el servidor. Hemos desarmado la arquit...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_120835.mp3",
+  "audio_bytes": 147600,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 2.68,
+  "playback_duration_seconds": 25.07,
+  "total_duration_seconds": 27.96,
+  "end_time": "2026-09-06T12:09:03.277401+00:00"
+}

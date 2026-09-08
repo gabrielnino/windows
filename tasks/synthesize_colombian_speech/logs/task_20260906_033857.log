@@ -1,0 +1,8 @@
+[2026-09-05 20:38:57] [INFO] [Step 1/4] Validating parameters and audio configuration...
+[2026-09-05 20:38:57] [INFO] Target Voice: es-CO-SalomeNeural (Colombian Female)
+[2026-09-05 20:38:57] [INFO] Input Text: "¡Hola! ¿Cómo estás? Esta es una prueba de voz sintética colombiana." (67 characters)
+[2026-09-05 20:38:57] [INFO] [DRY RUN] Inspecting active browser media in simulation mode...
+[2026-09-05 20:38:57] [INFO] [MEDIA] Browsers and media sessions are quiet/paused. No pause action needed.
+[2026-09-05 20:38:57] [INFO] [DRY RUN] Active media state: was_p=False, detail='QUIET'
+[2026-09-05 20:38:57] [INFO] [DRY RUN] Skipping actual synthesis and playback.
+[2026-09-05 20:38:57] [INFO] Execution finished with status: SUCCESS. Report saved to: F:\windows\tasks\synthesize_colombian_speech\reports\report_20260906_033857.json

@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_155154",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T15:51:54.735005+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 701,
+  "text_preview": "Luis, respira hondo y camina totalmente tranquilo: no tenemos absolutamente nada...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_155154.mp3",
+  "audio_bytes": 289728,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 7.06,
+  "playback_duration_seconds": 48.61,
+  "total_duration_seconds": 55.87,
+  "end_time": "2026-09-06T15:52:50.601514+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_023010",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:30:10.124858+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 363,
+  "text_preview": "Reporte de estado en vivo. El agente en el servidor acaba de superar los cien ou...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_023010.mp3",
+  "audio_bytes": 145584,
+  "synthesis_duration_seconds": 4.47,
+  "playback_duration_seconds": 24.92,
+  "total_duration_seconds": 29.39,
+  "end_time": "2026-09-06T02:30:39.519691+00:00"
+}

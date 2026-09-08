@@ -1,0 +1,4 @@
+[2026-09-05 19:12:08] [INFO] Starting task 'synthesize_colombian_speech'...
+[2026-09-05 19:12:08] [INFO] Invoking Python engine: python F:\windows\tasks\synthesize_colombian_speech\run.py --text Hola, esta es una prueba de sintesis neuronal con acento colombiano. --no-play
+[2026-09-05 19:12:09] [ERROR] Execution failed: Python task process exited with non-zero exit code: 2
+[2026-09-05 19:12:09] [WARN] Initiating rollback sequence: Python task process exited with non-zero exit code: 2

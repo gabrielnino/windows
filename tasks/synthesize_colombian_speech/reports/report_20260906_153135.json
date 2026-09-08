@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_153135",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T15:31:35.205817+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 756,
+  "text_preview": "Luis, diste en el clavo con absoluta precisión quirúrgica. Esa es exactamente la...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_153135.mp3",
+  "audio_bytes": 285984,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 4.4,
+  "playback_duration_seconds": 48.3,
+  "total_duration_seconds": 52.9,
+  "end_time": "2026-09-06T15:32:28.108713+00:00"
+}

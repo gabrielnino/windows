@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_123051",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:30:51.129282+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 538,
+  "text_preview": "Toda la documentación técnica del sistema ha sido actualizada y certificada. He ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_123051.mp3",
+  "audio_bytes": 205344,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 3.33,
+  "playback_duration_seconds": 34.88,
+  "total_duration_seconds": 38.48,
+  "end_time": "2026-09-06T12:31:29.613276+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_120110",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:01:10.884907+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 294,
+  "text_preview": "He dejado registradas las cuatro preguntas estratégicas en el plan de implementa...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_120110.mp3",
+  "audio_bytes": 109152,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 2.25,
+  "playback_duration_seconds": 18.78,
+  "total_duration_seconds": 21.23,
+  "end_time": "2026-09-06T12:01:32.113853+00:00"
+}

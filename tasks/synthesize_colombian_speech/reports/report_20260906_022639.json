@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_022639",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:26:39.787850+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 430,
+  "text_preview": "Estado del sistema Hunter. La fase uno de búsqueda finalizó con éxito total: se ...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_022639.mp3",
+  "audio_bytes": 184608,
+  "synthesis_duration_seconds": 3.57,
+  "playback_duration_seconds": 30.91,
+  "total_duration_seconds": 34.48,
+  "end_time": "2026-09-06T02:27:14.271257+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_020707",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T02:12:01.579556+00:00",
+  "dry_run": true,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 67,
+  "text_preview": "¡Hola! ¿Cómo estás? Esta es una prueba de voz sintética colombiana.",
+  "audio_artifact": null,
+  "audio_bytes": 0,
+  "synthesis_duration_seconds": 0.0,
+  "playback_duration_seconds": 0.0,
+  "total_duration_seconds": 0.0,
+  "end_time": "2026-09-06T02:12:01.581032+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_125026",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:50:26.245787+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 1375,
+  "text_preview": "Luis, perdóneme, aquí voy con voz para que no tenga que mirar la pantalla mientr...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_125026.mp3",
+  "audio_bytes": 536688,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 7.04,
+  "playback_duration_seconds": 89.93,
+  "total_duration_seconds": 97.17,
+  "end_time": "2026-09-06T12:52:03.411615+00:00"
+}

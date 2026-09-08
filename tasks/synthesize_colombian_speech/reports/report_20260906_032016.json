@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_032016",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T03:20:16.197279+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 326,
+  "text_preview": "Reporte de las ocho y veinte. Continuamos avanzando a paso firme en el servidor,...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_032016.mp3",
+  "audio_bytes": 151776,
+  "youtube_detected": false,
+  "youtube_window_title": null,
+  "youtube_paused": false,
+  "youtube_resumed": false,
+  "synthesis_duration_seconds": 2.66,
+  "playback_duration_seconds": 25.97,
+  "total_duration_seconds": 28.64,
+  "end_time": "2026-09-06T03:20:44.835792+00:00"
+}

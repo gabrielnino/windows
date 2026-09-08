@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_125340",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T12:53:40.521629+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 1174,
+  "text_preview": "Luis, escuche esta revelación que acabamos de descubrir analizando los seis vide...",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_125340.mp3",
+  "audio_bytes": 432864,
+  "browser_media_active_before": false,
+  "media_paused_by_task": false,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": false,
+  "synthesis_duration_seconds": 6.6,
+  "playback_duration_seconds": 72.8,
+  "total_duration_seconds": 79.6,
+  "end_time": "2026-09-06T12:55:00.124648+00:00"
+}

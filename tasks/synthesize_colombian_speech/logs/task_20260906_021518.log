@@ -1,0 +1,9 @@
+[2026-09-05 19:15:18] [INFO] [Step 1/3] Validating input parameters and audio configuration...
+[2026-09-05 19:15:18] [INFO] Target Voice: es-CO-SalomeNeural (Colombian Female)
+[2026-09-05 19:15:18] [INFO] Input Text: "Totalmente claro. A partir de este momento te reportaré cada avance por voz. Par..." (462 characters)
+[2026-09-05 19:15:18] [INFO] [Step 2/3] Synthesizing speech with high-fidelity neural model...
+[2026-09-05 19:15:23] [INFO] Synthesis successful. Generated 198864 bytes in 5.61s.
+[2026-09-05 19:15:23] [INFO] Audio saved to: F:\windows\tasks\synthesize_colombian_speech\artifacts\speech_es_CO_20260906_021518.mp3
+[2026-09-05 19:15:23] [INFO] [Step 3/3] Playing audio through speakers...
+[2026-09-05 19:15:57] [INFO] Audio playback completed (33.34s).
+[2026-09-05 19:15:57] [INFO] Execution finished with status: SUCCESS. Report saved to: F:\windows\tasks\synthesize_colombian_speech\reports\report_20260906_021518.json

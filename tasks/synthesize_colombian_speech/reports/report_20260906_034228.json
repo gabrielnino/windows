@@ -1,0 +1,22 @@
+{
+  "task_name": "synthesize_colombian_speech",
+  "timestamp": "20260906_034228",
+  "status": "SUCCESS",
+  "start_time": "2026-09-06T03:42:28.131362+00:00",
+  "dry_run": false,
+  "no_play": false,
+  "voice": "es-CO-SalomeNeural",
+  "voice_gender": "Female",
+  "text_length_chars": 10,
+  "text_preview": "hola mundo",
+  "audio_artifact": "F:\\windows\\tasks\\synthesize_colombian_speech\\artifacts\\speech_es_CO_20260906_034228.mp3",
+  "audio_bytes": 10224,
+  "browser_media_active_before": true,
+  "media_paused_by_task": true,
+  "resume_delay_seconds": 5.0,
+  "media_resumed_by_task": true,
+  "synthesis_duration_seconds": 1.25,
+  "playback_duration_seconds": 1.83,
+  "total_duration_seconds": 8.65,
+  "end_time": "2026-09-06T03:42:36.781696+00:00"
+}
