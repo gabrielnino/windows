@@ -1,0 +1,8 @@
+{
+  "name": "Aurora Console",
+  "guid": "{b9fe6222-6bda-47df-a475-27596f593331}",
+  "font": "JetBrainsMonoNL NFM",
+  "fontSize": 16,
+  "powershellVersion": "7.6.6",
+  "poshVersion": "31.2.1"
+}

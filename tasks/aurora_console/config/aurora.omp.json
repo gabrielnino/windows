@@ -1,0 +1,80 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "version": 4,
+  "final_space": true,
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#001018",
+          "background": "#00BFFF",
+          "template": "  {{ .Path }} ",
+          "options": {
+            "style": "full",
+            "mapped_locations_enabled": false
+          }
+        },
+        {
+          "type": "git",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#101010",
+          "background": "#B6FF00",
+          "background_templates": [
+            "{{ if or (.Working.Changed) (.Staging.Changed) }}#FFAF00{{ end }}"
+          ],
+          "template": "  {{ .HEAD }}{{ if .Working.Changed }} *{{ end }}{{ if .Staging.Changed }} +{{ end }} ",
+          "options": {
+            "fetch_status": true
+          }
+        },
+        {
+          "type": "python",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#101010",
+          "background": "#FFFF00",
+          "template": "  {{ .Full }}{{ if .Venv }} {{ .Venv }}{{ end }} "
+        },
+        {
+          "type": "time",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#FFFFFF",
+          "background": "#005566",
+          "template": "  {{ .CurrentDate | date \"15:04:05\" }} "
+        },
+        {
+          "type": "executiontime",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#FFFFFF",
+          "background": "#675080",
+          "template": "  {{ .FormattedMs }} ",
+          "options": {
+            "threshold": 0
+          }
+        },
+        {
+          "type": "status",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#FFFFFF",
+          "background": "#AA0022",
+          "template": "  {{ .Code }} "
+        },
+        {
+          "type": "text",
+          "style": "plain",
+          "foreground": "#39FF14",
+          "template": " >"
+        }
+      ]
+    }
+  ]
+}
