@@ -1,0 +1,13 @@
+[2026-10-01 03:59:41] [INFO] ==========================================================
+[2026-10-01 03:59:41] [INFO]    PIXEL 8 PRO | VIGILANTE DE CONEXIÓN INALÁMBRICA       
+[2026-10-01 03:59:41] [INFO]    Sincronizador automático de mDNS para RollSync         
+[2026-10-01 03:59:41] [INFO] ==========================================================
+[2026-10-01 03:59:41] [INFO] Modo: UNA SOLA VEZ (--once)
+[2026-10-01 03:59:41] [INFO] Archivo objetivo: F:\RollSync\Pixel-Conexion.json
+[2026-10-01 03:59:41] [INFO] Dispositivo: 3A181FDJG0011R (Pixel 8 Pro)
+[2026-10-01 03:59:41] [INFO] --- Ciclo de comprobación #1 ---
+[2026-10-01 03:59:41] [INFO] [Step 1/5] Verificando disponibilidad de herramientas ADB...
+[2026-10-01 03:59:41] [INFO] [Step 2/5] Buscando Pixel 8 Pro (Serie: 3A181FDJG0011R) vía mDNS...
+[2026-10-01 03:59:42] [INFO] [Step 3/5] Dispositivo confirmado en 192.168.1.103:36013
+[2026-10-01 03:59:42] [INFO] [Step 4/5] Configuración ya sincronizada [192.168.1.103:36013]. No requiere cambios.
+[2026-10-01 03:59:42] [INFO] [Step 5/5] Informe KPI generado en report_20261001_105941.json

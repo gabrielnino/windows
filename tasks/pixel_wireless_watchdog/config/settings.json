@@ -1,0 +1,16 @@
+{
+  "device_serial": "3A181FDJG0011R",
+  "device_name": "Pixel 8 Pro",
+  "target_config_path": "F:\\RollSync\\Pixel-Conexion.json",
+  "check_interval_seconds": 30,
+  "auto_connect_adb": true,
+  "voice_notifications": true,
+  "voice_script_path": "C:\\Users\\luisg\\.gemini\\config\\salome_speak.py",
+  "pin": "8137",
+  "auto_unlock_on_change": true,
+  "ensure_camera_video_mode": true,
+  "mdns_service_type": "_adb-tls-connect._tcp",
+  "default_ip": "192.168.1.103",
+  "default_port": 36013,
+  "log_level": "INFO"
+}
